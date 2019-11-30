@@ -1,0 +1,19 @@
+__AFib__ Atrial Fibrillation.  
+__Ao__ Aorta.  
+__ECG__ __1__ Electrocardiogram. __2__ Electrocardiograph.  
+__EKG__ __1__ Electrocardiogram. __2__ Electrocardiograph.  
+__EP__ Electrophysiology.  
+__EPS__ Electrophysiology study.  
+__FACC__ Fellow of the American College of Cardiologists.  
+__FHRS__ Fellow of the Heart Rhythm Society (Washington, DC).  
+__ICE__ Intracardiac Echocardiography.  
+__LA__ Left Atrium.  
+__LAA__ Left Atrial Appendage.  
+__LCC__ Left Coronary Cusp.  
+__LV__ Left Ventricle.  
+__MV__ Mitral Valve.  
+__NCC__ Non-Coronary Cusp.  
+__RA__ Right Atrium.  
+__RAA__ Right Atrial Appendage.  
+__RCC__ Right Coronary Cusp.  
+__RV__ Right Ventricle.  
