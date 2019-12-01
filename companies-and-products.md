@@ -1,0 +1,2 @@
+- __Access Point Technologies EP__ [LinkedIn](https://www.linkedin.com/mwlite/company/access-point-technologies-ep)  
+- __Stereotaxis__ [LinkedIn](https://www.linkedin.com/mwlite/company/stereotaxis)  
