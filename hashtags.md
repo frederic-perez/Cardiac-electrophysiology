@@ -5,5 +5,7 @@ __#AtrialFibrillation__ [LinkedIn](https://www.linkedin.com/feed/hashtag/atrialf
 __#CARTO3__ [LinkedIn](https://www.linkedin.com/feed/hashtag/carto3) · [Twitter](https://twitter.com/search?q=%23carto3)  
 __#Electrophysiology__ [LinkedIn](https://www.linkedin.com/feed/hashtag/electrophysiology) · [Twitter](https://twitter.com/search?q=%23electrophysiology)  
 __#EPeeps__ [LinkedIn](https://www.linkedin.com/feed/hashtag/epeeps) · [Twitter](https://twitter.com/search?q=%23epeeps)  
+__#GlobalEP__ [LinkedIn](https://www.linkedin.com/feed/hashtag/globalep) · [Twitter](https://twitter.com/search?q=%23globalep)  
 __#HDColoring__ [LinkedIn](https://www.linkedin.com/feed/hashtag/hdcoloring) · [Twitter](https://twitter.com/search?q=%23hdcoloring)  
 __#RoboticEP__ [LinkedIn](https://www.linkedin.com/feed/hashtag/roboticep) · [Twitter](https://twitter.com/search?q=%23roboticep)  
+__#VentricularTachycardia__ [LinkedIn](https://www.linkedin.com/feed/hashtag/ventriculartachycardia) · [Twitter](https://twitter.com/search?q=%23ventriculartachycardia)  
