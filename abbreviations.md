@@ -14,8 +14,10 @@ __LCC__ Left Coronary Cusp
 __LV__ Left Ventricle  
 __MV__ Mitral Valve  
 __NCC__ Non-Coronary Cusp  
+__PVI__ Pulmonary vein isolation  
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
 __RCC__ Right Coronary Cusp  
 __RV__ Right Ventricle  
-__SA node__ Sinoatrial node   [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
+__SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
+__WPW syndrome__ Wolfe-Parkinson-White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
