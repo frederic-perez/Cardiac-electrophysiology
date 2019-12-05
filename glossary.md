@@ -1,20 +1,32 @@
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus)  
+__ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
+__ablation__ _n_ the act or process of ablating.  
+__angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
 __atrial flutter__ _n_ [[Encyclopedia article by TheFreeDictionary]](https://encyclopedia.thefreedictionary.com/atrial+flutter)  
 __atrioventricular nodal reentry tachycardia__ _n_  
 __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per minute in an adult human. Compare _tachycardia_  
+__cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
 __cardioversion__ _n_  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __catheter ablation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
+__defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia  
 __electrophysiology__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Electrophysiology) The branch of medical science concerned with the electrical activity associated with bodily processes.  
-__implantable cardioverter -defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
+__embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other foreign matter that gets stuck while traveling through the bloodstream. Cerebral embolism occurs when a blood clot from elsewhere in the circulatory system breaks free. If it becomes lodged in an artery supplying the brain, either in the brain or in the neck, it can cause a stroke. The most common cause of cerebral embolism is atrial fibrillation. In atrial fibrillation, the upper chambers (atria) of the heart beat weakly and rapidly, instead of slowly and steadily. Blood within the atria is not completely emptied. This stagnant blood may form clots within the atria, which can then break off and enter the circulation. Atrial fibrillation is a factor in about 15% of all strokes. The risk of a stroke from atrial fibrillation can be dramatically reduced with daily use of anticoagulant medication.  
+__implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
+__infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruction of local blood supply, as by a thrombus or embolus. _Syn_ infarction  
+__ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
+__palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
+__placebo procedure__ _n_  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
+__sham procedure__ _n_  
 __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node) A small mass of specialized cardiac muscle fibers located in the posterior wall of the right atrium of the heart that acts as a pacemaker by generating at regular intervals the electric impulses of the heartbeat. _Syn_ SA node, sinoauricular node, sinus node, cardiac pacemaker, pacemaker  
 __sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
+__stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
 __substrate__ _n_  
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
 __transseptal__ _adj_ Extending or performed through or across a septum.  
