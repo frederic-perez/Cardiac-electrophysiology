@@ -22,6 +22,7 @@ __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a b
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
 __placebo procedure__ _n_  
+__PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
 __sham procedure__ _n_  
 __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node) A small mass of specialized cardiac muscle fibers located in the posterior wall of the right atrium of the heart that acts as a pacemaker by generating at regular intervals the electric impulses of the heartbeat. _Syn_ SA node, sinoauricular node, sinus node, cardiac pacemaker, pacemaker  
