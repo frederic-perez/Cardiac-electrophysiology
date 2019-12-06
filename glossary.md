@@ -5,7 +5,9 @@ __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest 
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
 __atrial flutter__ _n_ [[Encyclopedia article by TheFreeDictionary]](https://encyclopedia.thefreedictionary.com/atrial+flutter)  
 __atrioventricular nodal reentry tachycardia__ _n_  
+__atrioventricular node__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Atrioventricular_node)  
 __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per minute in an adult human. Compare _tachycardia_  
+__bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
 __cardioversion__ _n_  
