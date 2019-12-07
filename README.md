@@ -1,7 +1,7 @@
 # [Cardiac-electrophysiology](https://en.wikipedia.org/wiki/Cardiac_electrophysiology)
 
 <p align="center">
-  <img src="Gray501.png?raw=true" alt="Gray plate 501 from the Wikipedia"/>
+  <img src="Gray501.png?raw=true" width="250" height="302"  alt="Gray plate 501 from the Wikipedia"/>
 </p>
 
 Learning about elucidating, diagnosing, and treating the electrical activities of the heart.
