@@ -1,1 +1,1 @@
-- Dr John Mandrola [[@drjohnm]](https://twitter.com/drjohnm)
+- Dr John Mandrola [[Website]](https://www.drjohnm.org/) [[Twitter]](https://twitter.com/drjohnm)
