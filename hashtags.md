@@ -8,6 +8,7 @@ __#Electrophysiology__ [LinkedIn](https://www.linkedin.com/feed/hashtag/electrop
 __#EPeeps__ [LinkedIn](https://www.linkedin.com/feed/hashtag/epeeps) · [Twitter](https://twitter.com/search?q=%23epeeps)  
 __#GlobalEP__ [LinkedIn](https://www.linkedin.com/feed/hashtag/globalep) · [Twitter](https://twitter.com/search?q=%23globalep)  
 __#HDColoring__ [LinkedIn](https://www.linkedin.com/feed/hashtag/hdcoloring) · [Twitter](https://twitter.com/search?q=%23hdcoloring)  
+__#HDGrid__ [LinkedIn](https://www.linkedin.com/feed/hashtag/hdgrid) · [Twitter](https://twitter.com/search?q=%23hdgrid)  
 __#ICEEyes__ [LinkedIn](https://www.linkedin.com/feed/hashtag/iceeyes) · [Twitter](https://twitter.com/search?q=%23iceeyes)  
 __#Nofluoro__ [LinkedIn](https://www.linkedin.com/feed/hashtag/nofluoro) · [Twitter](https://twitter.com/search?q=%23nofluoro)  
 __#RoboticEP__ [LinkedIn](https://www.linkedin.com/feed/hashtag/roboticep) · [Twitter](https://twitter.com/search?q=%23roboticep)  
