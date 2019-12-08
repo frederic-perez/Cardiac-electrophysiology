@@ -1,3 +1,4 @@
+__aortic isthmus__ _n_  
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus)  
 __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ the act or process of ablating.  
@@ -21,6 +22,7 @@ __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other f
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruction of local blood supply, as by a thrombus or embolus. _Syn_ infarction  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
+__isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
 __placebo procedure__ _n_  
