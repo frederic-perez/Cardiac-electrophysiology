@@ -1,2 +1,3 @@
 - Alila Medical Media > [Cardiology](https://www.youtube.com/playlist?list=PLJIs8ZcKXHUwdmQl1hxgtiTrKS1mOoVSi) playlist
+- AnatomyZone's [Cardiovascular System](https://www.youtube.com/playlist?list=PL2989E2215C92CE5E) playlist, with nice 3D representations
 - [Basic Electrophysiology videos by 32bravo711](https://www.google.com/search?q=site%3Ayoutube.com+Basic+Electrophysiology+32bravo711)
