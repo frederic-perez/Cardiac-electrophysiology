@@ -1,4 +1,4 @@
-__AFib__ Atrial Fibrillation  
+__AF__, __AFib__ Atrial Fibrillation  
 __ACC__ American College of Cardiology  
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator  
@@ -24,4 +24,5 @@ __RCC__ Right Coronary Cusp
 __RV__ Right Ventricle  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
 __SCAF__ Sub-Clinical Atrial Fibrillation  
+__VF__, __VFib__ Ventricular Fibrillation  
 __WPW syndrome__ Wolfe-Parkinson-White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
