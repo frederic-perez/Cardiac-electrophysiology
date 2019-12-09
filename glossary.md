@@ -4,6 +4,7 @@ __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).
 __ablation__ _n_ the act or process of ablating.  
 __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
+__atrial fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624)  
 __atrial flutter__ _n_ [[Encyclopedia article by TheFreeDictionary]](https://encyclopedia.thefreedictionary.com/atrial+flutter)  
 __atrioventricular nodal reentry tachycardia__ _n_  
 __atrioventricular node__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Atrioventricular_node)  
@@ -11,7 +12,7 @@ __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per 
 __bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
-__cardioversion__ _n_  
+__cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It's also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that's performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that's performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __catheter ablation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
@@ -36,5 +37,6 @@ __stroke__ _n_ The sudden death of brain cells in a localized area due to inadeq
 __substrate__ _n_  
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
 __transseptal__ _adj_ Extending or performed through or across a septum.  
+__ventricular fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523) An often fatal form of arrhythmia characterized by rapid, irregular fibrillar twitching of the ventricles of the heart in place of normal contractions, resulting in a loss of pulse.  
 __ventricular tachycardia__ _n_  
 __Wolff-Parkinson-White syndrome__ _n_  
