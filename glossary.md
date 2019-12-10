@@ -1,5 +1,5 @@
-__aortic isthmus__ _n_  
-__aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus)  
+__aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
+__aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ the act or process of ablating.  
 __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
@@ -20,6 +20,7 @@ __defibrillator__ _n_ An electrical device used to counteract fibrillation of th
 __ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia  
 __electrophysiology__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Electrophysiology) The branch of medical science concerned with the electrical activity associated with bodily processes.  
 __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other foreign matter that gets stuck while traveling through the bloodstream. Cerebral embolism occurs when a blood clot from elsewhere in the circulatory system breaks free. If it becomes lodged in an artery supplying the brain, either in the brain or in the neck, it can cause a stroke. The most common cause of cerebral embolism is atrial fibrillation. In atrial fibrillation, the upper chambers (atria) of the heart beat weakly and rapidly, instead of slowly and steadily. Blood within the atria is not completely emptied. This stagnant blood may form clots within the atria, which can then break off and enter the circulation. Atrial fibrillation is a factor in about 15% of all strokes. The risk of a stroke from atrial fibrillation can be dramatically reduced with daily use of anticoagulant medication.  
+__fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruction of local blood supply, as by a thrombus or embolus. _Syn_ infarction  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
