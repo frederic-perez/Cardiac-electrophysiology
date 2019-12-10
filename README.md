@@ -11,6 +11,7 @@ Information gathered on the topic (sorted alphabetically):
 - [Companies and products](companies-and-products.md)
 - [Glossary](glossary.md)
 - [Hashtags](hashtags.md)
+- [Other organizations](other-organizations.md)
 - [Videos](videos.md)
 
 Other interesting URLs:
