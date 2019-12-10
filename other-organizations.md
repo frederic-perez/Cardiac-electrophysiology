@@ -1,1 +1,2 @@
 - Heart Rhythm Society [[Twitter]](https://twitter.com/HRSonline) [[Website]](https://www.hrsonline.org/)
+- Journal of the American College of Cardiology [[Twitter]](https://twitter.com/JACCJournals) [[Website]](http://www.onlinejacc.org/)
