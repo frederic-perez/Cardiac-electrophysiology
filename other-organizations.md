@@ -1,2 +1,4 @@
+- European Society of Cardiology [[Twitter]](https://twitter.com/escardio)
+- European Society of Cardiology Journals [[Twitter]](https://twitter.com/ESC_Journals) [[Website]](https://t.co/JA2mNhJrg7)
 - Heart Rhythm Society [[Twitter]](https://twitter.com/HRSonline) [[Website]](https://www.hrsonline.org/)
 - Journal of the American College of Cardiology [[Twitter]](https://twitter.com/JACCJournals) [[Website]](http://www.onlinejacc.org/)
