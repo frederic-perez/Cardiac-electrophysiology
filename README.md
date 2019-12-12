@@ -16,7 +16,6 @@ Information gathered on the topic (sorted alphabetically):
 
 Other interesting URLs:
 
-- [Heart (wikipedia entry)](https://en.wikipedia.org/wiki/Heart)
 - [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
 - [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
 - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
