@@ -1,8 +1,8 @@
-__aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
-__aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ the act or process of ablating.  
 __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
+__aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
+__aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
 __atrial fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624)  
 __atrial flutter__ _n_ [[Encyclopedia article by TheFreeDictionary]](https://encyclopedia.thefreedictionary.com/atrial+flutter)  
@@ -13,8 +13,8 @@ __bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
 __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It's also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that's performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that's performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
-__catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __catheter ablation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
+__catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia  
@@ -34,8 +34,8 @@ __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a sur
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
 __sham procedure__ _n_  
 __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node) A small mass of specialized cardiac muscle fibers located in the posterior wall of the right atrium of the heart that acts as a pacemaker by generating at regular intervals the electric impulses of the heartbeat. _Syn_ SA node, sinoauricular node, sinus node, cardiac pacemaker, pacemaker  
-__sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
 __sinus rhythm__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinus_rhythm)  
+__sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
 __stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
 __substrate__ _n_  
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
