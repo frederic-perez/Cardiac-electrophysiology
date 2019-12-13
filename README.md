@@ -9,9 +9,8 @@ Information gathered on the topic (sorted alphabetically):
 - [Abbreviations](abbreviations.md)
 - [Big shots](big-shots.md)
 - Companies and products:
-  - [Navigation](companies-and-products.md)
-  - Others
-
+  - [Navigation](companies-and-products--navigation.md)
+  - [Others](companies-and-products--others.md)
 - [Glossary](glossary.md)
 - [Hashtags](hashtags.md)
 - [Other organizations](other-organizations.md)
