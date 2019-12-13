@@ -22,3 +22,4 @@ Other interesting URLs:
 - [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
 - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
 - [GitHub repos on electrophysiology](https://github.com/topics/electrophysiology)
+- [ClinicalTrials.gov](https://clinicaltrials.gov)
