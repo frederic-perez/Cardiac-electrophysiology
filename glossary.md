@@ -1,6 +1,7 @@
 __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
 __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
+__angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening of a narrowed blood vessel by means of balloon angioplasty.  
 __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
@@ -16,6 +17,7 @@ __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedure
 __catheter ablation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
+__coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, often leading to destruction of heart muscle.  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia  
 __electrophysiology__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Electrophysiology) The branch of medical science concerned with the electrical activity associated with bodily processes.  
@@ -28,10 +30,12 @@ __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruc
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
 __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
+__myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
 __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease, usually recurring periodically.  
 __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal versus permanent AF._  
+__pathophysiology__ _n_ The study of the effects of disease on physiological processes.  
 __placebo procedure__ _n_  
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
 __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a surgical procedure to treat atrial fibrillation.  
