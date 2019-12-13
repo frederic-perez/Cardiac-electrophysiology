@@ -4,6 +4,7 @@ __#AtrialFibrillation__ [LinkedIn](https://www.linkedin.com/feed/hashtag/atrialf
 __#AtrialFlutter__ [LinkedIn](https://www.linkedin.com/feed/hashtag/atrialflutter) · [Twitter](https://twitter.com/search?q=%23atrialflutter)    
 __#CardioEd__ [LinkedIn](https://www.linkedin.com/feed/hashtag/cardioed) · [Twitter](https://twitter.com/search?q=%23cardioed)  
 __#CARTO3__ [LinkedIn](https://www.linkedin.com/feed/hashtag/carto3) · [Twitter](https://twitter.com/search?q=%23carto3)  
+__#CVImaging__ [LinkedIn](https://www.linkedin.com/feed/hashtag/cvimaging) · [Twitter](https://twitter.com/search?q=%23cvimaging)  
 __#Electrophysiology__ [LinkedIn](https://www.linkedin.com/feed/hashtag/electrophysiology) · [Twitter](https://twitter.com/search?q=%23electrophysiology)  
 __#EPeeps__ [LinkedIn](https://www.linkedin.com/feed/hashtag/epeeps) · [Twitter](https://twitter.com/search?q=%23epeeps)  
 __#GlobalEP__ [LinkedIn](https://www.linkedin.com/feed/hashtag/globalep) · [Twitter](https://twitter.com/search?q=%23globalep)  
@@ -17,4 +18,5 @@ __#STEMI__ [LinkedIn](https://www.linkedin.com/feed/hashtag/stemi) · [Twitter](
 __#VentricularTachycardia__ [LinkedIn](https://www.linkedin.com/feed/hashtag/ventriculartachycardia) · [Twitter](https://twitter.com/search?q=%23ventriculartachycardia)  
 __#VFib__ [LinkedIn](https://www.linkedin.com/feed/hashtag/vfib) · [Twitter](https://twitter.com/search?q=%23vfib)  
 __#WaveMapAF__ [LinkedIn](https://www.linkedin.com/feed/hashtag/wavemapaf) · [Twitter](https://twitter.com/search?q=%23wavemapaf)  
+__#WhyCMR__ [LinkedIn](https://www.linkedin.com/feed/hashtag/whycmr) · [Twitter](https://twitter.com/search?q=%23whycmr)  
 __#ZeroFluoro__ [LinkedIn](https://www.linkedin.com/feed/hashtag/zerofluoro) · [Twitter](https://twitter.com/search?q=%23zerofluoro)  
