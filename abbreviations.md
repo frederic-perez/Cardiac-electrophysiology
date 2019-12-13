@@ -5,6 +5,9 @@ __AICD__ Automatic Implantable Cardioverter Defibrillator
 __Ao__ Aorta  
 __AV node__ Atrioventricular node  
 __BZ__ Border zone  
+__CMR__ Cardiac magnetic resonance  
+__EACTS__  European Association for Cardio-Thoracic Surgery  
+__EAM__ Electro-anatomical map  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EP__ Electrophysiology  
@@ -16,6 +19,7 @@ __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedi
 __ICE__ Intracardiac Echocardiography  
 __LA__ Left Atrium  
 __LAA__ Left Atrial Appendage  
+__LAT__ Local activation time  
 __LCC__ Left Coronary Cusp  
 __LGE-CMR__ Late gadolinium enhanced CMR  
 __LV__ Left Ventricle  
