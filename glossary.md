@@ -49,5 +49,5 @@ __substrate__ _n_
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
 __transseptal__ _adj_ Extending or performed through or across a septum.  
 __ventricular fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523) An often fatal form of arrhythmia characterized by rapid, irregular fibrillar twitching of the ventricles of the heart in place of normal contractions, resulting in a loss of pulse.  
-__ventricular tachycardia__ _n_  
-__Wolff-Parkinson-White syndrome__ _n_  
+__ventricular tachycardia__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Ventricular_tachycardia)  
+__Wolff-Parkinson-White syndrome__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome)  
