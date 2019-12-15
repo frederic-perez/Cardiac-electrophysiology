@@ -5,7 +5,7 @@ __AICD__ Automatic Implantable Cardioverter Defibrillator
 __Ao__ Aorta  
 __AV node__ Atrioventricular node  
 __BZ__ Border zone  
-__CMR__ Cardiac magnetic resonance  
+__CMR__ Cardiac/Cardiovascular magnetic resonance  
 __EACTS__  European Association for Cardio-Thoracic Surgery  
 __EAM__ Electro-anatomical map  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
@@ -29,6 +29,7 @@ __MV__ Mitral Valve
 __NCC__ Non-Coronary Cusp  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
+__PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVI__ Pulmonary vein isolation  
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
