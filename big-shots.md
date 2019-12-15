@@ -2,6 +2,7 @@
 - David L. Fischman [[Twitter]](https://twitter.com/fischman_david)
 - Edward J Schloss MD [[Twitter]](https://twitter.com/EJSMD)
 - John Mandrola, MD [[Website]](https://www.drjohnm.org/) [[Twitter]](https://twitter.com/drjohnm)
+- Josep Brugada [[Twitter]](https://twitter.com/josep_brugada)
 - Lluís Mont [[Twitter]](https://twitter.com/LluisMont2)
 - Rafael Vidal [[Twitter]](https://twitter.com/rafavidalperez)
 - Roderick Tung [[Twitter]](https://twitter.com/DrRoderickTung)
