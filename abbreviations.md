@@ -3,16 +3,18 @@ __AF__, __AFib__ Atrial Fibrillation
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator  
 __Ao__ Aorta  
-__AV node__ Atrioventricular node  
+__AV__ Atrioventricular · _AV node_  
 __BZ__ Border zone  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
 __EACTS__  European Association for Cardio-Thoracic Surgery  
-__EAM__ Electro-anatomical map  
+__EAN__ Electroanatomic  
+__EAM__ Electro-anatomical map, electroanatomic mapping  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EP__ Electrophysiology  
 __EPS__ Electrophysiology study  
 __FACC__ Fellow of the American College of Cardiologists  
+__FAM__ Fast anatomical map  
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
