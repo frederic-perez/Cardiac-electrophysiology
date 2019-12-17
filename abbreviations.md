@@ -4,6 +4,7 @@ __AHA__ American Heart Association
 __AICD__ Automatic Implantable Cardioverter Defibrillator  
 __Ao__ Aorta  
 __AV__ Atrioventricular · _AV node_  
+__AVNRT__ AV nodal reentrant tachycardia  
 __BI__ Bipolar · _BI endocardial voltage_  
 __BZ__ Border zone  
 __CF__ Contact force  
@@ -30,6 +31,7 @@ __LCC__ Left Coronary Cusp
 __LGE-CMR__ Late gadolinium enhanced CMR  
 __LV__ Left Ventricle  
 __LVEF__ Left ventricular ejection fraction  
+__MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
 __MV__ Mitral Valve  
 __NCC__ Non-Coronary Cusp  
@@ -41,6 +43,7 @@ __RA__ Right Atrium
 __RAA__ Right Atrial Appendage  
 __RCC__ Right Coronary Cusp  
 __RF__ Radiofrequency  
+__RFCA__ Radiofrequency catheter ablation  
 __RV__ Right Ventricle  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
 __SCAF__ Sub-Clinical Atrial Fibrillation  
@@ -48,5 +51,6 @@ __STEMI__ ST-elevation myocardial infarction
 __TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
 __TOE__ Transesophageal echocardiography  
 __TTE__ Transthoracic echocardiography  
+__UNI__ Unipolar · _UNI endocardial voltage_  
 __VF__, __VFib__ Ventricular Fibrillation  
 __WPW syndrome__ Wolfe-Parkinson-White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
