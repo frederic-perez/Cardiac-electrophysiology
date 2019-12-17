@@ -16,6 +16,7 @@ __#Nofluoro__ [LinkedIn](https://www.linkedin.com/feed/hashtag/nofluoro) · [Twi
 __#NSTEMI__ [LinkedIn](https://www.linkedin.com/feed/hashtag/nstemi) · [Twitter](https://twitter.com/search?q=%23nstemi)  
 __#RoboticEP__ [LinkedIn](https://www.linkedin.com/feed/hashtag/roboticep) · [Twitter](https://twitter.com/search?q=%23roboticep)  
 __#STEMI__ [LinkedIn](https://www.linkedin.com/feed/hashtag/stemi) · [Twitter](https://twitter.com/search?q=%23stemi)  
+__#TAVR__ [LinkedIn](https://www.linkedin.com/feed/hashtag/tavr) · [Twitter](https://twitter.com/search?q=%23tavr)  
 __#VentricularTachycardia__ [LinkedIn](https://www.linkedin.com/feed/hashtag/ventriculartachycardia) · [Twitter](https://twitter.com/search?q=%23ventriculartachycardia)  
 __#VFib__ [LinkedIn](https://www.linkedin.com/feed/hashtag/vfib) · [Twitter](https://twitter.com/search?q=%23vfib)  
 __#WaveMapAF__ [LinkedIn](https://www.linkedin.com/feed/hashtag/wavemapaf) · [Twitter](https://twitter.com/search?q=%23wavemapaf)  
