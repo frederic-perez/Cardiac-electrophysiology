@@ -8,6 +8,7 @@ __AVNRT__ AV nodal reentrant tachycardia
 __BI__ Bipolar · _BI endocardial voltage_  
 __BZ__ Border zone  
 __CF__ Contact force  
+__CFAE__ Complex fractionated atrial electrogram  
 __CL__ Cycle length  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
 __EACTS__  European Association for Cardio-Thoracic Surgery  
@@ -53,4 +54,6 @@ __TOE__ Transesophageal echocardiography
 __TTE__ Transthoracic echocardiography  
 __UNI__ Unipolar · _UNI endocardial voltage_  
 __VF__, __VFib__ Ventricular Fibrillation  
+__WOI__ Window of interest  
 __WPW syndrome__ Wolfe-Parkinson-White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
+__WPWS__ Wolff–Parkinson–White syndrome  
