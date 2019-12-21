@@ -2,3 +2,4 @@
 - Alila Medical Media > [Cardiology](https://www.youtube.com/playlist?list=PLJIs8ZcKXHUwdmQl1hxgtiTrKS1mOoVSi) playlist
 - AnatomyZone's [Cardiovascular System](https://www.youtube.com/playlist?list=PL2989E2215C92CE5E) playlist, with nice 3D representations
 - Meditay's [Heart Anatomy](https://www.youtube.com/playlist?list=PLmzZnYRTmRK-FCP98PoP726sXkliirHxT) playlist  
+- Sanofi's [An overview of Atrial Fibrillation](https://www.youtube.com/watch?v=HyQjpQf_eME)  
