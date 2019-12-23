@@ -5,6 +5,8 @@ __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening o
 __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
+__arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arteriosclerosis) The thickening, hardening, and loss of elasticity of the walls of arteries.  
+__atherosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Atherosclerosis) A disease in which the inside of an artery narrows due to the build up of plaque.  
 __atraumatic__ _adj_ Not producing injury or damage.  
 __atrial fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624)  
 __atrial flutter__ _n_ [[Encyclopedia article by TheFreeDictionary]](https://encyclopedia.thefreedictionary.com/atrial+flutter)  
@@ -45,6 +47,8 @@ __pathophysiology__ _n_ The study of the effects of disease on physiological pro
 __placebo procedure__ _n_  
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
 __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a surgical procedure to treat atrial fibrillation.  
+__Purkinje fibers__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Purkinje_fibers)  
+__Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
 __sham procedure__ _n_  
 __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node) A small mass of specialized cardiac muscle fibers located in the posterior wall of the right atrium of the heart that acts as a pacemaker by generating at regular intervals the electric impulses of the heartbeat. _Syn_ SA node, sinoauricular node, sinus node, cardiac pacemaker, pacemaker  
