@@ -15,16 +15,20 @@ __EACTS__  European Association for Cardio-Thoracic Surgery
 __EAM__ Electro-anatomical map, electroanatomic mapping  
 __EAN__ Electroanatomic  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
+__ECGI__ Electrocardiographic Imaging  
 __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EP__ Electrophysiology  
 __EPS__ Electrophysiology study  
+__ESC__ European Society of Cardiology  
 __FACC__ Fellow of the American College of Cardiologists  
 __FAM__ Fast anatomical map  
 __FAT__ Focal atrial tachycardia  
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
+__Gy__ Gray  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac Echocardiography  
+__ICL__ Implantable cardioverter-defibrillator  
 __LA__ Left Atrium  
 __LAA__ Left Atrial Appendage  
 __LAT__ Local activation time  
