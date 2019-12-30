@@ -34,6 +34,8 @@ __LAA__ Left Atrial Appendage
 __LAT__ Local activation time  
 __LCC__ Left Coronary Cusp  
 __LGE-CMR__ Late gadolinium enhanced CMR  
+__LIPV__ Left inferior pulmonary vein  
+__LSPV__ Left superior pulmonary vein  
 __LV__ Left Ventricle  
 __LVEF__ Left ventricular ejection fraction  
 __MEM__ Multi-electrode mapping  
@@ -41,6 +43,7 @@ __MI__ Myocardial infarction (commonly known as a heart attack)
 __MV__ Mitral Valve  
 __NCC__ Non-Coronary Cusp  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
+__OHIF__ Open Health Imaging Foundation  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
 __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVI__ Pulmonary vein isolation  
@@ -51,6 +54,8 @@ __RF__ Radiofrequency
 __RFCA__ Radiofrequency catheter ablation  
 __RV__ Right Ventricle  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
+__SBRT__ Stereotactic body radiation therapy  
+__SCA__ Sudden cardiac arrest  
 __SCAF__ Sub-Clinical Atrial Fibrillation  
 __STEMI__ ST-elevation myocardial infarction  
 __TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
