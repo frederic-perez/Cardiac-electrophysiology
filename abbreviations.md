@@ -3,10 +3,12 @@ __AF__, __AFib__ Atrial Fibrillation
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator  
 __Ao__ Aorta  
+__ASCVD__ Atherosclerotic cardiovascular disease  
 __AV__ Atrioventricular · _AV node_  
 __AVNRT__ AV nodal reentrant tachycardia  
 __BI__ Bipolar · _BI endocardial voltage_  
 __BZ__ Border zone  
+__CCM__ Cardiac Contractility Modulation  
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
 __CL__ Cycle length  
@@ -52,6 +54,8 @@ __RAA__ Right Atrial Appendage
 __RCC__ Right Coronary Cusp  
 __RF__ Radiofrequency  
 __RFCA__ Radiofrequency catheter ablation  
+__RIPV__ Right inferior pulmonary vein  
+__RSPV__ Right superior pulmonary vein  
 __RV__ Right Ventricle  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
 __SBRT__ Stereotactic body radiation therapy  
