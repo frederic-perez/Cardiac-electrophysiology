@@ -19,6 +19,5 @@ __#STEMI__ [LinkedIn](https://www.linkedin.com/feed/hashtag/stemi) · [Twitter](
 __#TAVR__ [LinkedIn](https://www.linkedin.com/feed/hashtag/tavr) · [Twitter](https://twitter.com/search?q=%23tavr)  
 __#VentricularTachycardia__ [LinkedIn](https://www.linkedin.com/feed/hashtag/ventriculartachycardia) · [Twitter](https://twitter.com/search?q=%23ventriculartachycardia)  
 __#VFib__ [LinkedIn](https://www.linkedin.com/feed/hashtag/vfib) · [Twitter](https://twitter.com/search?q=%23vfib)  
-__#WaveMapAF__ [LinkedIn](https://www.linkedin.com/feed/hashtag/wavemapaf) · [Twitter](https://twitter.com/search?q=%23wavemapaf)  
 __#WhyCMR__ [LinkedIn](https://www.linkedin.com/feed/hashtag/whycmr) · [Twitter](https://twitter.com/search?q=%23whycmr)  
 __#ZeroFluoro__ [LinkedIn](https://www.linkedin.com/feed/hashtag/zerofluoro) · [Twitter](https://twitter.com/search?q=%23zerofluoro)  
