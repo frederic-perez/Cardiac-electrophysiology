@@ -47,6 +47,7 @@ __NCC__ Non-Coronary Cusp
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __OHIF__ Open Health Imaging Foundation  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
+__pt__ Patient  
 __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVI__ Pulmonary vein isolation  
 __RA__ Right Atrium  
@@ -55,8 +56,11 @@ __RCC__ Right Coronary Cusp
 __RF__ Radiofrequency  
 __RFCA__ Radiofrequency catheter ablation  
 __RIPV__ Right inferior pulmonary vein  
+__RPVI__ Registered Physician Vascular Interpretation (certification)  
 __RSPV__ Right superior pulmonary vein  
 __RV__ Right Ventricle  
+__RVOT__  Right ventricular outflow tract  
+__s/p__ Status post: after _This pt s/p PVI elsewhere came to me for "redo" persistent AF ablation._  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
 __SBRT__ Stereotactic body radiation therapy  
 __SCA__ Sudden cardiac arrest  
