@@ -1,6 +1,6 @@
 - 32bravo711's [Basic Electrophysiology](https://www.google.com/search?q=site%3Ayoutube.com+Basic+Electrophysiology+32bravo711)
 - Alila Medical Media > [Cardiology](https://www.youtube.com/playlist?list=PLJIs8ZcKXHUwdmQl1hxgtiTrKS1mOoVSi) playlist
 - AnatomyZone's [Cardiovascular System](https://www.youtube.com/playlist?list=PL2989E2215C92CE5E) playlist, with nice 3D representations
-- KhanAcadeMedicine's [Circulatory system](https://www.youtube.com/playlist?list=PLbKSbFnKYVY2IzZtHG4lv6pRtmTSb6n_P) playlist  
+- KhanAcademyMedicine's [Circulatory system](https://www.youtube.com/playlist?list=PLbKSbFnKYVY2IzZtHG4lv6pRtmTSb6n_P) playlist  
 - Meditay's [Heart Anatomy](https://www.youtube.com/playlist?list=PLmzZnYRTmRK-FCP98PoP726sXkliirHxT) playlist  
 - Sanofi's [An overview of Atrial Fibrillation](https://www.youtube.com/watch?v=HyQjpQf_eME)  
