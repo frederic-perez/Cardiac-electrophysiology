@@ -4,6 +4,7 @@ __AHA__ American Heart Association
 __AICD__ Automatic Implantable Cardioverter Defibrillator  
 __Ao__ Aorta  
 __ASCVD__ Atherosclerotic cardiovascular disease  
+__AT__ Atrial tachycardia  
 __AV__ Atrioventricular · _AV node_  
 __AVNRT__ AV nodal reentrant tachycardia  
 __BI__ Bipolar · _BI endocardial voltage_  
@@ -13,11 +14,14 @@ __CF__ Contact force
 __CFAE__ Complex fractionated atrial electrogram  
 __CL__ Cycle length  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
+__CRT__ Cardiac resynchronization therapy  
+__CVD__ Cardiovascular disease  
 __EACTS__  European Association for Cardio-Thoracic Surgery  
 __EAM__ Electro-anatomical map, electroanatomic mapping  
 __EAN__ Electroanatomic  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __ECGI__ Electrocardiographic Imaging  
+__EGM__ Electrogram. The word "electrogram" (EGM) without further specification usually means an intracardiac electrogram.  
 __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EP__ Electrophysiology  
 __EPS__ Electrophysiology study  
@@ -29,7 +33,8 @@ __FFR__ Fractional flow reserve
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
 __Gy__ Gray  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
-__ICE__ Intracardiac Echocardiography  
+__ICE__ Intracardiac dchocardiography  
+__ICEG__ Intracardiac electrogram  
 __ICL__ Implantable cardioverter-defibrillator  
 __LA__ Left Atrium  
 __LAA__ Left Atrial Appendage  
