@@ -15,6 +15,7 @@ __CFAE__ Complex fractionated atrial electrogram
 __CL__ Cycle length  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
 __CRT__ Cardiac resynchronization therapy  
+__CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
 __EACTS__  European Association for Cardio-Thoracic Surgery  
 __EAM__ Electro-anatomical map, electroanatomic mapping  
@@ -61,6 +62,7 @@ __RCC__ Right Coronary Cusp
 __RF__ Radiofrequency  
 __RFCA__ Radiofrequency catheter ablation  
 __RIPV__ Right inferior pulmonary vein  
+__RMN__ Robotic Magnetic Navigation  
 __RPVI__ Registered Physician Vascular Interpretation (certification)  
 __RSPV__ Right superior pulmonary vein  
 __RV__ Right Ventricle  
