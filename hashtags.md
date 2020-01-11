@@ -18,6 +18,7 @@ __#ICEEyes__ [LinkedIn](https://www.linkedin.com/feed/hashtag/iceeyes) · [Twitt
 __#Nofluoro__ [LinkedIn](https://www.linkedin.com/feed/hashtag/nofluoro) · [Twitter](https://twitter.com/search?q=%23nofluoro)  
 __#NSTEMI__ [LinkedIn](https://www.linkedin.com/feed/hashtag/nstemi) · [Twitter](https://twitter.com/search?q=%23nstemi)  
 __#RoboticEP__ [LinkedIn](https://www.linkedin.com/feed/hashtag/roboticep) · [Twitter](https://twitter.com/search?q=%23roboticep)  
+__#RVOT__ [LinkedIn](https://www.linkedin.com/feed/hashtag/rvot) · [Twitter](https://twitter.com/search?q=%23rvot)  
 __#STEMI__ [LinkedIn](https://www.linkedin.com/feed/hashtag/stemi) · [Twitter](https://twitter.com/search?q=%23stemi)  
 __#TAVR__ [LinkedIn](https://www.linkedin.com/feed/hashtag/tavr) · [Twitter](https://twitter.com/search?q=%23tavr)  
 __#VentricularTachycardia__ [LinkedIn](https://www.linkedin.com/feed/hashtag/ventriculartachycardia) · [Twitter](https://twitter.com/search?q=%23ventriculartachycardia)  
