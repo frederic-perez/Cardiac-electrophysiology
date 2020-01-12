@@ -22,6 +22,7 @@ __EAM__ Electro-anatomical map, electroanatomic mapping
 __EAN__ Electroanatomic  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __ECGI__ Electrocardiographic Imaging  
+__EF__ Ejection fraction  
 __EGM__ Electrogram. The word "electrogram" (EGM) without further specification usually means an intracardiac electrogram.  
 __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EP__ Electrophysiology  
@@ -33,6 +34,8 @@ __FAT__ Focal atrial tachycardia
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
 __Gy__ Gray  
+__HF__ Heart failure · _HF patients_  
+__HFpEF__ Heart failure with preserved ejection fraction  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac dchocardiography  
 __ICEG__ Intracardiac electrogram  
@@ -58,6 +61,7 @@ __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org
 __PVI__ Pulmonary vein isolation  
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
+__RBS__ Retained Blood Syndrome  
 __RCC__ Right Coronary Cusp  
 __RF__ Radiofrequency  
 __RFCA__ Radiofrequency catheter ablation  
