@@ -38,6 +38,7 @@ __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruc
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
 __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
+__left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
