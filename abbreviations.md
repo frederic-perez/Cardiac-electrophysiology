@@ -40,6 +40,7 @@ __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedi
 __ICE__ Intracardiac dchocardiography  
 __ICEG__ Intracardiac electrogram  
 __ICL__ Implantable cardioverter-defibrillator  
+__J&J__ Johnson & Johnson  
 __LA__ Left Atrium  
 __LAA__ Left Atrial Appendage  
 __LAT__ Local activation time  
@@ -48,11 +49,14 @@ __LGE-CMR__ Late gadolinium enhanced CMR
 __LIPV__ Left inferior pulmonary vein  
 __LSPV__ Left superior pulmonary vein  
 __LV__ Left Ventricle  
+__LVAD__ Left ventricular assist device  
 __LVEF__ Left ventricular ejection fraction  
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
-__MV__ Mitral Valve  
+__MV__ Mitral valve  
+__MVR__ Mitral valve replacement
 __NCC__ Non-Coronary Cusp  
+__NSR__ Normal sinus rhythm  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __OHIF__ Open Health Imaging Foundation  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
