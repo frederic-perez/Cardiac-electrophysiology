@@ -1,3 +1,10 @@
+__-desis__ _suff_ (Surgery) Binding, fixation (the surgeon made two things stick together).  
+__-ectomy__ _suff_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
+__-ostomy__ _suff_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.   
+__-pexy__ _suff_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
+__-plasty__ _suff_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
+__-rrhaphy__ _suff_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
+__-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
 __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
 __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
