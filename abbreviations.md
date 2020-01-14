@@ -37,7 +37,7 @@ __Gy__ Gray
 __HF__ Heart failure · _HF patients_  
 __HFpEF__ Heart failure with preserved ejection fraction  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
-__ICE__ Intracardiac dchocardiography  
+__ICE__ Intracardiac echocardiography  
 __ICEG__ Intracardiac electrogram  
 __ICL__ Implantable cardioverter-defibrillator  
 __J&J__ Johnson & Johnson  
