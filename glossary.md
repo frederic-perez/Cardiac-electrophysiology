@@ -31,6 +31,7 @@ __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, ofte
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.  
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
+__dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
 __ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia  
 __electrocardiogram__ _n_ The graphic record produced by an electrocardiograph. _Syn_ cardiogram  
 __electrocardiograph__ _n_ A galvanometric device that detects variations in the electric potential that triggers the heartbeat, used to evaluate the heart's health. _Syn_ cardiograph  
@@ -54,6 +55,7 @@ __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal v
 __pathophysiology__ _n_ The study of the effects of disease on physiological processes.  
 __placebo procedure__ _n_  
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
+__pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a surgical procedure to treat atrial fibrillation.  
 __Purkinje fibers__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Purkinje_fibers)  
 __Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
