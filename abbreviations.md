@@ -8,6 +8,7 @@ __AT__ Atrial tachycardia
 __AV__ Atrioventricular · _AV node_  
 __AVNRT__ AV nodal reentrant tachycardia  
 __BI__ Bipolar · _BI endocardial voltage_  
+__BSW__ Biosense Webster  
 __BZ__ Border zone  
 __CCM__ Cardiac Contractility Modulation  
 __CF__ Contact force  
@@ -60,6 +61,8 @@ __NSR__ Normal sinus rhythm
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __OHIF__ Open Health Imaging Foundation  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
+__PE__ Pulmonary embolism  
+__PM__ Pacemaker  
 __pt__ Patient  
 __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVI__ Pulmonary vein isolation  
@@ -80,6 +83,7 @@ __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatri
 __SBRT__ Stereotactic body radiation therapy  
 __SCA__ Sudden cardiac arrest  
 __SCAF__ Sub-Clinical Atrial Fibrillation  
+__SCD__ Sudden cardiac death  
 __STEMI__ ST-elevation myocardial infarction  
 __TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
 __TOE__ Transesophageal echocardiography  
