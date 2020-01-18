@@ -85,7 +85,10 @@ __SCA__ Sudden cardiac arrest
 __SCAF__ Sub-Clinical Atrial Fibrillation  
 __SCD__ Sudden cardiac death  
 __STEMI__ ST-elevation myocardial infarction  
+__SVC__ Superior vena cava  
+__TAVI__ Transcatheter aortic valve implantation  
 __TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
+__TIC__ Tachycardia-induced cardiomyopathy  
 __TOE__ Transesophageal echocardiography  
 __TTE__ Transthoracic echocardiography  
 __UNI__ Unipolar · _UNI endocardial voltage_  
