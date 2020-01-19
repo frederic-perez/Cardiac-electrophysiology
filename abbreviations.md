@@ -37,6 +37,7 @@ __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)
 __Gy__ Gray  
 __HF__ Heart failure · _HF patients_  
 __HFpEF__ Heart failure with preserved ejection fraction  
+__HTN__ Hypertension  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac echocardiography  
 __ICEG__ Intracardiac electrogram  
@@ -63,6 +64,7 @@ __OHIF__ Open Health Imaging Foundation
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
 __PE__ Pulmonary embolism  
 __PM__ Pacemaker  
+__POAF__ Postoperative atrial fibrillation  
 __pt__ Patient  
 __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVI__ Pulmonary vein isolation  
@@ -92,6 +94,7 @@ __TIC__ Tachycardia-induced cardiomyopathy
 __TOE__ Transesophageal echocardiography  
 __TTE__ Transthoracic echocardiography  
 __UNI__ Unipolar · _UNI endocardial voltage_  
+__VHD__ Valvular heart disease  
 __VF__, __VFib__ Ventricular Fibrillation  
 __WOI__ Window of interest  
 __WPW syndrome__ Wolfe-Parkinson-White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
