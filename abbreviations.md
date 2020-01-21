@@ -3,6 +3,7 @@ __AF__, __AFib__ Atrial Fibrillation
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator  
 __Ao__ Aorta  
+__ARVC__ Arrhythmogenic right ventricular cardiomyopathy  
 __ASCVD__ Atherosclerotic cardiovascular disease  
 __AT__ Atrial tachycardia  
 __AV__ Atrioventricular · _AV node_  
@@ -46,7 +47,9 @@ __J&J__ Johnson & Johnson
 __LA__ Left Atrium  
 __LAA__ Left Atrial Appendage  
 __LAT__ Local activation time  
+__LAX__ Long-axis  
 __LCC__ Left Coronary Cusp  
+__LGE__ Late gadolinium enhancement  
 __LGE-CMR__ Late gadolinium enhanced CMR  
 __LIPV__ Left inferior pulmonary vein  
 __LSPV__ Left superior pulmonary vein  
@@ -82,6 +85,7 @@ __RV__ Right Ventricle
 __RVOT__  Right ventricular outflow tract  
 __s/p__ Status post: after _This pt s/p PVI elsewhere came to me for "redo" persistent AF ablation._  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
+__SAX__ Short-axis  
 __SBRT__ Stereotactic body radiation therapy  
 __SCA__ Sudden cardiac arrest  
 __SCAF__ Sub-Clinical Atrial Fibrillation  
@@ -94,8 +98,8 @@ __TIC__ Tachycardia-induced cardiomyopathy
 __TOE__ Transesophageal echocardiography  
 __TTE__ Transthoracic echocardiography  
 __UNI__ Unipolar · _UNI endocardial voltage_  
-__VHD__ Valvular heart disease  
 __VF__, __VFib__ Ventricular Fibrillation  
+__VHD__ Valvular heart disease  
 __WOI__ Window of interest  
 __WPW syndrome__ Wolfe-Parkinson-White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
 __WPWS__ Wolff–Parkinson–White syndrome  
