@@ -23,6 +23,7 @@ __atrioventricular node__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Atri
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
 __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per minute in an adult human. Compare _tachycardia_  
 __bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)  
+__cancellous__ _adj_ Of a reticular, spongy, or lattice-like structure; said mainly of bone tissue.  
 __cannulate__ _v_ To insert a cannula into (a bodily cavity, duct, or vessel), as for the drainage  of fluid or the administration of medication.  
 __cannulation__ _n_ Introduction of a cannula into a tubelike organ or body cavity. _Syn_ intubation  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
@@ -30,6 +31,7 @@ __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a 
 __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It's also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that's performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that's performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
 __catheter ablation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
+__coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
 __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, often leading to destruction of heart muscle.  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
@@ -62,6 +64,7 @@ __pathophysiology__ _n_ The study of the effects of disease on physiological pro
 __pericardial effusion__ _n_ The accumulation of an abnormally large amount of pericardial fluid in the pericardium.  
 __placebo procedure__ _n_  
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
+__prolapse__ _n_ A condition in which organs fall down or slip out of place. It is used for organs protruding through the vagina, rectum, or for the misalignment of the valves of the heart. A spinal disc herniation is also sometimes called "disc prolapse".  
 __pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a surgical procedure to treat atrial fibrillation.  
 __Purkinje fibers__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Purkinje_fibers)  
