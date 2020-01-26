@@ -2,6 +2,7 @@ __ACC__ American College of Cardiology
 __AF__, __AFib__ Atrial Fibrillation  
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator  
+__AMI__ Acute myocardial infarction  
 __Ao__ Aorta  
 __ARVC__ Arrhythmogenic right ventricular cardiomyopathy  
 __ASCVD__ Atherosclerotic cardiovascular disease  
@@ -11,6 +12,7 @@ __AVNRT__ AV nodal reentrant tachycardia
 __BI__ Bipolar · _BI endocardial voltage_  
 __BSW__ Biosense Webster  
 __BZ__ Border zone  
+__CABG__ Coronary artery bypass graft  
 __CCM__ Cardiac Contractility Modulation  
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
@@ -64,12 +66,14 @@ __NCC__ Non-Coronary Cusp
 __NSR__ Normal sinus rhythm  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __OHIF__ Open Health Imaging Foundation  
+__PACs__ Premature atrial contractions  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
 __PE__ Pulmonary embolism  
 __PM__ Pacemaker  
 __POAF__ Postoperative atrial fibrillation  
 __pt__ Patient  
 __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
+__PVCs__ Premature ventricular contractions  
 __PVI__ Pulmonary vein isolation  
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
