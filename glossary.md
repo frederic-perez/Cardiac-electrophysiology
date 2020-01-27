@@ -13,6 +13,7 @@ __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to 
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
 __arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arteriosclerosis) The thickening, hardening, and loss of elasticity of the walls of arteries.  
+__atherectomy__ _n_ A non-surgical procedure to open blocked coronary arteries or vein grafts by using a device on the end of a catheter to cut or shave away atherosclerotic plaque (a deposit of fat and other substances that accumulate in the lining of the artery wall).  
 __atherosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Atherosclerosis) A disease in which the inside of an artery narrows due to the build up of plaque.  
 __atraumatic__ _adj_ Not producing injury or damage.  
 __atrial fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624)  
@@ -50,6 +51,7 @@ __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https:/
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruction of local blood supply, as by a thrombus or embolus. _Syn_ infarction  
+__innervate__ _v_ __1__ To supply (an organ or a body part) with nerves. __2__ To stimulate (a nerve, muscle, or body part) to action.  
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
 __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
@@ -76,8 +78,8 @@ __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_n
 __sinus rhythm__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinus_rhythm)  
 __sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
 __ST elevation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/ST_elevation)  
-__stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
 __stroke volume__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Stroke_volume) The volume of blood pumped from a ventricle of the heart in one beat.  
+__stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
 __subendocardial__ _adj_ Beneath the endocardium. _Subendocardial ischemia is ischemia that is not transmural._  
 __substrate__ _n_  
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
