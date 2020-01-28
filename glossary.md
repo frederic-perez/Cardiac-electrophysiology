@@ -64,12 +64,15 @@ __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease,
 __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal versus permanent AF._  
 __pathophysiology__ _n_ The study of the effects of disease on physiological processes.  
 __pericardial effusion__ _n_ The accumulation of an abnormally large amount of pericardial fluid in the pericardium.  
+__phrenic nerve__ _n_ A major branch of the cervical plexus, extending through the thorax to provide innervation of the diaphragm. Nerve impulses from the inspiratory center in the brain travel down it, causing contraction of the diaphragm, so that inhalation can occur.  
 __placebo procedure__ _n_  
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
 __prolapse__ _n_ A condition in which organs fall down or slip out of place. It is used for organs protruding through the vagina, rectum, or for the misalignment of the valves of the heart. A spinal disc herniation is also sometimes called "disc prolapse".  
+__pseudoaneurysm__ _n_ The preferred term for a false aneurysm in which the saccular dilation (“aneurysm”) does not involve all of the vessel wall layers.  
 __pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a surgical procedure to treat atrial fibrillation.  
 __Purkinje fibers__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Purkinje_fibers)  
+__QRS complex__ _n_ (ventricular depolarization) An electrocardiographic complex consisting of the Q, R, and S waves, representing propagation of a wave of depolarization over the ventricles.  
 __R-R interval__ The time elapsing between two consecutive R waves in the electrocardiogram.  
 __Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
