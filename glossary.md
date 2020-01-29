@@ -13,6 +13,7 @@ __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to 
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
 __arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arteriosclerosis) The thickening, hardening, and loss of elasticity of the walls of arteries.  
+__asystole__ _n_ The absence of heartbeat; cardiac arrest.  
 __atherectomy__ _n_ A non-surgical procedure to open blocked coronary arteries or vein grafts by using a device on the end of a catheter to cut or shave away atherosclerotic plaque (a deposit of fat and other substances that accumulate in the lining of the artery wall).  
 __atherosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Atherosclerosis) A disease in which the inside of an artery narrows due to the build up of plaque.  
 __atraumatic__ _adj_ Not producing injury or damage.  
@@ -35,6 +36,7 @@ __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
 __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, often leading to destruction of heart muscle.  
+__cryoablation__ _n_ A process that uses extreme cold to destroy tissue.  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.  
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
@@ -58,6 +60,7 @@ __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavit
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leaflets.  
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
+__myocyte__ _n_ A muscle cell.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
 __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease, usually recurring periodically.  
