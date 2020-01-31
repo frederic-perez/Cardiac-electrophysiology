@@ -78,7 +78,7 @@ __PVI__ Pulmonary vein isolation
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
 __RBS__ Retained Blood Syndrome  
-__RCC__ Right Coronary Cusp  
+__RCC__ Right coronary cusp (one of the 3 aortic valve cusps)  
 __RF__ Radiofrequency  
 __RFCA__ Radiofrequency catheter ablation  
 __RIPV__ Right inferior pulmonary vein  
@@ -96,9 +96,11 @@ __SCAF__ Sub-Clinical Atrial Fibrillation
 __SCD__ Sudden cardiac death  
 __STEMI__ ST-elevation myocardial infarction  
 __SVC__ Superior vena cava  
+__SVT__ Supraventricular tachycardia  
 __TAVI__ Transcatheter aortic valve implantation  
 __TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
 __TIC__ Tachycardia-induced cardiomyopathy  
+__TMVR__ Transcatheter mitral valve replacement  
 __TOE__ Transesophageal echocardiography  
 __TTE__ Transthoracic echocardiography  
 __UNI__ Unipolar · _UNI endocardial voltage_  
