@@ -25,3 +25,4 @@ Other interesting URLs:
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
 - [Cardiac MRI tutorial](http://www.vhlab.umn.edu/atlas/cardiac-mri-tutorial/index.shtml) 
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
+- [Cardiac Electrophysiology - Online Learning | Johnson & Johnson Institute](https://jnjinstitute.com/en-us/online-profed-resources/resources/cardiac-electrophysiology)
