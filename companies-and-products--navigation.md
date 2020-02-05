@@ -3,3 +3,4 @@
 1. __Boston Scientific__ > __[RHYTHMIA HDx™](https://www.bostonscientific.com/en-US/medical-specialties/electrophysiology/cardiac-mapping-system.html)__ Cardiac Mapping System
 1. __MicroPort® EP MedTech Co.__ [website](http://www.ep.microport.com) > Columbus
 1. __Stereotaxis__ [LinkedIn](https://www.linkedin.com/company/stereotaxis) · [website](http://www.stereotaxis.com)
+1. __Philips__ > __[KODEX-EPD](https://www.usa.philips.com/healthcare/product/HC733015/kodex-epd-cardiac-imaging-and-mapping-system/)__  
