@@ -19,6 +19,8 @@ __CFAE__ Complex fractionated atrial electrogram
 __CL__ Cycle length  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
 __CRT__ Cardiac resynchronization therapy  
+__CS__ Coronary sinus  
+__CTI__ Cavotricuspid isthmus  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
 __EACTS__  European Association for Cardio-Thoracic Surgery  
@@ -37,6 +39,7 @@ __FAM__ Fast anatomical map
 __FAT__ Focal atrial tachycardia  
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
+__GP__ Ganglionated plexi  
 __Gy__ Gray  
 __HF__ Heart failure · _HF patients_  
 __HFpEF__ Heart failure with preserved ejection fraction  
@@ -45,6 +48,7 @@ __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedi
 __ICE__ Intracardiac echocardiography  
 __ICEG__ Intracardiac electrogram  
 __ICL__ Implantable cardioverter-defibrillator  
+__IR__ Interventional radiology  
 __J&J__ Johnson & Johnson  
 __LA__ Left Atrium  
 __LAA__ Left Atrial Appendage  
