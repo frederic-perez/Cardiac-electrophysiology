@@ -67,6 +67,7 @@ __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease,
 __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal versus permanent AF._  
 __pathophysiology__ _n_ The study of the effects of disease on physiological processes.  
 __pericardial effusion__ _n_ The accumulation of an abnormally large amount of pericardial fluid in the pericardium.  
+__perioperative__ _adj_ Pertaining or relating to the period of time surrounding a surgical procedure, including the preoperative, intraoperative, and postoperative periods.  
 __phrenic nerve__ _n_ A major branch of the cervical plexus, extending through the thorax to provide innervation of the diaphragm. Nerve impulses from the inspiratory center in the brain travel down it, causing contraction of the diaphragm, so that inhalation can occur.  
 __placebo procedure__ _n_  
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
@@ -93,6 +94,7 @@ __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wi
 __transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium. 
 __transseptal__ _adj_ Extending or performed through or across a septum.  
 __tunneled__ _adj_ Placed surgically beneath the skin or into deeper tissues, e.g., into the intestinal wall. A tunneled catheter, e.g., is one that enters a vein through an incision made in the skin near the vein but then is passed through subcutaneous tissues to a second incision distant from the first. Tissue that surrounds the passage through which the catheter passes heals tightly around the catheter, holding it in place. Unlike non-tunneled catheters, tunneled catheters can remain in place for many months. They are used for intravenous infusions, the administration of chemotherapy, hemodialysis, and blood drawing.  
+__vein of Marshall__ _n_ The oblique vein of the left atrium (oblique vein of Marshall) is a small vessel which descends obliquely on the back of the left atrium and ends in the coronary sinus near its left extremity.  
 __ventricular fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523) An often fatal form of arrhythmia characterized by rapid, irregular fibrillar twitching of the ventricles of the heart in place of normal contractions, resulting in a loss of pulse.  
 __ventricular remodeling__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Ventricular_remodeling) In cardiology, ventricular remodeling (or cardiac remodeling) refers to changes in the size, shape, structure, and function of the heart. This can happen as a result of exercise (physiological remodeling) or after injury to the heart muscle (pathological remodeling).  
 __ventricular tachycardia__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Ventricular_tachycardia)  
