@@ -1,4 +1,5 @@
 __ACC__ American College of Cardiology  
+__AED__ Automated external defibrillator  
 __AF__, __AFib__ Atrial Fibrillation  
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator  
@@ -6,8 +7,11 @@ __AMI__ Acute myocardial infarction
 __Ao__ Aorta  
 __ARVC__ Arrhythmogenic right ventricular cardiomyopathy  
 __ASCVD__ Atherosclerotic cardiovascular disease  
+__ASD__ Atrial septal defect (one of two kinds of holes in the heart, the other being a PFO)  
 __AT__ Atrial tachycardia  
 __AV__ Atrioventricular · _AV node_  
+__AVM__ Arteriovenous malformation  
+__AVN__ Atrioventricular node  
 __AVNRT__ AV nodal reentrant tachycardia  
 __BI__ Bipolar · _BI endocardial voltage_  
 __BSW__ Biosense Webster  
