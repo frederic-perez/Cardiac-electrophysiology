@@ -56,9 +56,10 @@ __IR__ Interventional radiology
 __J&J__ Johnson & Johnson  
 __LA__ Left Atrium  
 __LAA__ Left Atrial Appendage  
+__LAAC__ Left atrial appendage closure  
 __LAT__ Local activation time  
 __LAX__ Long-axis  
-__LCC__ Left Coronary Cusp  
+__LCC__ Left coronary cusp (one of the 3 aortic valve cusps)  
 __LGE__ Late gadolinium enhancement  
 __LGE-CMR__ Late gadolinium enhanced CMR  
 __LIPV__ Left inferior pulmonary vein  
@@ -71,6 +72,7 @@ __MI__ Myocardial infarction (commonly known as a heart attack)
 __MV__ Mitral valve  
 __MVR__ Mitral valve replacement
 __NCC__ Non-Coronary Cusp  
+__NCC__ Non-coronary cusp (one of the 3 aortic valve cusps)  
 __NSR__ Normal sinus rhythm  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __OHIF__ Open Health Imaging Foundation  
