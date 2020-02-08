@@ -23,6 +23,7 @@ Other interesting URLs:
 - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
 - [GitHub repos on electrophysiology](https://github.com/topics/electrophysiology)
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
-- [Cardiac MRI tutorial](http://www.vhlab.umn.edu/atlas/cardiac-mri-tutorial/index.shtml) 
+- [Cardiac MRI tutorial](http://www.vhlab.umn.edu/atlas/cardiac-mri-tutorial/index.shtml)
+- [MRI heart cross sectional anatomy tool](https://mrimaster.com/anatomy%20heart%20axial%20.html)
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
 - [Cardiac Electrophysiology - Online Learning | Johnson & Johnson Institute](https://jnjinstitute.com/en-us/online-profed-resources/resources/cardiac-electrophysiology)
