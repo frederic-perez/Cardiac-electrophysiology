@@ -22,6 +22,7 @@ __atrial flutter__ _n_ [[Encyclopedia article by TheFreeDictionary]](https://enc
 __atrial remodeling__ _n_  
 __atrioventricular nodal reentry tachycardia__ _n_  
 __atrioventricular node__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Atrioventricular_node)  
+__bipolar__ _adj_ Relating to or having two poles or charges.  
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
 __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per minute in an adult human. Compare _tachycardia_  
 __bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)  
@@ -89,11 +90,13 @@ __stroke volume__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Stroke_volume)
 __stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
 __subendocardial__ _adj_ Beneath the endocardium. _Subendocardial ischemia is ischemia that is not transmural._  
 __substrate__ _n_  
+__sudden death__ _n_ An unexpected or quick death.  
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
 __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wiki/Tachycardia-induced_cardiomyopathy) A disease where prolonged tachycardia or arrhythmia causes an impairment of the myocardium (heart muscle), which can result in heart failure.  
 __transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium. 
 __transseptal__ _adj_ Extending or performed through or across a septum.  
 __tunneled__ _adj_ Placed surgically beneath the skin or into deeper tissues, e.g., into the intestinal wall. A tunneled catheter, e.g., is one that enters a vein through an incision made in the skin near the vein but then is passed through subcutaneous tissues to a second incision distant from the first. Tissue that surrounds the passage through which the catheter passes heals tightly around the catheter, holding it in place. Unlike non-tunneled catheters, tunneled catheters can remain in place for many months. They are used for intravenous infusions, the administration of chemotherapy, hemodialysis, and blood drawing.  
+__unipolar__ _adj_ Having, acting by means of, or produced by a single magnetic or electric pole.  
 __vein of Marshall__ _n_ The oblique vein of the left atrium (oblique vein of Marshall) is a small vessel which descends obliquely on the back of the left atrium and ends in the coronary sinus near its left extremity.  
 __ventricular fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523) An often fatal form of arrhythmia characterized by rapid, irregular fibrillar twitching of the ventricles of the heart in place of normal contractions, resulting in a loss of pulse.  
 __ventricular remodeling__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Ventricular_remodeling) In cardiology, ventricular remodeling (or cardiac remodeling) refers to changes in the size, shape, structure, and function of the heart. This can happen as a result of exercise (physiological remodeling) or after injury to the heart muscle (pathological remodeling).  
