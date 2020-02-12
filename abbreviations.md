@@ -27,7 +27,8 @@ __CS__ Coronary sinus
 __CTI__ Cavotricuspid isthmus  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
-__EACTS__  European Association for Cardio-Thoracic Surgery  
+__EACTS__ European Association for Cardio-Thoracic Surgery  
+__EACVI__ European Association of Cardiovascular Imaging  
 __EAM__ Electro-anatomical map, electroanatomic mapping  
 __EAN__ Electroanatomic  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
@@ -75,10 +76,12 @@ __NCC__ Non-Coronary Cusp
 __NCC__ Non-coronary cusp (one of the 3 aortic valve cusps)  
 __NSR__ Normal sinus rhythm  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
+__NVAF__ Non-valvular atrial fibrillation  
 __OHIF__ Open Health Imaging Foundation  
 __PACs__ Premature atrial contractions  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
 __PE__ Pulmonary embolism  
+__PFO__ Patent foramen ovale (one of two kinds of holes in the heart, the other being an ASD)  
 __PM__ Pacemaker  
 __POAF__ Postoperative atrial fibrillation  
 __pt__ Patient  
