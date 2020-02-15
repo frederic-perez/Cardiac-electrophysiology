@@ -16,13 +16,14 @@ Information gathered on the topic (sorted alphabetically):
 - [Other organizations](other-organizations.md)
 - [Videos](videos.md)
 
-Other interesting URLs:
+Last but not least, other interesting URLs:
 
 - [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
 - [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
 - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
 - [GitHub repos on electrophysiology](https://github.com/topics/electrophysiology)
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
+- [Atlas of Human CARDIAC Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml) (University of Minnesota)  
 - MRI
   - [Magnetic Resonance - Technology Information Portal](https://www.mr-tip.com/)
   - [Cardiac MRI tutorial](http://www.vhlab.umn.edu/atlas/cardiac-mri-tutorial/index.shtml)
