@@ -16,17 +16,4 @@ Information gathered on the topic (sorted alphabetically):
 - [Other organizations](other-organizations.md)
 - [Videos](videos.md)
 
-Last but not least, other interesting URLs:
-
-- [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
-- [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
-- [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
-- [GitHub repos on electrophysiology](https://github.com/topics/electrophysiology)
-- [ClinicalTrials.gov](https://clinicaltrials.gov)
-- [Atlas of Human CARDIAC Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml) (University of Minnesota)  
-- MRI
-  - [Magnetic Resonance - Technology Information Portal](https://www.mr-tip.com/)
-  - [Cardiac MRI tutorial](http://www.vhlab.umn.edu/atlas/cardiac-mri-tutorial/index.shtml)
-  - [MRI heart cross sectional anatomy tool](https://mrimaster.com/anatomy%20heart%20axial%20.html)
-- [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
-- [Cardiac Electrophysiology - Online Learning | Johnson & Johnson Institute](https://jnjinstitute.com/en-us/online-profed-resources/resources/cardiac-electrophysiology)
+Last but not least, [other interesting URLs](other-URLs.md).
