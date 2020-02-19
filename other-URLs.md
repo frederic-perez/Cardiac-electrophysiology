@@ -5,6 +5,7 @@
 - [Atlas of Human CARDIAC Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml) (University of Minnesota)  
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
 - [Cardiac Electrophysiology - Online Learning | Johnson & Johnson Institute](https://jnjinstitute.com/en-us/online-profed-resources/resources/cardiac-electrophysiology)
+- [The Student Physiologist](https://thephysiologist.org/) (Online Cardiology Resource)
 - ECG
   - [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
   - [ECG Guru](http://www.ecgguru.com)
