@@ -1,11 +1,12 @@
-- [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
 - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
-- [GitHub repos on electrophysiology](https://github.com/topics/electrophysiology)
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
 - [Atlas of Human CARDIAC Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml) (University of Minnesota)  
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
-- [Cardiac Electrophysiology - Online Learning | Johnson & Johnson Institute](https://jnjinstitute.com/en-us/online-profed-resources/resources/cardiac-electrophysiology)
-- [The Student Physiologist](https://thephysiologist.org/) (Online Cardiology Resource)
+- Electrophysiology
+  - [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
+  - [Cardiac Electrophysiology - Online Learning | Johnson & Johnson Institute](https://jnjinstitute.com/en-us/online-profed-resources/resources/cardiac-electrophysiology)
+  - [The Student Physiologist](https://thephysiologist.org/) (Online Cardiology Resource)
+  - [GitHub repos on electrophysiology](https://github.com/topics/electrophysiology)
 - ECG
   - [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
   - [ECG Guru](http://www.ecgguru.com)
