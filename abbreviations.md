@@ -5,6 +5,7 @@ __AHA__ American Heart Association
 __AICD__ Automatic Implantable Cardioverter Defibrillator  
 __AMI__ Acute myocardial infarction  
 __Ao__ Aorta  
+__AP__ Action potential  
 __ARVC__ Arrhythmogenic right ventricular cardiomyopathy  
 __ASCVD__ Atherosclerotic cardiovascular disease  
 __ASD__ Atrial septal defect (one of two kinds of holes in the heart, the other being a PFO)  
@@ -20,6 +21,7 @@ __CABG__ Coronary artery bypass graft
 __CCM__ Cardiac Contractility Modulation  
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
+__CKD__ Chronic kidney disease  
 __CL__ Cycle length  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
 __CRT__ Cardiac resynchronization therapy  
@@ -27,6 +29,7 @@ __CS__ Coronary sinus
 __CTI__ Cavotricuspid isthmus  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
+__DOACs__ Direct oral anticoagulants  
 __EACTS__ European Association for Cardio-Thoracic Surgery  
 __EACVI__ European Association of Cardiovascular Imaging  
 __EAM__ Electro-anatomical map, electroanatomic mapping  
@@ -58,6 +61,7 @@ __J&J__ Johnson & Johnson
 __LA__ Left Atrium  
 __LAA__ Left Atrial Appendage  
 __LAAC__ Left atrial appendage closure  
+__LAD__ Left anterior descending coronary artery  
 __LAT__ Local activation time  
 __LAX__ Long-axis  
 __LCC__ Left coronary cusp (one of the 3 aortic valve cusps)  
