@@ -23,6 +23,8 @@ __#HDColoring__ [LinkedIn](https://www.linkedin.com/feed/hashtag/hdcoloring) · 
 __#HDGrid__ [LinkedIn](https://www.linkedin.com/feed/hashtag/hdgrid) · [Twitter](https://twitter.com/search?q=%23hdgrid)  
 __#HeartFailure__ [LinkedIn](https://www.linkedin.com/feed/hashtag/heartfailure) · [Twitter](https://twitter.com/search?q=%23heartfailure)  
 __#ICEEyes__ [LinkedIn](https://www.linkedin.com/feed/hashtag/iceeyes) · [Twitter](https://twitter.com/search?q=%23iceeyes)  
+__#LAAC__ [LinkedIn](https://www.linkedin.com/feed/hashtag/laac) · [Twitter](https://twitter.com/search?q=%23laac)  
+__#LVAD__ [LinkedIn](https://www.linkedin.com/feed/hashtag/lvad) · [Twitter](https://twitter.com/search?q=%23lvad)  
 __#MapMoreBurnLess__ [LinkedIn](https://www.linkedin.com/feed/hashtag/mapmoreburnless) · [Twitter](https://twitter.com/search?q=%23mapmoreburnless)  
 __#MisterMedTech__ [LinkedIn](https://www.linkedin.com/feed/hashtag/mistermedtech) · [Twitter](https://twitter.com/search?q=%23mistermedtech)  
 __#Nofluoro__ [LinkedIn](https://www.linkedin.com/feed/hashtag/nofluoro) · [Twitter](https://twitter.com/search?q=%23nofluoro)  
