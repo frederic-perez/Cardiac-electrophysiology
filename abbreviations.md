@@ -21,12 +21,13 @@ __CABG__ Coronary artery bypass graft
 __CCM__ Cardiac Contractility Modulation  
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
+__CHD__ Congenital heart defect, also known as a congenital heart anomaly and congenital heart disease  
 __CKD__ Chronic kidney disease  
 __CL__ Cycle length  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
 __CRT__ Cardiac resynchronization therapy  
 __CS__ Coronary sinus  
-__CTI__ Cavotricuspid isthmus  
+__CTI__ Cavotricuspid isthmus · _CTI line_  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
 __DOACs__ Direct oral anticoagulants  
@@ -47,6 +48,7 @@ __FAM__ Fast anatomical map
 __FAT__ Focal atrial tachycardia  
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
+__FOI__ Fusion-optimized intervals  
 __GP__ Ganglionated plexi  
 __Gy__ Gray  
 __HF__ Heart failure · _HF patients_  
