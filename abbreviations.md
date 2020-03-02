@@ -76,6 +76,8 @@ __LVAD__ Left ventricular assist device
 __LVEF__ Left ventricular ejection fraction  
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
+__MPP__ Multipoint pacing  
+__MSVT__ Monomorphic sustained VT  
 __MV__ Mitral valve  
 __MVR__ Mitral valve replacement  
 __NCC__ Non-coronary cusp (one of the 3 aortic valve cusps)  
@@ -90,12 +92,14 @@ __PFO__ Patent foramen ovale (one of two kinds of holes in the heart, the other 
 __PM__ Pacemaker  
 __POAF__ Postoperative atrial fibrillation  
 __pt__ Patient  
+__PVAI__ Pulmonary vein antrum isolation · Pulmonary vein isolation ablation  
 __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVCs__ Premature ventricular contractions  
 __PVI__ Pulmonary vein isolation  
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
 __RBS__ Retained Blood Syndrome  
+__RCA__ Right coronary artery  
 __RCC__ Right coronary cusp (one of the 3 aortic valve cusps)  
 __RF__ Radiofrequency  
 __RFCA__ Radiofrequency catheter ablation  
