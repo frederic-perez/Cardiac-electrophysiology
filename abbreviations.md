@@ -81,11 +81,13 @@ __MSVT__ Monomorphic sustained VT
 __MV__ Mitral valve  
 __MVR__ Mitral valve replacement  
 __NCC__ Non-coronary cusp (one of the 3 aortic valve cusps)  
+__NICM__ Nonischemic cardiomyopathy  
 __NSR__ Normal sinus rhythm  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __NVAF__ Non-valvular atrial fibrillation  
 __OHIF__ Open Health Imaging Foundation  
 __PACs__ Premature atrial contractions  
+__PAD__ Peripheral artery disease  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
 __PE__ Pulmonary embolism  
 __PFO__ Patent foramen ovale (one of two kinds of holes in the heart, the other being an ASD)  
@@ -101,7 +103,7 @@ __RAA__ Right Atrial Appendage
 __RBS__ Retained Blood Syndrome  
 __RCA__ Right coronary artery  
 __RCC__ Right coronary cusp (one of the 3 aortic valve cusps)  
-__RF__ Radiofrequency  
+__RF__ Radiofrequency · Roof line  
 __RFCA__ Radiofrequency catheter ablation  
 __RIPV__ Right inferior pulmonary vein  
 __RMN__ Robotic Magnetic Navigation  
@@ -111,6 +113,7 @@ __RV__ Right Ventricle
 __RVOT__  Right ventricular outflow tract  
 __s/p__ Status post: after _This pt s/p PVI elsewhere came to me for "redo" persistent AF ablation._  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
+__SAVR__ Surgical aortic valve replacement  
 __SAX__ Short-axis  
 __SBRT__ Stereotactic body radiation therapy  
 __SCA__ Sudden cardiac arrest  
