@@ -22,9 +22,11 @@ __CCM__ Cardiac Contractility Modulation
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
 __CHD__ Congenital heart defect, also known as a congenital heart anomaly and congenital heart disease  
+__CHF__ Congestive heart failure  
 __CKD__ Chronic kidney disease  
 __CL__ Cycle length  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
+__CPVT__ Catecholaminergic polymorphic ventricular tachycardia  
 __CRT__ Cardiac resynchronization therapy  
 __CS__ Coronary sinus  
 __CTI__ Cavotricuspid isthmus · _CTI line_  
@@ -49,7 +51,7 @@ __FAT__ Focal atrial tachycardia
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
 __FOI__ Fusion-optimized intervals  
-__GP__ Ganglionated plexi  
+__GP__ Ganglionated plexi · _GP ablation_  
 __Gy__ Gray  
 __HF__ Heart failure · _HF patients_  
 __HFpEF__ Heart failure with preserved ejection fraction  
@@ -97,7 +99,7 @@ __pt__ Patient
 __PVAI__ Pulmonary vein antrum isolation · Pulmonary vein isolation ablation  
 __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVCs__ Premature ventricular contractions  
-__PVI__ Pulmonary vein isolation  
+__PVI__ Pulmonary vein isolation · Polymorphic ventricular tachycardia  
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
 __RBS__ Retained Blood Syndrome  
