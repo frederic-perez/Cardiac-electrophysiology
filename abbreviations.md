@@ -2,7 +2,7 @@ __ACC__ American College of Cardiology
 __AED__ Automated external defibrillator  
 __AF__, __AFib__ Atrial Fibrillation  
 __AHA__ American Heart Association  
-__AICD__ Automatic Implantable Cardioverter Defibrillator  
+__AICD__ Automatic Implantable Cardioverter Defibrillator · It was trademarked by the Boston Scientific corporation, so the more generic ICD is preferred terminology.  
 __AMI__ Acute myocardial infarction  
 __Ao__ Aorta  
 __AP__ Action potential  
@@ -32,6 +32,7 @@ __CS__ Coronary sinus
 __CTI__ Cavotricuspid isthmus · _CTI line_  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
+__DCM__ Dilated cardiomyopathy  
 __DOACs__ Direct oral anticoagulants  
 __EACTS__ European Association for Cardio-Thoracic Surgery  
 __EACVI__ European Association of Cardiovascular Imaging  
@@ -100,6 +101,7 @@ __PVAI__ Pulmonary vein antrum isolation · Pulmonary vein isolation ablation
 __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVCs__ Premature ventricular contractions  
 __PVI__ Pulmonary vein isolation · Polymorphic ventricular tachycardia  
+__PWI__ Posterior wall isolation  
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
 __RBS__ Retained Blood Syndrome  
@@ -117,6 +119,7 @@ __s/p__ Status post: after _This pt s/p PVI elsewhere came to me for "redo" pers
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
 __SAVR__ Surgical aortic valve replacement  
 __SAX__ Short-axis  
+__SBE__ Subacute bacterial endocarditis  
 __SBRT__ Stereotactic body radiation therapy  
 __SCA__ Sudden cardiac arrest  
 __SCAF__ Sub-Clinical Atrial Fibrillation  
