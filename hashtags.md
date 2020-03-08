@@ -1,5 +1,6 @@
 __#AblateVT__ [LinkedIn](https://www.linkedin.com/feed/hashtag/ablatevt) · [Twitter](https://twitter.com/search?q=%23ablatevt)  
 __#ADAS3D__ [LinkedIn](https://www.linkedin.com/feed/hashtag/adas3d) · [Twitter](https://twitter.com/search?q=%23adas3d)  
+__#AcutusMedical__ [LinkedIn](https://www.linkedin.com/feed/hashtag/acutusmedical) · [Twitter](https://twitter.com/search?q=%23acutusmedical)  
 __#AED__ [LinkedIn](https://www.linkedin.com/feed/hashtag/aed) · [Twitter](https://twitter.com/search?q=%23aed)  
 __#AFib__ [LinkedIn](https://www.linkedin.com/feed/hashtag/afib) · [Twitter](https://twitter.com/search?q=%23afib)  
 __#Arrythmia__ [LinkedIn](https://www.linkedin.com/feed/hashtag/arrythmia) · [Twitter](https://twitter.com/search?q=%23arrythmia)  
