@@ -1,5 +1,7 @@
 - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
+  - [DECAF](https://clinicaltrials.gov/ct2/results/refine?term=DECAF)
+  - [ENCORE-VT](https://clinicaltrials.gov/ct2/results/refine?term=ENCORE-VT)
 - [Atlas of Human CARDIAC Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml) (University of Minnesota)  
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
 - Electrophysiology
