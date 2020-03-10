@@ -51,6 +51,7 @@ __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other f
 __etiology__ _n_ The cause or origin of a disease or disorder as determined by medical diagnosis.  
 __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
 __fibrosis__ _n_ The development in an organ of excess fibrous connective tissue. (Cardiac fibrosis can be observed in a DE-CMR scan.)  
+__first-in-class__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
@@ -59,6 +60,7 @@ __innervate__ _v_ __1__ To supply (an organ or a body part) with nerves. __2__ T
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
 __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
+__left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leaflets.  
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
