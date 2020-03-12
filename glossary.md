@@ -10,6 +10,7 @@ __ablation__ _n_ The act or process of ablating.
 __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
 __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening of a narrowed blood vessel by means of balloon angioplasty.  
 __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
+__aortic regurgitation__ _n_ The backward flow of blood from the aorta into the left ventricle caused by incompetent closure of the aortic valve.  
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
 __arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arteriosclerosis) The thickening, hardening, and loss of elasticity of the walls of arteries.  
@@ -63,6 +64,7 @@ __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavit
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leaflets.  
+__mitral regurgitation__ _n_ The backward flow of blood from the left ventricle into the left atrium of the heart, caused by incompetent closure of the mitral valve.  
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
 __myocyte__ _n_ A muscle cell.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
@@ -79,6 +81,7 @@ __prolapse__ _n_ A condition in which organs fall down or slip out of place. It 
 __pseudoaneurysm__ _n_ The preferred term for a false aneurysm in which the saccular dilation (“aneurysm”) does not involve all of the vessel wall layers.  
 __pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a surgical procedure to treat atrial fibrillation.  
+__pulmonic regurgitation__ _n_ Backflow of blood from the pulmonary artery into the right ventricle, owing to insufficiency of the pulmonic valve.  
 __Purkinje fibers__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Purkinje_fibers)  
 __QRS complex__ _n_ (ventricular depolarization) An electrocardiographic complex consisting of the Q, R, and S waves, representing propagation of a wave of depolarization over the ventricles.  
 __R-R interval__ The time elapsing between two consecutive R waves in the electrocardiogram.  
@@ -98,8 +101,10 @@ __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minut
 __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wiki/Tachycardia-induced_cardiomyopathy) A disease where prolonged tachycardia or arrhythmia causes an impairment of the myocardium (heart muscle), which can result in heart failure.  
 __transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium. 
 __transseptal__ _adj_ Extending or performed through or across a septum.  
+__tricuspid regurgitation__ _n_ Backflow of blood from the right ventricle into the right atrium, owing to imperfect functioning of the tricuspid valve.  
 __tunneled__ _adj_ Placed surgically beneath the skin or into deeper tissues, e.g., into the intestinal wall. A tunneled catheter, e.g., is one that enters a vein through an incision made in the skin near the vein but then is passed through subcutaneous tissues to a second incision distant from the first. Tissue that surrounds the passage through which the catheter passes heals tightly around the catheter, holding it in place. Unlike non-tunneled catheters, tunneled catheters can remain in place for many months. They are used for intravenous infusions, the administration of chemotherapy, hemodialysis, and blood drawing.  
 __unipolar__ _adj_ Having, acting by means of, or produced by a single magnetic or electric pole.  
+__valvular regurgitation__ _n_ Backflow of blood through the orifice of one of the heart valves owing to imperfect closing of the valve.  
 __vein of Marshall__ _n_ The oblique vein of the left atrium (oblique vein of Marshall) is a small vessel which descends obliquely on the back of the left atrium and ends in the coronary sinus near its left extremity.  
 __ventricular fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523) An often fatal form of arrhythmia characterized by rapid, irregular fibrillar twitching of the ventricles of the heart in place of normal contractions, resulting in a loss of pulse.  
 __ventricular remodeling__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Ventricular_remodeling) In cardiology, ventricular remodeling (or cardiac remodeling) refers to changes in the size, shape, structure, and function of the heart. This can happen as a result of exercise (physiological remodeling) or after injury to the heart muscle (pathological remodeling).  
