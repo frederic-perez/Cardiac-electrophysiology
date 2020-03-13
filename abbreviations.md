@@ -33,6 +33,7 @@ __CTI__ Cavotricuspid isthmus · _CTI line_
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
 __DCM__ Dilated cardiomyopathy  
+__DOAC__ Direct oral anticoagulant  
 __DOACs__ Direct oral anticoagulants  
 __EACTS__ European Association for Cardio-Thoracic Surgery  
 __EACVI__ European Association of Cardiovascular Imaging  
@@ -61,6 +62,7 @@ __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedi
 __ICE__ Intracardiac echocardiography  
 __ICEG__ Intracardiac electrogram  
 __ICL__ Implantable cardioverter-defibrillator  
+__ILR__ Implantable loop recorder  
 __IR__ Interventional radiology  
 __J&J__ Johnson & Johnson  
 __LA__ Left Atrium  
@@ -124,6 +126,7 @@ __SBRT__ Stereotactic body radiation therapy
 __SCA__ Sudden cardiac arrest  
 __SCAF__ Sub-Clinical Atrial Fibrillation  
 __SCD__ Sudden cardiac death  
+__SHD__ Structural heart disease  
 __STEMI__ ST-elevation myocardial infarction  
 __SVC__ Superior vena cava  
 __SVT__ Supraventricular tachycardia  
