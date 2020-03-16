@@ -4,7 +4,9 @@
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/results/refine?term=ENCORE-VT)
 - [Atlas of Human CARDIAC Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml) (University of Minnesota)  
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
-- [Conduction system of the heart](https://www.youtube.com/watch?v=TnFoJ7Hhi-M) (Medvizz)
+- Electrical conduction system of the heart
+  - [Electrical system of the heart | Circulatory system physiology](https://www.youtube.com/watch?v=7K2icszdxQc) | NCLEX-RN | Khan Academy 
+  - [Conduction system of the heart](https://www.youtube.com/watch?v=TnFoJ7Hhi-M) (Medvizz)
 - Electrophysiology
   - [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
   - [Cardiac Electrophysiology - Online Learning | Johnson & Johnson Institute](https://jnjinstitute.com/en-us/online-profed-resources/resources/cardiac-electrophysiology)
