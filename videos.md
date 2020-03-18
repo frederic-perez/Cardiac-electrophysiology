@@ -4,3 +4,6 @@
 - KhanAcademyMedicine's [Circulatory system](https://www.youtube.com/playlist?list=PLbKSbFnKYVY2IzZtHG4lv6pRtmTSb6n_P) playlist  
 - Meditay's [Heart Anatomy](https://www.youtube.com/playlist?list=PLmzZnYRTmRK-FCP98PoP726sXkliirHxT) playlist  
 - Sanofi's [An overview of Atrial Fibrillation](https://www.youtube.com/watch?v=HyQjpQf_eME)  
+- Electrical conduction system of the heart
+  - [Electrical system of the heart | Circulatory system physiology](https://www.youtube.com/watch?v=7K2icszdxQc) | NCLEX-RN | Khan Academy 
+  - [Conduction system of the heart](https://www.youtube.com/watch?v=TnFoJ7Hhi-M) (Medvizz)
