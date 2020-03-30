@@ -27,6 +27,7 @@ __CKD__ Chronic kidney disease
 __CL__ Cycle length  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
 __CPVT__ Catecholaminergic polymorphic ventricular tachycardia  
+__CRM__ Cardiac rhythm management  
 __CRT__ Cardiac resynchronization therapy  
 __CS__ Coronary sinus  
 __CTI__ Cavotricuspid isthmus · _CTI line_  
@@ -127,6 +128,7 @@ __SCA__ Sudden cardiac arrest
 __SCAF__ Sub-Clinical Atrial Fibrillation  
 __SCD__ Sudden cardiac death  
 __SHD__ Structural heart disease  
+__SR__ Sinus rhythm  
 __STEMI__ ST-elevation myocardial infarction  
 __SVC__ Superior vena cava  
 __SVT__ Supraventricular tachycardia  
