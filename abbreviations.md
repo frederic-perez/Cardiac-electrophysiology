@@ -26,6 +26,7 @@ __CHF__ Congestive heart failure
 __CKD__ Chronic kidney disease  
 __CL__ Cycle length  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
+__COPD__ Chronic obstructive pulmonary disease  
 __CPVT__ Catecholaminergic polymorphic ventricular tachycardia  
 __CRM__ Cardiac rhythm management  
 __CRT__ Cardiac resynchronization therapy  
@@ -63,6 +64,7 @@ __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedi
 __ICE__ Intracardiac echocardiography  
 __ICEG__ Intracardiac electrogram  
 __ICL__ Implantable cardioverter-defibrillator  
+__IHD__ Ischaemic heart disease  
 __ILR__ Implantable loop recorder  
 __IR__ Interventional radiology  
 __J&J__ Johnson & Johnson  
@@ -90,6 +92,7 @@ __NCC__ Non-coronary cusp (one of the 3 aortic valve cusps)
 __NICM__ Nonischemic cardiomyopathy  
 __NSR__ Normal sinus rhythm  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
+__NSVT__ Non-Sustained Ventricular Tachycardia  
 __NVAF__ Non-valvular atrial fibrillation  
 __OHIF__ Open Health Imaging Foundation  
 __PACs__ Premature atrial contractions  
@@ -134,6 +137,7 @@ __SVC__ Superior vena cava
 __SVT__ Supraventricular tachycardia  
 __TAVI__ Transcatheter aortic valve implantation  
 __TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
+__TEE__ Transesophageal echocardiogram  
 __TIC__ Tachycardia-induced cardiomyopathy  
 __TMVR__ Transcatheter mitral valve replacement  
 __TOE__ Transesophageal echocardiography  
