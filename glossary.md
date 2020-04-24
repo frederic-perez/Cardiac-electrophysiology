@@ -14,6 +14,7 @@ __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to 
 __aortic regurgitation__ _n_ The backward flow of blood from the aorta into the left ventricle caused by incompetent closure of the aortic valve.  
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
+__arrhythmogenic__ _n_ Capable of inducing cardiac arrhythmias.  
 __arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arteriosclerosis) The thickening, hardening, and loss of elasticity of the walls of arteries.  
 __asystole__ _n_ The absence of heartbeat; cardiac arrest.  
 __atherectomy__ _n_ A non-surgical procedure to open blocked coronary arteries or vein grafts by using a device on the end of a catheter to cut or shave away atherosclerotic plaque (a deposit of fat and other substances that accumulate in the lining of the artery wall).  
