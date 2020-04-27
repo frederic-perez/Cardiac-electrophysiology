@@ -45,6 +45,7 @@ __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.  
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
+__dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells.  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
 __ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia  
 __effusion__ _n_ __1__ The escape of fluid from the blood vessels or lymphatics into the tissues or a cavity. __2__ A collection of the fluid effused.  
@@ -70,6 +71,7 @@ __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leafl
 __mitral regurgitation__ _n_ The backward flow of blood from the left ventricle into the left atrium of the heart, caused by incompetent closure of the mitral valve.  
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
 __myocyte__ _n_ A muscle cell.  
+__noncompaction cardiomyopathy__ _n_ (non-compaction cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Noncompaction_cardiomyopathy)  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
 __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease, usually recurring periodically.  
@@ -88,6 +90,7 @@ __pulmonic regurgitation__ _n_ Backflow of blood from the pulmonary artery into 
 __Purkinje fibers__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Purkinje_fibers)  
 __QRS complex__ _n_ (ventricular depolarization) An electrocardiographic complex consisting of the Q, R, and S waves, representing propagation of a wave of depolarization over the ventricles.  
 __R-R interval__ The time elapsing between two consecutive R waves in the electrocardiogram.  
+__refractory__ _adj_ Resistant to treatment.  
 __Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
 __sham procedure__ _n_  
