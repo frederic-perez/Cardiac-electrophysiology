@@ -1,5 +1,8 @@
 __ACC__ American College of Cardiology  
 __AED__ Automated external defibrillator  
+__2D GRE__ 2D gradient echo sequence  
+__2D SSFP__ 2D steady-state free precession sequence  
+__3D GRE__ 3D gradient echo sequences  
 __AF__, __AFib__ Atrial Fibrillation  
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator · It was trademarked by the Boston Scientific corporation, so the more generic ICD is preferred terminology.  
@@ -82,6 +85,7 @@ __LSPV__ Left superior pulmonary vein
 __LV__ Left Ventricle  
 __LVAD__ Left ventricular assist device  
 __LVEF__ Left ventricular ejection fraction  
+__LVESV__ Left ventricular end-systolic volume
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
 __MPP__ Multipoint pacing  
