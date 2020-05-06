@@ -1,8 +1,9 @@
-__ACC__ American College of Cardiology  
-__AED__ Automated external defibrillator  
 __2D GRE__ 2D gradient echo sequence  
 __2D SSFP__ 2D steady-state free precession sequence  
 __3D GRE__ 3D gradient echo sequences  
+__ACC__ American College of Cardiology  
+__ACHD__ Adult congenital heart disease  
+__AED__ Automated external defibrillator  
 __AF__, __AFib__ Atrial Fibrillation  
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator · It was trademarked by the Boston Scientific corporation, so the more generic ICD is preferred terminology.  
@@ -13,6 +14,7 @@ __ARVC__ Arrhythmogenic right ventricular cardiomyopathy
 __ASCVD__ Atherosclerotic cardiovascular disease  
 __ASD__ Atrial septal defect (one of two kinds of holes in the heart, the other being a PFO)  
 __AT__ Atrial tachycardia  
+__ATP__ Antitachycardia pacing  
 __AV__ Atrioventricular · _AV node_  
 __AVM__ Arteriovenous malformation  
 __AVN__ Atrioventricular node  
@@ -21,9 +23,11 @@ __BI__ Bipolar · _BI endocardial voltage_
 __BSW__ Biosense Webster  
 __BZ__ Border zone  
 __CABG__ Coronary artery bypass graft  
+__CAD__ Coronary artery disease  
 __CCM__ Cardiac Contractility Modulation  
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
+__CHB__ Complete heart block  
 __CHD__ Congenital heart defect, also known as a congenital heart anomaly and congenital heart disease  
 __CHF__ Congestive heart failure  
 __CKD__ Chronic kidney disease  
