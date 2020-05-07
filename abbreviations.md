@@ -73,6 +73,7 @@ __ICEG__ Intracardiac electrogram
 __ICL__ Implantable cardioverter-defibrillator  
 __IHD__ Ischaemic heart disease  
 __ILR__ Implantable loop recorder  
+__IPSC__ Induced pluripotent stem cell  
 __IR__ Interventional radiology  
 __J&J__ Johnson & Johnson  
 __LA__ Left Atrium  
@@ -116,6 +117,7 @@ __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org
 __PVCs__ Premature ventricular contractions  
 __PVI__ Pulmonary vein isolation · Polymorphic ventricular tachycardia  
 __PWI__ Posterior wall isolation  
+__QTc__ Corrected QT (interval)  
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
 __RBS__ Retained Blood Syndrome  
@@ -151,8 +153,11 @@ __TMVR__ Transcatheter mitral valve replacement
 __TOE__ Transesophageal echocardiography  
 __TTE__ Transthoracic echocardiography  
 __UNI__ Unipolar · _UNI endocardial voltage_  
+__VEGF__ Vascular endothelial growth factor  
 __VF__, __VFib__ Ventricular Fibrillation  
 __VHD__ Valvular heart disease  
+__VPB__ Ventricular premature beat  
+__WCD__ Wearable cardioverter defibrillator  
 __WOI__ Window of interest  
 __WPW syndrome__ Wolfe-Parkinson-White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
 __WPWS__ Wolff–Parkinson–White syndrome  
