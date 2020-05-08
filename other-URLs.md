@@ -2,6 +2,7 @@
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
   - [DECAF](https://clinicaltrials.gov/ct2/results/refine?term=DECAF)
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/results/refine?term=ENCORE-VT)
+  - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177)
 - [Atlas of Human CARDIAC Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml) (University of Minnesota)  
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
 - Electrophysiology
