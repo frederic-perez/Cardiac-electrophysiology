@@ -93,6 +93,7 @@ __LVEF__ Left ventricular ejection fraction
 __LVESV__ Left ventricular end-systolic volume
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
+__MMVT__ Monomorphic ventricular tachycardia  
 __MPP__ Multipoint pacing  
 __MSVT__ Monomorphic sustained VT  
 __MV__ Mitral valve  
@@ -154,7 +155,7 @@ __TOE__ Transesophageal echocardiography
 __TTE__ Transthoracic echocardiography  
 __UNI__ Unipolar · _UNI endocardial voltage_  
 __VEGF__ Vascular endothelial growth factor  
-__VF__, __VFib__ Ventricular Fibrillation  
+__VF__, __VFib__ Ventricular fibrillation  
 __VHD__ Valvular heart disease  
 __VPB__ Ventricular premature beat  
 __WCD__ Wearable cardioverter defibrillator  
