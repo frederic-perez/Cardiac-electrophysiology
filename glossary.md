@@ -65,6 +65,7 @@ __innervate__ _v_ __1__ To supply (an organ or a body part) with nerves. __2__ T
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
 __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
+__late potential__ _n_ Deflections found on signal-averaged electrocardiograms that follow the QRS complex and point to an increased likelihood of ventricular dysrhythmias. These deflections represent delays in electrical conduction through the ventricles.  
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leaflets.  
@@ -105,6 +106,7 @@ __substrate__ _n_
 __sudden death__ _n_ An unexpected or quick death.  
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
 __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wiki/Tachycardia-induced_cardiomyopathy) A disease where prolonged tachycardia or arrhythmia causes an impairment of the myocardium (heart muscle), which can result in heart failure.  
+__thromboembolism__ _n_ The blocking of a blood vessel by a blood clot dislodged from its site of origin.  
 __transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium. 
 __transseptal__ _adj_ Extending or performed through or across a septum.  
 __tricuspid regurgitation__ _n_ Backflow of blood from the right ventricle into the right atrium, owing to imperfect functioning of the tricuspid valve.  
@@ -115,4 +117,6 @@ __vein of Marshall__ _n_ The oblique vein of the left atrium (oblique vein of Ma
 __ventricular fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523) An often fatal form of arrhythmia characterized by rapid, irregular fibrillar twitching of the ventricles of the heart in place of normal contractions, resulting in a loss of pulse.  
 __ventricular remodeling__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Ventricular_remodeling) In cardiology, ventricular remodeling (or cardiac remodeling) refers to changes in the size, shape, structure, and function of the heart. This can happen as a result of exercise (physiological remodeling) or after injury to the heart muscle (pathological remodeling).  
 __ventricular tachycardia__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Ventricular_tachycardia)  
+__VT burden__ _n_ The number of sustained VT episodes or appropriate ICD interventions per year. _The reduction of VT burden was calculated as follows: 1–(no. of VT episodes in period post ablation/no. of VT episodes in same period pre-ablation)._  
+__VT/VF storm__ _n_ Generally defined as three or more episodes of VF or sustained VT within 24 hours.  
 __Wolff-Parkinson-White syndrome__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome)  
