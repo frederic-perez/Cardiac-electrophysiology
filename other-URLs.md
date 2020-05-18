@@ -1,4 +1,6 @@
-- [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
+- AFib
+  - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
+  - [Get smart about AFib](https://www.getsmartaboutafib.com/), by Biosense Webster, Inc.
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
   - [DECAF](https://clinicaltrials.gov/ct2/results/refine?term=DECAF)
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/results/refine?term=ENCORE-VT)
