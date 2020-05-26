@@ -64,6 +64,7 @@ __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)
 __FOI__ Fusion-optimized intervals  
 __GP__ Ganglionated plexi · _GP ablation_  
 __Gy__ Gray  
+__HCM__ Hypertrophic cardiomyopathy.  
 __HF__ Heart failure · _HF patients_  
 __HFpEF__ Heart failure with preserved ejection fraction  
 __HTN__ Hypertension  
