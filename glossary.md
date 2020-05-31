@@ -1,5 +1,7 @@
 __-desis__ _suff_ (Surgery) Binding, fixation (the surgeon made two things stick together).  
 __-ectomy__ _suff_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
+__-esis__ _suff_ Combining form meaning condition, action, or process.  
+__-itis__ _suff_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
 __-ostomy__ _suff_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.   
 __-pexy__ _suff_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
 __-plasty__ _suff_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
