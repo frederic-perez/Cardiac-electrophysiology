@@ -73,6 +73,7 @@ __ICE__ Intracardiac echocardiography
 __ICEG__ Intracardiac electrogram  
 __ICL__ Implantable cardioverter-defibrillator  
 __IHD__ Ischaemic heart disease  
+__ILAM__ Isochronal late activation map  
 __ILR__ Implantable loop recorder  
 __IPSC__ Induced pluripotent stem cell  
 __IR__ Interventional radiology  
