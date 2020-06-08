@@ -155,6 +155,7 @@ __TIC__ Tachycardia-induced cardiomyopathy
 __TMVR__ Transcatheter mitral valve replacement  
 __TOE__ Transesophageal echocardiography  
 __TTE__ Transthoracic echocardiography  
+__TVP__ Transvenous pacing; transvenous pacemaker  
 __UNI__ Unipolar · _UNI endocardial voltage_  
 __VEGF__ Vascular endothelial growth factor  
 __VF__, __VFib__ Ventricular fibrillation  
