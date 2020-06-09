@@ -63,6 +63,7 @@ __fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which
 __first-in-class__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
+__hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
 __hypoperfusion__ _n_ Inadequate blood flow to a single organ or through the entire circulatory system.  
 __ILAM__ (isochronal late activation mapping) is a functional method of EAM to prioritize uncoupled and delayed local potentials in the context of the entire window of sinus rhythm during intrinsic or paced rhythm.  
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
