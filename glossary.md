@@ -117,7 +117,8 @@ __sudden death__ _n_ An unexpected or quick death.
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
 __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wiki/Tachycardia-induced_cardiomyopathy) A disease where prolonged tachycardia or arrhythmia causes an impairment of the myocardium (heart muscle), which can result in heart failure.  
 __thromboembolism__ _n_ The blocking of a blood vessel by a blood clot dislodged from its site of origin.  
-__transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium. 
+__transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium.  
+__transmural necrosis__ _n_ _A symptom‐to‐balloon time of >121 minutes causes a high grade of transmural necrosis._  
 __transseptal puncture__ _n_ _The LA is the most difficult cardiac chamber to access percutaneously. Although it can be reached via the LV and mitral valve, manipulation of catheters that have made two 180° turns is cumbersome. The transseptal puncture permits a direct route to the LA via the intra-atrial septum and systemic venous system._  
 __transseptal__ _adj_ Extending or performed through or across a septum.  
 __tricuspid regurgitation__ _n_ Backflow of blood from the right ventricle into the right atrium, owing to imperfect functioning of the tricuspid valve.  
