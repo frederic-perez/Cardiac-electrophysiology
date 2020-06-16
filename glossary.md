@@ -19,6 +19,7 @@ __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) T
 __arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
 __arrhythmogenic__ _n_ Capable of inducing cardiac arrhythmias.  
 __arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arteriosclerosis) The thickening, hardening, and loss of elasticity of the walls of arteries.  
+__aspect__ _n_ The side of an object, such as an organ, that is facing in a particular direction.  
 __asystole__ _n_ The absence of heartbeat; cardiac arrest.  
 __atherectomy__ _n_ A non-surgical procedure to open blocked coronary arteries or vein grafts by using a device on the end of a catheter to cut or shave away atherosclerotic plaque (a deposit of fat and other substances that accumulate in the lining of the artery wall).  
 __atherosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Atherosclerosis) A disease in which the inside of an artery narrows due to the build up of plaque.  
@@ -28,6 +29,7 @@ __atrial flutter__ _n_ [[Encyclopedia article by TheFreeDictionary]](https://enc
 __atrial remodeling__ _n_  
 __atrioventricular nodal reentry tachycardia__ _n_  
 __atrioventricular node__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Atrioventricular_node)  
+__bigeminy__ _n_ An abnormal pulse characterized by two beats in rapid succession followed by a pause.  
 __bipolar__ _adj_ Relating to or having two poles or charges.  
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
 __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per minute in an adult human. Compare _tachycardia_  
