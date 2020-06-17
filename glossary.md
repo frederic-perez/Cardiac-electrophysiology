@@ -103,6 +103,7 @@ __Purkinje fibers__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Purkinje_fib
 __QRS complex__ _n_ (ventricular depolarization) An electrocardiographic complex consisting of the Q, R, and S waves, representing propagation of a wave of depolarization over the ventricles.  
 __R-R interval__ The time elapsing between two consecutive R waves in the electrocardiogram.  
 __refractory__ _adj_ Resistant to treatment.  
+__retrograde approach__ _n_ Two ways to reach the LV: in the _transseptal approach_, the doctor inserts the catheter into the LV through veins, starting in the upper leg; in the _retrograde approach_, the doctor inserts the catheter through a small artery in the upper leg. The catheter travels through the aorta to reach the LV.  
 __sarcoidosis__ _n_ A disease of unknown origin that is characterized by the formation of granulomatous lesions especially in the lungs and lymph nodes of the chest and trunk, and less often in the skin, eyes, and other organs, and that if untreated may lead to chronic illness and organ damage.  
 __Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
@@ -121,6 +122,7 @@ __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wi
 __thromboembolism__ _n_ The blocking of a blood vessel by a blood clot dislodged from its site of origin.  
 __transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium.  
 __transmural necrosis__ _n_ _A symptom‐to‐balloon time of >121 minutes causes a high grade of transmural necrosis._  
+__transseptal approach__ _n_ Two ways to reach the LV: in the _transseptal approach_, the doctor inserts the catheter into the LV through veins, starting in the upper leg; in the _retrograde approach_, the doctor inserts the catheter through a small artery in the upper leg. The catheter travels through the aorta to reach the LV.  
 __transseptal puncture__ _n_ _The LA is the most difficult cardiac chamber to access percutaneously. Although it can be reached via the LV and mitral valve, manipulation of catheters that have made two 180° turns is cumbersome. The transseptal puncture permits a direct route to the LA via the intra-atrial septum and systemic venous system._  
 __transseptal__ _adj_ Extending or performed through or across a septum.  
 __tricuspid regurgitation__ _n_ Backflow of blood from the right ventricle into the right atrium, owing to imperfect functioning of the tricuspid valve.  
