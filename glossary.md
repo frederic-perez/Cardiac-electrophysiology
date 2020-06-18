@@ -8,6 +8,7 @@ __-plasty__ _suff_ (Surgery) Molding or shaping of a defect to restore form and 
 __-poiesis__ _suff_ Production; creation; formation: _hematopoiesis_.  
 __-rrhaphy__ _suff_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
 __-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
+__12 derivations__ _n_ A derivation is the process of getting something from something else. The process of getting or collecting things or information. _A standard ECG uses 12 derivations to examine the heart's electrical potentials from 12 different viewpoints._  
 __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
 __akinesis___ _n_ Motionlessness attributable to a temporary paralysis.  
@@ -81,6 +82,7 @@ __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leafl
 __mitral regurgitation__ _n_ The backward flow of blood from the left ventricle into the left atrium of the heart, caused by incompetent closure of the mitral valve.  
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
 __myocyte__ _n_ A muscle cell.  
+__myositis__ _n_ Inflammation of muscle tissue.  
 __noncompaction cardiomyopathy__ _n_ (non-compaction cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Noncompaction_cardiomyopathy)  
 __oximetry__ _n_ A device for measuring the oxygen saturation of arterial blood, especially a pulse oximeter.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
