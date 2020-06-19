@@ -74,6 +74,9 @@ __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruc
 __innervate__ _v_ __1__ To supply (an organ or a body part) with nerves. __2__ To stimulate (a nerve, muscle, or body part) to action.  
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
+__isochrone__ _n_ An isogram connecting points at which something occurs or arrives at the same time.  
+__isogram__ _n_ See isoline.  
+__isoline__ _n_ A line on a map, chart, or graph connecting points of equal value. Also called _isogram_.  
 __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
 __late potential__ _n_ Deflections found on signal-averaged electrocardiograms that follow the QRS complex and point to an increased likelihood of ventricular dysrhythmias. These deflections represent delays in electrical conduction through the ventricles.  
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
