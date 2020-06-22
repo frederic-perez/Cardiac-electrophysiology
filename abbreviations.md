@@ -120,6 +120,7 @@ __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org
 __PVCs__ Premature ventricular contractions  
 __PVI__ Pulmonary vein isolation · Polymorphic ventricular tachycardia  
 __PWI__ Posterior wall isolation  
+__QOL__ Quality of life  
 __QTc__ Corrected QT (interval)  
 __RA__ Right Atrium  
 __RAA__ Right Atrial Appendage  
