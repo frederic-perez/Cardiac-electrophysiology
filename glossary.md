@@ -40,6 +40,7 @@ __cannulate__ _v_ To insert a cannula into (a bodily cavity, duct, or vessel), a
 __cannulation__ _n_ Introduction of a cannula into a tubelike organ or body cavity. _Syn_ intubation  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
+__cardioneural__ _adj_ Pertaining to the heart and nervous system.  
 __cardiopoiesis__ _n_ The production of cardiac muscle tissue.  
 __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It's also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that's performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that's performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
 __catheter ablation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
@@ -54,12 +55,13 @@ __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells.  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
 __echogenic__ _adj_ Giving rise to reflections (echoes) of ultrasound waves.  
-__ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia  
+__ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia _Mechanical ectopies._  
 __effusion__ _n_ __1__ The escape of fluid from the blood vessels or lymphatics into the tissues or a cavity. __2__ A collection of the fluid effused.  
 __electrocardiogram__ _n_ The graphic record produced by an electrocardiograph. _Syn_ cardiogram  
 __electrocardiograph__ _n_ A galvanometric device that detects variations in the electric potential that triggers the heartbeat, used to evaluate the heart's health. _Syn_ cardiograph  
 __electrophysiology__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Electrophysiology) The branch of medical science concerned with the electrical activity associated with bodily processes.  
 __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other foreign matter that gets stuck while traveling through the bloodstream. Cerebral embolism occurs when a blood clot from elsewhere in the circulatory system breaks free. If it becomes lodged in an artery supplying the brain, either in the brain or in the neck, it can cause a stroke. The most common cause of cerebral embolism is atrial fibrillation. In atrial fibrillation, the upper chambers (atria) of the heart beat weakly and rapidly, instead of slowly and steadily. Blood within the atria is not completely emptied. This stagnant blood may form clots within the atria, which can then break off and enter the circulation. Atrial fibrillation is a factor in about 15% of all strokes. The risk of a stroke from atrial fibrillation can be dramatically reduced with daily use of anticoagulant medication.  
+__entrain__ _v_ To adjust (an internal rhythm of an organism) so that it synchronizes with an external cycle.  
 __etiology__ _n_ The cause or origin of a disease or disorder as determined by medical diagnosis.  
 __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
 __fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which connective tissue replaces normal parenchymal tissue to the extent that it goes unchecked, leading to considerable tissue remodelling and the formation of permanent scar tissue. _Cardiac fibrosis can be observed in a DE-CMR scan._  
@@ -133,6 +135,7 @@ __transseptal__ _adj_ Extending or performed through or across a septum.
 __tricuspid regurgitation__ _n_ Backflow of blood from the right ventricle into the right atrium, owing to imperfect functioning of the tricuspid valve.  
 __tunneled__ _adj_ Placed surgically beneath the skin or into deeper tissues, e.g., into the intestinal wall. A tunneled catheter, e.g., is one that enters a vein through an incision made in the skin near the vein but then is passed through subcutaneous tissues to a second incision distant from the first. Tissue that surrounds the passage through which the catheter passes heals tightly around the catheter, holding it in place. Unlike non-tunneled catheters, tunneled catheters can remain in place for many months. They are used for intravenous infusions, the administration of chemotherapy, hemodialysis, and blood drawing.  
 __unipolar__ _adj_ Having, acting by means of, or produced by a single magnetic or electric pole.  
+__unremarkable__ _adj_ Lacking distinction; ordinary.  
 __valvular regurgitation__ _n_ Backflow of blood through the orifice of one of the heart valves owing to imperfect closing of the valve.  
 __vein of Marshall__ _n_ The oblique vein of the left atrium (oblique vein of Marshall) is a small vessel which descends obliquely on the back of the left atrium and ends in the coronary sinus near its left extremity.  
 __ventricular aneurysm__ _n_ Ventricular aneurysms are one of the many complications that may occur after a heart attack. The word aneurysm refers to a bulge or ‘pocketing’ of the wall or lining of a vessel commonly occurring in the blood vessels at the base of the septum, or within the aorta.  
