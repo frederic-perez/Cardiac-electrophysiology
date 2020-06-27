@@ -23,6 +23,7 @@ __BI__ Bipolar · _BI endocardial voltage_
 __BSW__ Biosense Webster  
 __BZ__ Border zone  
 __CABG__ Coronary artery bypass graft  
+__CAC__ Coronary artery calcium  
 __CAD__ Coronary artery disease  
 __CCM__ Cardiac Contractility Modulation  
 __CF__ Contact force  
@@ -64,7 +65,7 @@ __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)
 __FOI__ Fusion-optimized intervals  
 __GP__ Ganglionated plexi · _GP ablation_  
 __Gy__ Gray  
-__HCM__ Hypertrophic cardiomyopathy.  
+__HCM__ Hypertrophic cardiomyopathy  
 __HF__ Heart failure · _HF patients_  
 __HFpEF__ Heart failure with preserved ejection fraction  
 __HTN__ Hypertension  
@@ -151,7 +152,7 @@ __SVC__ Superior vena cava
 __SVT__ Supraventricular tachycardia  
 __TAVI__ Transcatheter aortic valve implantation  
 __TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
-__TEE__ Transesophageal echocardiogram  
+__TEE__ Transesophageal echocardiogram · Transesophageal echocardiography  
 __TIC__ Tachycardia-induced cardiomyopathy  
 __TMVR__ Transcatheter mitral valve replacement  
 __TOE__ Transesophageal echocardiography  
