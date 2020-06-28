@@ -72,6 +72,7 @@ __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
 __hypokinesis__ _n_ Diminished or slow movement. _Syn_ hypocinesis, hypocinesia, hypomotility  
 __hypoperfusion__ _n_ Inadequate blood flow to a single organ or through the entire circulatory system.  
+__idiopathic__ _adj_ Denoting a disease of unknown cause.  
 __ILAM__ (isochronal late activation mapping) is a functional method of EAM to prioritize uncoupled and delayed local potentials in the context of the entire window of sinus rhythm during intrinsic or paced rhythm.  
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruction of local blood supply, as by a thrombus or embolus. _Syn_ infarction  
