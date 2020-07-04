@@ -75,10 +75,10 @@ __hypoperfusion__ _n_ Inadequate blood flow to a single organ or through the ent
 __idiopathic__ _adj_ Denoting a disease of unknown cause.  
 __ILAM__ (isochronal late activation mapping) is a functional method of EAM to prioritize uncoupled and delayed local potentials in the context of the entire window of sinus rhythm during intrinsic or paced rhythm.  
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
-__intramural__ _adj_ Within the walls of a cavity or hollow organ. _Having a subepicardial or deep intramural substrate._  
 __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruction of local blood supply, as by a thrombus or embolus. _Syn_ infarction  
 __innervate__ _v_ __1__ To supply (an organ or a body part) with nerves. __2__ To stimulate (a nerve, muscle, or body part) to action.  
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
+__intramural__ _adj_ Within the walls of a cavity or hollow organ. _Having a subepicardial or deep intramural substrate._  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
 __isochrone__ _n_ An isogram connecting points at which something occurs or arrives at the same time.  
 __isoelectric__ _adj_ Having equal electric potential.  
@@ -132,6 +132,7 @@ __sudden death__ _n_ An unexpected or quick death.
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
 __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wiki/Tachycardia-induced_cardiomyopathy) A disease where prolonged tachycardia or arrhythmia causes an impairment of the myocardium (heart muscle), which can result in heart failure.  
 __thromboembolism__ _n_ The blocking of a blood vessel by a blood clot dislodged from its site of origin.  
+__Torsades de pointes__ _n_ A specific type of abnormal heart rhythm that can lead to sudden cardiac death.  
 __transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium.  
 __transmural necrosis__ _n_ _A symptom‐to‐balloon time of >121 minutes causes a high grade of transmural necrosis._  
 __transseptal approach__ _n_ Two ways to reach the LV: in the _transseptal approach_, the doctor inserts the catheter into the LV through veins, starting in the upper leg; in the _retrograde approach_, the doctor inserts the catheter through a small artery in the upper leg. The catheter travels through the aorta to reach the LV.  
