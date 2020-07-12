@@ -131,6 +131,7 @@ __substrate__ _n_
 __sudden death__ _n_ An unexpected or quick death.  
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
 __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wiki/Tachycardia-induced_cardiomyopathy) A disease where prolonged tachycardia or arrhythmia causes an impairment of the myocardium (heart muscle), which can result in heart failure.  
+__Takotsubo cardiomyopathy__ _n_ (Takotsubo syndrome, stress cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Takotsubo_cardiomyopathy)  
 __thromboembolism__ _n_ The blocking of a blood vessel by a blood clot dislodged from its site of origin.  
 __Torsades de pointes__ _n_ A specific type of abnormal heart rhythm that can lead to sudden cardiac death.  
 __transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium.  
