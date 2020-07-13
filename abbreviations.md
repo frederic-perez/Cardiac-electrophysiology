@@ -7,6 +7,7 @@ __AED__ Automated external defibrillator
 __AF__, __AFib__ Atrial Fibrillation  
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator · It was trademarked by the Boston Scientific corporation, so the more generic ICD is preferred terminology.  
+__AIS__ Acute ischemic stroke  
 __AMI__ Acute myocardial infarction  
 __Ao__ Aorta  
 __AP__ Action potential  
