@@ -34,6 +34,7 @@ __bigeminy__ _n_ An abnormal pulse characterized by two beats in rapid successio
 __bipolar__ _adj_ Relating to or having two poles or charges.  
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
 __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per minute in an adult human. Compare _tachycardia_  
+__broken heart syndrome__ _n_ See _Takotsubo cardiomyopathy_.  
 __bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)  
 __cancellous__ _adj_ Of a reticular, spongy, or lattice-like structure; said mainly of bone tissue.  
 __cannulate__ _v_ To insert a cannula into (a bodily cavity, duct, or vessel), as for the drainage  of fluid or the administration of medication.  
@@ -124,6 +125,7 @@ __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_n
 __sinus rhythm__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinus_rhythm)  
 __sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
 __ST elevation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/ST_elevation)  
+__stress cardiomyopathy__ _n_ See _Takotsubo cardiomyopathy_.  
 __stroke volume__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Stroke_volume) The volume of blood pumped from a ventricle of the heart in one beat.  
 __stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
 __subendocardial__ _adj_ Beneath the endocardium. _Subendocardial ischemia is ischemia that is not transmural._  
