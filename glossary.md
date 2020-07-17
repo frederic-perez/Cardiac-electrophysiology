@@ -101,6 +101,7 @@ __pacemapping__ _n_ An electrophysiologic technique designed to help locating ta
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
 __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease, usually recurring periodically.  
 __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal versus permanent AF._  
+__pathogenesis__ _n_ The origin, development, and resultant effects of a disease.  
 __pathophysiology__ _n_ The study of the effects of disease on physiological processes.  
 __pericardial effusion__ _n_ The accumulation of an abnormally large amount of pericardial fluid in the pericardium.  
 __perioperative__ _adj_ Pertaining or relating to the period of time surrounding a surgical procedure, including the preoperative, intraoperative, and postoperative periods.  
