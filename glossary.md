@@ -86,6 +86,7 @@ __isoelectric__ _adj_ Having equal electric potential.
 __isogram__ _n_ See isoline.  
 __isoline__ _n_ A line on a map, chart, or graph connecting points of equal value. Also called _isogram_.  
 __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
+__lacunar stroke__ _n_ (lacunar infarct) The most common type of stroke, and results from occlusion of small penetrating arteries that provide blood to the brain's deep structures.  
 __late potential__ _n_ Deflections found on signal-averaged electrocardiograms that follow the QRS complex and point to an increased likelihood of ventricular dysrhythmias. These deflections represent delays in electrical conduction through the ventricles.  
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
