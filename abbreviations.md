@@ -109,6 +109,7 @@ __NSTEMI__ Non-ST-elevation myocardial infarction
 __NSVT__ Non-Sustained Ventricular Tachycardia  
 __NVAF__ Non-valvular atrial fibrillation  
 __OHIF__ Open Health Imaging Foundation  
+__PA__ Pulmonary artery  
 __PACs__ Premature atrial contractions  
 __PAD__ Peripheral artery disease  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
