@@ -30,6 +30,7 @@ __atrial flutter__ _n_ [[Encyclopedia article by TheFreeDictionary]](https://enc
 __atrial remodeling__ _n_  
 __atrioventricular nodal reentry tachycardia__ _n_  
 __atrioventricular node__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Atrioventricular_node)  
+__bacteremia__ _n_ The presence of bacteria in the blood.  
 __bigeminy__ _n_ An abnormal pulse characterized by two beats in rapid succession followed by a pause.  
 __bipolar__ _adj_ Relating to or having two poles or charges.  
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
@@ -48,6 +49,7 @@ __catheter ablation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_a
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
+__coronary spasm__ _n_ Muscular closure of the coronary arteries, causing angina, ischemia, or myocardial infarction.  
 __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, often leading to destruction of heart muscle.  
 __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
