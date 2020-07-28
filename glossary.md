@@ -58,6 +58,8 @@ __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells.  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
 __echogenic__ _adj_ Giving rise to reflections (echoes) of ultrasound waves.  
+__ectasis__ _n_ (ectasia) Dilation of a tubular structure.  
+__ectatic__ _adj_ Relating to, or marked by, ectasis. _Ectatic coronary arteries._  
 __ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia _Mechanical ectopies._  
 __effusion__ _n_ __1__ The escape of fluid from the blood vessels or lymphatics into the tissues or a cavity. __2__ A collection of the fluid effused.  
 __electrocardiogram__ _n_ The graphic record produced by an electrocardiograph. _Syn_ cardiogram  
