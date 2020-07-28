@@ -4,7 +4,7 @@ __3D GRE__ 3D gradient echo sequences
 __ACC__ American College of Cardiology  
 __ACHD__ Adult congenital heart disease  
 __AED__ Automated external defibrillator  
-__AF__, __AFib__ Atrial Fibrillation  
+__AF__, __AFib__ Atrial fibrillation  
 __AHA__ American Heart Association  
 __AICD__ Automatic Implantable Cardioverter Defibrillator · It was trademarked by the Boston Scientific corporation, so the more generic ICD is preferred terminology.  
 __AIS__ Acute ischemic stroke  
@@ -80,8 +80,8 @@ __ILR__ Implantable loop recorder
 __IPSC__ Induced pluripotent stem cell  
 __IR__ Interventional radiology  
 __J&J__ Johnson & Johnson  
-__LA__ Left Atrium  
-__LAA__ Left Atrial Appendage  
+__LA__ Left atrium  
+__LAA__ Left atrial appendage  
 __LAAC__ Left atrial appendage closure  
 __LAD__ Left anterior descending coronary artery  
 __LAT__ Local activation time  
@@ -91,7 +91,7 @@ __LGE__ Late gadolinium enhancement
 __LGE-CMR__ Late gadolinium enhanced CMR  
 __LIPV__ Left inferior pulmonary vein  
 __LSPV__ Left superior pulmonary vein  
-__LV__ Left Ventricle  
+__LV__ Left ventricle  
 __LVAD__ Left ventricular assist device  
 __LVEF__ Left ventricular ejection fraction  
 __LVESV__ Left ventricular end-systolic volume
@@ -125,8 +125,8 @@ __PVI__ Pulmonary vein isolation · Polymorphic ventricular tachycardia
 __PWI__ Posterior wall isolation  
 __QOL__ Quality of life  
 __QTc__ Corrected QT (interval)  
-__RA__ Right Atrium  
-__RAA__ Right Atrial Appendage  
+__RA__ Right atrium  
+__RAA__ Right atrial appendage  
 __RBS__ Retained Blood Syndrome  
 __RCA__ Right coronary artery  
 __RCC__ Right coronary cusp (one of the 3 aortic valve cusps)  
@@ -145,7 +145,7 @@ __SAX__ Short-axis
 __SBE__ Subacute bacterial endocarditis  
 __SBRT__ Stereotactic body radiation therapy  
 __SCA__ Sudden cardiac arrest  
-__SCAF__ Sub-Clinical Atrial Fibrillation  
+__SCAF__ Sub-clinical atrial fibrillation  
 __SCD__ Sudden cardiac death  
 __SHD__ Structural heart disease  
 __SR__ Sinus rhythm  
