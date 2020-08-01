@@ -53,6 +53,7 @@ __EAN__ Electroanatomic
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __ECGI__ Electrocardiographic Imaging  
 __EF__ Ejection fraction  
+__EGE__ Early gadolinium enhancement (compare with LGE)  
 __EGM__ Electrogram. The word "electrogram" (EGM) without further specification usually means an intracardiac electrogram.  
 __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EP__ Electrophysiology  
@@ -87,7 +88,7 @@ __LAD__ Left anterior descending coronary artery
 __LAT__ Local activation time  
 __LAX__ Long-axis  
 __LCC__ Left coronary cusp (one of the 3 aortic valve cusps)  
-__LGE__ Late gadolinium enhancement  
+__LGE__ Late gadolinium enhancement (compare with EGE)  
 __LGE-CMR__ Late gadolinium enhanced CMR  
 __LIPV__ Left inferior pulmonary vein  
 __LSPV__ Left superior pulmonary vein  
