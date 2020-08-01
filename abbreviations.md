@@ -95,7 +95,7 @@ __LSPV__ Left superior pulmonary vein
 __LV__ Left ventricle  
 __LVAD__ Left ventricular assist device  
 __LVEF__ Left ventricular ejection fraction  
-__LVESV__ Left ventricular end-systolic volume
+__LVESV__ Left ventricular end-systolic volume  
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
 __MMVT__ Monomorphic ventricular tachycardia  
