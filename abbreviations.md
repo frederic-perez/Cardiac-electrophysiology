@@ -70,6 +70,7 @@ __Gy__ Gray
 __HCM__ Hypertrophic cardiomyopathy  
 __HF__ Heart failure · _HF patients_  
 __HFpEF__ Heart failure with preserved ejection fraction  
+__HPSD__ High-powered short-duration (contact force), for ablation  
 __HTN__ Hypertension  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac echocardiography  
@@ -124,6 +125,7 @@ __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org
 __PVCs__ Premature ventricular contractions  
 __PVI__ Pulmonary vein isolation · Polymorphic ventricular tachycardia  
 __PWI__ Posterior wall isolation  
+__QAV__ Quadricuspid aortic valve  
 __QOL__ Quality of life  
 __QTc__ Corrected QT (interval)  
 __RA__ Right atrium  
