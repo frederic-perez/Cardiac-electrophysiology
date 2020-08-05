@@ -114,6 +114,7 @@ __pericardial effusion__ _n_ The accumulation of an abnormally large amount of 
 __perioperative__ _adj_ Pertaining or relating to the period of time surrounding a surgical procedure, including the preoperative, intraoperative, and postoperative periods.  
 __phrenic nerve__ _n_ A major branch of the cervical plexus, extending through the thorax to provide innervation of the diaphragm. Nerve impulses from the inspiratory center in the brain travel down it, causing contraction of the diaphragm, so that inhalation can occur.  
 __placebo procedure__ _n_  
+__polymorphic ventricular tachycardia__ _n_ A form of ventricular tachycardia in which there are multiple ventricular foci with the resultant QRS complexes varying in amplitude, axis and duration. The commonest cause of PVT is myocardial ischaemia.  
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
 __prolapse__ _n_ A condition in which organs fall down or slip out of place. It is used for organs protruding through the vagina, rectum, or for the misalignment of the valves of the heart. A spinal disc herniation is also sometimes called "disc prolapse".  
 __pseudoaneurysm__ _n_ The preferred term for a false aneurysm in which the saccular dilation (“aneurysm”) does not involve all of the vessel wall layers.  
