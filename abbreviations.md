@@ -6,7 +6,7 @@ __ACHD__ Adult congenital heart disease
 __AED__ Automated external defibrillator  
 __AF__, __AFib__ Atrial fibrillation  
 __AHA__ American Heart Association  
-__AICD__ Automatic Implantable Cardioverter Defibrillator · It was trademarked by the Boston Scientific corporation, so the more generic ICD is preferred terminology.  
+__AICD__ Automatic implantable cardioverter defibrillator · It was trademarked by the Boston Scientific corporation, so the more generic ICD is preferred terminology.  
 __AIS__ Acute ischemic stroke  
 __AMI__ Acute myocardial infarction  
 __Ao__ Aorta  
@@ -108,7 +108,7 @@ __NCC__ Non-coronary cusp (one of the 3 aortic valve cusps)
 __NICM__ Nonischemic cardiomyopathy  
 __NSR__ Normal sinus rhythm  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
-__NSVT__ Non-Sustained Ventricular Tachycardia  
+__NSVT__ Non-sustained ventricular tachycardia  
 __NVAF__ Non-valvular atrial fibrillation  
 __OHIF__ Open Health Imaging Foundation  
 __PA__ Pulmonary artery  
@@ -133,7 +133,7 @@ __RAA__ Right atrial appendage
 __RBS__ Retained Blood Syndrome  
 __RCA__ Right coronary artery  
 __RCC__ Right coronary cusp (one of the 3 aortic valve cusps)  
-__RF__ Radiofrequency · Roof line  
+__RF__ Radiofrequency  
 __RFCA__ Radiofrequency catheter ablation  
 __RIPV__ Right inferior pulmonary vein  
 __RMN__ Robotic Magnetic Navigation  
