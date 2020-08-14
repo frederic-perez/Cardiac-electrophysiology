@@ -69,6 +69,7 @@ __electrocardiograph__ _n_ A galvanometric device that detects variations in the
 __electrophysiology__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Electrophysiology) The branch of medical science concerned with the electrical activity associated with bodily processes.  
 __electroporation__ _n_  
 __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other foreign matter that gets stuck while traveling through the bloodstream. Cerebral embolism occurs when a blood clot from elsewhere in the circulatory system breaks free. If it becomes lodged in an artery supplying the brain, either in the brain or in the neck, it can cause a stroke. The most common cause of cerebral embolism is atrial fibrillation. In atrial fibrillation, the upper chambers (atria) of the heart beat weakly and rapidly, instead of slowly and steadily. Blood within the atria is not completely emptied. This stagnant blood may form clots within the atria, which can then break off and enter the circulation. Atrial fibrillation is a factor in about 15% of all strokes. The risk of a stroke from atrial fibrillation can be dramatically reduced with daily use of anticoagulant medication.  
+__endocarditis__ _n_ Inflammation of the endocardium.  
 __entrain__ _v_ To adjust (an internal rhythm of an organism) so that it synchronizes with an external cycle.  
 __etiology__ _n_ The cause or origin of a disease or disorder as determined by medical diagnosis.  
 __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
@@ -108,6 +109,7 @@ __pacemapping__ _n_ An electrophysiologic technique designed to help locating ta
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
 __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease, usually recurring periodically.  
 __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal versus permanent AF._  
+__patency__ _n_ The state or quality of being open, expanded, or unblocked.  
 __pathogenesis__ _n_ The origin, development, and resultant effects of a disease.  
 __pathophysiology__ _n_ The study of the effects of disease on physiological processes.  
 __pericardial effusion__ _n_ The accumulation of an abnormally large amount of pericardial fluid in the pericardium.  
