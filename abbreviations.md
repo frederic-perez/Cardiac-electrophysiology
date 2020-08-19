@@ -74,6 +74,7 @@ __HPSD__ High-powered short-duration (contact force), for ablation
 __HTN__ Hypertension  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac echocardiography  
+__ICU__ Intensive care unit  
 __ICEG__ Intracardiac electrogram  
 __ICL__ Implantable cardioverter-defibrillator  
 __IHD__ Ischaemic heart disease  
