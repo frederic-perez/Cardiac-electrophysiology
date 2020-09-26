@@ -128,6 +128,7 @@ __QRS complex__ _n_ (ventricular depolarization) An electrocardiographic complex
 __R-R interval__ The time elapsing between two consecutive R waves in the electrocardiogram.  
 __refractory__ _adj_ Resistant to treatment.  
 __retrograde approach__ _n_ Two ways to reach the LV: in the _transseptal approach_, the doctor inserts the catheter into the LV through veins, starting in the upper leg; in the _retrograde approach_, the doctor inserts the catheter through a small artery in the upper leg. The catheter travels through the aorta to reach the LV.  
+__rotoblation__ _n_ (rotablation, rotoablation) Drilling through the core of a plaque obstructing a blood vessel to improve blood flow to the organ supplied by the vessel; rotational atherectomy.  
 __sarcoidosis__ _n_ A disease of unknown origin that is characterized by the formation of granulomatous lesions especially in the lungs and lymph nodes of the chest and trunk, and less often in the skin, eyes, and other organs, and that if untreated may lead to chronic illness and organ damage.  
 __Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
@@ -139,6 +140,7 @@ __ST elevation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/ST_elevation)
 __stress cardiomyopathy__ _n_ See _Takotsubo cardiomyopathy_.  
 __stroke volume__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Stroke_volume) The volume of blood pumped from a ventricle of the heart in one beat.  
 __stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
+__subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subendocardial__ _adj_ Beneath the endocardium. _Subendocardial ischemia is ischemia that is not transmural._  
 __substrate__ _n_  
 __sudden death__ _n_ An unexpected or quick death.  
