@@ -21,6 +21,7 @@ __AVM__ Arteriovenous malformation
 __AVN__ Atrioventricular node  
 __AVNRT__ AV nodal reentrant tachycardia  
 __BI__ Bipolar · _BI endocardial voltage_  
+__BP__ Blood pressure  
 __BSW__ Biosense Webster  
 __BZ__ Border zone  
 __CABG__ Coronary artery bypass graft  
@@ -68,15 +69,16 @@ __FOI__ Fusion-optimized intervals
 __GP__ Ganglionated plexi · _GP ablation_  
 __Gy__ Gray  
 __HCM__ Hypertrophic cardiomyopathy  
+__HCP__ Healthcare professional  
 __HF__ Heart failure · _HF patients_  
 __HFpEF__ Heart failure with preserved ejection fraction  
 __HPSD__ High-powered short-duration (contact force), for ablation  
 __HTN__ Hypertension  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac echocardiography  
-__ICU__ Intensive care unit  
 __ICEG__ Intracardiac electrogram  
 __ICL__ Implantable cardioverter-defibrillator  
+__ICU__ Intensive care unit  
 __IHD__ Ischaemic heart disease  
 __ILAM__ Isochronal late activation map  
 __ILR__ Implantable loop recorder  
@@ -98,6 +100,7 @@ __LV__ Left ventricle
 __LVAD__ Left ventricular assist device  
 __LVEF__ Left ventricular ejection fraction  
 __LVESV__ Left ventricular end-systolic volume  
+__LVSD__ Left ventricular systolic dysfunction  
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
 __MMVT__ Monomorphic ventricular tachycardia  
