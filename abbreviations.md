@@ -22,6 +22,7 @@ __AVN__ Atrioventricular node
 __AVNRT__ AV nodal reentrant tachycardia  
 __BI__ Bipolar · _BI endocardial voltage_  
 __BP__ Blood pressure  
+__BPV__ Blood pressure variability  
 __BSW__ Biosense Webster  
 __BZ__ Border zone  
 __CABG__ Coronary artery bypass graft  
