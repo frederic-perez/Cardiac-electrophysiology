@@ -149,6 +149,7 @@ __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wi
 __Takotsubo cardiomyopathy__ _n_ (Takotsubo syndrome, stress cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Takotsubo_cardiomyopathy)  
 __thromboembolism__ _n_ The blocking of a blood vessel by a blood clot dislodged from its site of origin.  
 __Torsades de pointes__ _n_ A specific type of abnormal heart rhythm that can lead to sudden cardiac death.  
+__transcatheter__ _adj_ Performed through the lumen of a catheter.  
 __transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium.  
 __transmural necrosis__ _n_ _A symptom‐to‐balloon time of >121 minutes causes a high grade of transmural necrosis._  
 __transseptal approach__ _n_ Two ways to reach the LV: in the _transseptal approach_, the doctor inserts the catheter into the LV through veins, starting in the upper leg; in the _retrograde approach_, the doctor inserts the catheter through a small artery in the upper leg. The catheter travels through the aorta to reach the LV.  
@@ -165,6 +166,7 @@ __ventricular fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/dise
 __ventricular remodeling__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Ventricular_remodeling) In cardiology, ventricular remodeling (or cardiac remodeling) refers to changes in the size, shape, structure, and function of the heart. This can happen as a result of exercise (physiological remodeling) or after injury to the heart muscle (pathological remodeling).  
 __ventricular tachycardia isthmus(es)__ _n_ _The activation map of the VT is shown with the full circuit from the entrance to the exit sites, passing through the VT isthmus, which is delimited by two lateral boundaries of conduction block._  
 __ventricular tachycardia__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Ventricular_tachycardia)  
+__ventriculogram__ _n_ An image of the cardiac ventricles, used to estimate ejection fraction and assess wall motion.  
 __VT burden__ _n_ The number of sustained VT episodes or appropriate ICD interventions per year. _The reduction of VT burden was calculated as follows: 1–(no. of VT episodes in period post ablation/no. of VT episodes in same period pre-ablation)._  
 __VT/VF storm__ _n_ Generally defined as three or more episodes of VF or sustained VT within 24 hours.  
 __Wolff-Parkinson-White syndrome__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome)  
