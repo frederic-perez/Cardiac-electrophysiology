@@ -31,7 +31,7 @@ __atrial remodeling__ _n_
 __atrioventricular nodal reentry tachycardia__ _n_  
 __atrioventricular node__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Atrioventricular_node)  
 __bacteremia__ _n_ The presence of bacteria in the blood.  
-__bigeminy__ _n_ An abnormal pulse characterized by two beats in rapid succession followed by a pause.  
+__bigeminy__ _n_ The occurrence of premature atrial or ventricular heartbeats in pairs.  
 __bipolar__ _adj_ Relating to or having two poles or charges.  
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
 __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per minute in an adult human. Compare _tachycardia_  
@@ -77,9 +77,12 @@ __fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which
 __first-in-class__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
+__hyperkalemia__ _n_ An abnormally high concentration of potassium in the blood.  
+__hypertension__ _n_ __1__ Abnormally elevated arterial blood pressure. __2__ Arterial disease marked by chronic high blood pressure.  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
 __hypokinesis__ _n_ Diminished or slow movement. _Syn_ hypocinesis, hypocinesia, hypomotility  
 __hypoperfusion__ _n_ Inadequate blood flow to a single organ or through the entire circulatory system.  
+__hypotension__ _n_ Abnormally low arterial blood pressure.  
 __idiopathic__ _adj_ Denoting a disease of unknown cause.  
 __ILAM__ (isochronal late activation mapping) is a functional method of EAM to prioritize uncoupled and delayed local potentials in the context of the entire window of sinus rhythm during intrinsic or paced rhythm.  
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
