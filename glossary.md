@@ -173,3 +173,4 @@ __ventriculogram__ _n_ An image of the cardiac ventricles, used to estimate ejec
 __VT burden__ _n_ The number of sustained VT episodes or appropriate ICD interventions per year. _The reduction of VT burden was calculated as follows: 1–(no. of VT episodes in period post ablation/no. of VT episodes in same period pre-ablation)._  
 __VT/VF storm__ _n_ Generally defined as three or more episodes of VF or sustained VT within 24 hours.  
 __Wolff-Parkinson-White syndrome__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome)  
+__xenotransplantation__ _n_ A surgical procedure in which tissue or whole organs are transfered from one species to another species. _Cardiac xenotransplantation._  
