@@ -46,7 +46,7 @@ __cardiogenic shock__ _n_ Shock caused by cardiac arrest.
 __cardioneural__ _adj_ Pertaining to the heart and nervous system.  
 __cardiopoiesis__ _n_ The production of cardiac muscle tissue.  
 __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It's also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that's performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that's performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
-__catheter ablation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
+__catheter ablation__ _n_ (vs thoracoscopic surgical ablation) [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
@@ -150,6 +150,7 @@ __sudden death__ _n_ An unexpected or quick death.
 __tachycardia__ _n_ A rapid heart rate, especially one above 100 beats per minute in an adult. Compare _bradycardia_  
 __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wiki/Tachycardia-induced_cardiomyopathy) A disease where prolonged tachycardia or arrhythmia causes an impairment of the myocardium (heart muscle), which can result in heart failure.  
 __Takotsubo cardiomyopathy__ _n_ (Takotsubo syndrome, stress cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Takotsubo_cardiomyopathy)  
+__thoracoscopic surgical ablation__ _n_ (vs catheter ablation) A a minimally invasive procedure used to treat AF. It consists of three steps: _1_ Radio-frequency (energy) waves destroy the heart cells which are disrupting the electrical pathway. This helps restore the heart’s normal signalling abilities. _2_ Some nerves around the heart are also destroyed as part of the treatment. _3_ A piece of muscle called the left atrial appendage is removed. From the article _Catheter ablation vs. thoracoscopic surgical ablation in long-standing persistent atrial fibrillation: CASA-AF randomized controlled trial_: “Single procedure thoracoscopic SA is not superior to CA in treating LSPAF. Catheter ablation provided greater improvements in symptoms and accrued significantly more QALYs during follow-up than SA..”  
 __thromboembolism__ _n_ The blocking of a blood vessel by a blood clot dislodged from its site of origin.  
 __Torsades de pointes__ _n_ A specific type of abnormal heart rhythm that can lead to sudden cardiac death.  
 __transcatheter__ _adj_ Performed through the lumen of a catheter.  
