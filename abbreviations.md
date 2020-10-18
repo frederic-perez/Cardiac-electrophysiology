@@ -145,7 +145,8 @@ __RMN__ Robotic Magnetic Navigation
 __RPVI__ Registered Physician Vascular Interpretation (certification)  
 __RSPV__ Right superior pulmonary vein  
 __RV__ Right Ventricle  
-__RVOT__  Right ventricular outflow tract  
+__RVOT__ Right ventricular outflow tract  
+__Rx__ Prescription  
 __s/p__ Status post: after _This pt s/p PVI elsewhere came to me for "redo" persistent AF ablation._  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
 __SAVR__ Surgical aortic valve replacement  
