@@ -49,6 +49,7 @@ __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedure
 __catheter ablation__ _n_ (vs thoracoscopic surgical ablation) [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
+__coronary artery bypass graft (CABG, pronounced “cabbage”) surgery__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
 __coronary spasm__ _n_ Muscular closure of the coronary arteries, causing angina, ischemia, or myocardial infarction.  
 __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, often leading to destruction of heart muscle.  
