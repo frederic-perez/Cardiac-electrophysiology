@@ -106,6 +106,11 @@ __MEM__ Multi-electrode mapping
 __MI__ Myocardial infarction (commonly known as a heart attack)  
 __MMVT__ Monomorphic ventricular tachycardia  
 __MPP__ Multipoint pacing  
+__MRg-EP__ Magnetic resonance-guided electrophysiology  
+__MRg-FU__ Magnetic resonance-guided focused ultrasound  
+__MRg-HIFU__ Magnetic resonance-guided high-intensity focused ultrasound  
+__MRg-LITT__ Magnetic resonance-guided laser interstitial thermal therapy  
+__MRg-NIR__ Magnetic resonance-guided near-infrared (imaging)  
 __MSVT__ Monomorphic sustained VT  
 __MV__ Mitral valve  
 __MVR__ Mitral valve replacement  
