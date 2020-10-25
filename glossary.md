@@ -103,6 +103,11 @@ __left main disease__ A severe narrowing of the left main coronary artery (LMCA)
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leaflets.  
 __mitral regurgitation__ _n_ The backward flow of blood from the left ventricle into the left atrium of the heart, caused by incompetent closure of the mitral valve.  
+__MRg-EP__ Magnetic resonance-guided electrophysiology  
+__MRg-FU__ Magnetic resonance-guided focused ultrasound  
+__MRg-HIFU__ Magnetic resonance-guided high-intensity focused ultrasound  
+__MRg-LITT__ Magnetic resonance-guided laser interstitial thermal therapy  
+__MRg-NIR__ Magnetic resonance-guided near-infrared (imaging)  
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
 __myocyte__ _n_ A muscle cell.  
 __myositis__ _n_ Inflammation of muscle tissue.  
