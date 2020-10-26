@@ -129,6 +129,7 @@ __PE__ Pulmonary embolism
 __PFO__ Patent foramen ovale (one of two kinds of holes in the heart, the other being an ASD)  
 __PM__ Pacemaker  
 __POAF__ Postoperative atrial fibrillation  
+__PPM__ Permanent pacemaker  
 __pt__ Patient  
 __PVAI__ Pulmonary vein antrum isolation · Pulmonary vein isolation ablation  
 __PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
