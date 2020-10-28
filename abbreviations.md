@@ -124,6 +124,7 @@ __OHIF__ Open Health Imaging Foundation
 __PA__ Pulmonary artery  
 __PACs__ Premature atrial contractions  
 __PAD__ Peripheral artery disease  
+__PAF__ Paroxysmal atrial fibrillation  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
 __PE__ Pulmonary embolism  
 __PFO__ Patent foramen ovale (one of two kinds of holes in the heart, the other being an ASD)  
