@@ -17,6 +17,7 @@ __ASD__ Atrial septal defect (one of two kinds of holes in the heart, the other 
 __AT__ Atrial tachycardia  
 __ATP__ Antitachycardia pacing  
 __AV__ Atrioventricular · _AV node_  
+__AVB__ Atrioventricular block  
 __AVM__ Arteriovenous malformation  
 __AVN__ Atrioventricular node  
 __AVNRT__ AV nodal reentrant tachycardia  
