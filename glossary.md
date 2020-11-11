@@ -144,6 +144,7 @@ __ST elevation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/ST_elevation)
 __stress cardiomyopathy__ _n_ See _Takotsubo cardiomyopathy_.  
 __stroke volume__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Stroke_volume) The volume of blood pumped from a ventricle of the heart in one beat.  
 __stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
+__structural heart disease__ _n_ (structural cardiac disease) A collection of heart diseases that includes heart failure, coronary artery disease, hypertrophic cardiomyopathy, and congenital heart disease.  
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subendocardial__ _adj_ Beneath the endocardium. _Subendocardial ischemia is ischemia that is not transmural._  
 __substrate__ _n_  
