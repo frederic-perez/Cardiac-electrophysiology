@@ -106,6 +106,7 @@ __mitral regurgitation__ _n_ The backward flow of blood from the left ventricle 
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
 __myocyte__ _n_ A muscle cell.  
 __myositis__ _n_ Inflammation of muscle tissue.  
+__no reflow phenomenon__ _n_ (no-reflow phenomenon) Deficient reperfusion of previously ischemic tissue even though the lumen of the artery  that  irrigates  the  territory  has  been opened.  
 __noncompaction cardiomyopathy__ _n_ (non-compaction cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Noncompaction_cardiomyopathy)  
 __oximetry__ _n_ A device for measuring the oxygen saturation of arterial blood, especially a pulse oximeter.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
