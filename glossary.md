@@ -11,7 +11,7 @@ __-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or 
 __12 derivations__ _n_ A derivation is the process of getting something from something else. The process of getting or collecting things or information. _A standard ECG uses 12 derivations to examine the heart's electrical potentials from 12 different viewpoints._  
 __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
-__akinesis___ _n_ Motionlessness attributable to a temporary paralysis.  
+__akinesis__ _n_ Motionlessness attributable to a temporary paralysis.  
 __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
 __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening of a narrowed blood vessel by means of balloon angioplasty.  
 __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
@@ -31,17 +31,20 @@ __atrial remodeling__ _n_
 __atrioventricular nodal reentry tachycardia__ _n_  
 __atrioventricular node__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Atrioventricular_node)  
 __bacteremia__ _n_ The presence of bacteria in the blood.  
+__beta-blocker__ _n_ Any of a class of drugs (such as propranolol) that decrease the rate and force of heart contractions and lower high blood pressure by blocking the activity of beta-receptors.  
 __bigeminy__ _n_ The occurrence of premature atrial or ventricular heartbeats in pairs.  
 __bipolar__ _adj_ Relating to or having two poles or charges.  
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
 __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per minute in an adult human. Compare _tachycardia_  
 __broken heart syndrome__ _n_ See _Takotsubo cardiomyopathy_.  
+__bundle branch block__ _n_ (bundle branch heart block, interventricular heart block) A defect in the electrical conduction system of the heart in which there is failure of conduction down one of the main branches of the bundle of His. On the surface electrocardiogram, the QRS complex is > 0.12 sec. and its shape is altered.  
 __bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)  
 __cancellous__ _adj_ Of a reticular, spongy, or lattice-like structure; said mainly of bone tissue.  
 __cannulate__ _v_ To insert a cannula into (a bodily cavity, duct, or vessel), as for the drainage  of fluid or the administration of medication.  
 __cannulation__ _n_ Introduction of a cannula into a tubelike organ or body cavity. _Syn_ intubation  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
+__cardiac tamponade__ _n_ Mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart's normal range of motion,  
 __cardiogenic shock__ _n_ Shock caused by cardiac arrest.  
 __cardioneural__ _adj_ Pertaining to the heart and nervous system.  
 __cardiopoiesis__ _n_ The production of cardiac muscle tissue.  
@@ -49,6 +52,7 @@ __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedure
 __catheter ablation__ _n_ (vs thoracoscopic surgical ablation) [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
+__commissure__ _n_ The point or surface where two parts, such as the eyelids, lips, or cardiac valves, join or form a connection.  
 __coronary artery bypass graft (CABG, pronounced “cabbage”) surgery__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
 __coronary spasm__ _n_ Muscular closure of the coronary arteries, causing angina, ischemia, or myocardial infarction.  
@@ -57,6 +61,7 @@ __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.  
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
+__diverticulum__ _n_ A pouch or sac branching out from a hollow organ or structure, such as the intestine. _Left atrial diverticulum._  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells.  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
