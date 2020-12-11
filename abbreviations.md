@@ -21,6 +21,7 @@ __AVB__ Atrioventricular block
 __AVM__ Arteriovenous malformation  
 __AVN__ Atrioventricular node  
 __AVNRT__ AV nodal reentrant tachycardia  
+__BBB__ Bundle branch block  
 __BI__ Bipolar · _BI endocardial voltage_  
 __BP__ Blood pressure  
 __BPV__ Blood pressure variability  
@@ -89,8 +90,9 @@ __IR__ Interventional radiology
 __J&J__ Johnson & Johnson  
 __LA__ Left atrium  
 __LAA__ Left atrial appendage  
+__LAAA__ Left atrial accessory appendage  
 __LAAC__ Left atrial appendage closure  
-__LAD__ Left anterior descending coronary artery  
+__LAD__ __1__ Left anterior descending coronary artery __2__ Left atrial diverticulum  
 __LAT__ Local activation time  
 __LAX__ Long-axis  
 __LCC__ Left coronary cusp (one of the 3 aortic valve cusps)  
@@ -173,6 +175,7 @@ __SVC__ Superior vena cava
 __SVT__ Supraventricular tachycardia  
 __TAVI__ Transcatheter aortic valve implantation  
 __TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
+__TdP__ Torsades de pointes · _TdP tachycardia_  
 __TEE__ Transesophageal echocardiogram · Transesophageal echocardiography  
 __TIC__ Tachycardia-induced cardiomyopathy  
 __TMVR__ Transcatheter mitral valve replacement  
