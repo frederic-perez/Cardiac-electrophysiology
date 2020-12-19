@@ -20,7 +20,7 @@ __AV__ Atrioventricular · _AV node_
 __AVB__ Atrioventricular block  
 __AVM__ Arteriovenous malformation  
 __AVN__ Atrioventricular node  
-__AVNRT__ AV nodal reentrant tachycardia  
+__AVNRT__ Atrioventricular nodal reentrant tachycardia  
 __BBB__ Bundle branch block  
 __BI__ Bipolar · _BI endocardial voltage_  
 __BP__ Blood pressure  
@@ -30,6 +30,7 @@ __BZ__ Border zone
 __CABG__ Coronary artery bypass graft  
 __CAC__ Coronary artery calcium  
 __CAD__ Coronary artery disease  
+__CCHD__ Complex congenital heart disease  
 __CCM__ Cardiac Contractility Modulation  
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
@@ -44,7 +45,7 @@ __CPVT__ Catecholaminergic polymorphic ventricular tachycardia
 __CRM__ Cardiac rhythm management  
 __CRT__ Cardiac resynchronization therapy  
 __CS__ Coronary sinus  
-__CTI__ Cavotricuspid isthmus · _CTI line_  
+__CTI__ Cavo-tricuspid isthmus · _CTI line_  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
 __DCM__ Dilated cardiomyopathy  
@@ -56,6 +57,7 @@ __EAM__ Electro-anatomical map, electroanatomic mapping
 __EAN__ Electroanatomic  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __ECGI__ Electrocardiographic Imaging  
+__ECV__ Extracellular volume · _ECV fraction_  
 __EF__ Ejection fraction  
 __EGE__ Early gadolinium enhancement (compare with LGE)  
 __EGM__ Electrogram. The word "electrogram" (EGM) without further specification usually means an intracardiac electrogram.  
@@ -105,7 +107,9 @@ __LVAD__ Left ventricular assist device
 __LVEF__ Left ventricular ejection fraction  
 __LVESV__ Left ventricular end-systolic volume  
 __LVSD__ Left ventricular systolic dysfunction  
+__MACE__ Major adverse cardiovascular events
 __MagIR__ (Conventional) Magnitude inversion recovery (see also PSIR)  
+__MAT__ Multifocal atrial tachycardia  
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
 __MMVT__ Monomorphic ventricular tachycardia  
@@ -151,6 +155,7 @@ __RBS__ Retained Blood Syndrome
 __RCA__ Right coronary artery  
 __RCC__ Right coronary cusp (one of the 3 aortic valve cusps)  
 __RF__ Radiofrequency  
+__RFA__ Radiofrequency ablation  
 __RFCA__ Radiofrequency catheter ablation  
 __RIPV__ Right inferior pulmonary vein  
 __RMN__ Robotic Magnetic Navigation  
@@ -181,6 +186,7 @@ __TIC__ Tachycardia-induced cardiomyopathy
 __TMVR__ Transcatheter mitral valve replacement  
 __TOE__ Transesophageal echocardiography  
 __TTE__ Transthoracic echocardiography  
+__TV__ Tricuspid valve  
 __TVP__ Transvenous pacing; transvenous pacemaker  
 __UNI__ Unipolar · _UNI endocardial voltage_  
 __VEGF__ Vascular endothelial growth factor  
