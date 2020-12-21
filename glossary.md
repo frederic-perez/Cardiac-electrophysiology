@@ -31,6 +31,7 @@ __atrial remodeling__ _n_
 __atrioventricular nodal reentry tachycardia__ _n_  
 __atrioventricular node__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Atrioventricular_node)  
 __bacteremia__ _n_ The presence of bacteria in the blood.  
+__baffle__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Baffle_(medicine)) A surgically-created tunnel or wall within the heart or major blood vessels used to redirect the flow of blood.  
 __beta-blocker__ _n_ Any of a class of drugs (such as propranolol) that decrease the rate and force of heart contractions and lower high blood pressure by blocking the activity of beta-receptors.  
 __bigeminy__ _n_ The occurrence of premature atrial or ventricular heartbeats in pairs.  
 __bipolar__ _adj_ Relating to or having two poles or charges.  
@@ -51,6 +52,7 @@ __cardiopoiesis__ _n_ The production of cardiac muscle tissue.
 __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It's also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that's performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that's performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
 __catheter ablation__ _n_ (vs thoracoscopic surgical ablation) [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
+__cavo-tricuspid isthmus__ _n_ A body of fibrous tissue in the lower right atrium between the inferior vena cava, and the tricuspid valve. It is a target for ablation for treating atrial flutter.  
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
 __commissure__ _n_ The point or surface where two parts, such as the eyelids, lips, or cardiac valves, join or form a connection.  
 __coronary artery bypass graft (CABG, pronounced “cabbage”) surgery__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)  
@@ -78,6 +80,7 @@ __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other f
 __endocarditis__ _n_ Inflammation of the endocardium.  
 __entrain__ _v_ To adjust (an internal rhythm of an organism) so that it synchronizes with an external cycle.  
 __etiology__ _n_ The cause or origin of a disease or disorder as determined by medical diagnosis.  
+__fenestration__ _n_ A surgical method of making a hole in or perforating something.  
 __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
 __fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which connective tissue replaces normal parenchymal tissue to the extent that it goes unchecked, leading to considerable tissue remodelling and the formation of permanent scar tissue. _Cardiac fibrosis can be observed in a DE-CMR scan._  
 __first-in-class__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
@@ -138,9 +141,11 @@ __QRS complex__ _n_ (ventricular depolarization) An electrocardiographic complex
 __R-R interval__ The time elapsing between two consecutive R waves in the electrocardiogram.  
 __refractory__ _adj_ Resistant to treatment.  
 __retrograde approach__ _n_ Two ways to reach the LV: in the _transseptal approach_, the doctor inserts the catheter into the LV through veins, starting in the upper leg; in the _retrograde approach_, the doctor inserts the catheter through a small artery in the upper leg. The catheter travels through the aorta to reach the LV.  
+__retrograde conduction__ _n_ (VA conduction, ventriculoatrial conduction) The conduction backward phenomena in the heart, where the conduction comes from the ventricles or from the AV node into and through the atria.  
 __rotoblation__ _n_ (rotablation, rotoablation) Drilling through the core of a plaque obstructing a blood vessel to improve blood flow to the organ supplied by the vessel; rotational atherectomy.  
 __sarcoidosis__ _n_ A disease of unknown origin that is characterized by the formation of granulomatous lesions especially in the lungs and lymph nodes of the chest and trunk, and less often in the skin, eyes, and other organs, and that if untreated may lead to chronic illness and organ damage.  
 __Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
+__Senning procedure__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Senning_procedure) An atrial switch heart operation performed to treat transposition of the great arteries.  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
 __sham procedure__ _n_  
 __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node) A small mass of specialized cardiac muscle fibers located in the posterior wall of the right atrium of the heart that acts as a pacemaker by generating at regular intervals the electric impulses of the heartbeat. _Syn_ SA node, sinoauricular node, sinus node, cardiac pacemaker, pacemaker  
