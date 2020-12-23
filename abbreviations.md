@@ -21,6 +21,7 @@ __AVB__ Atrioventricular block
 __AVM__ Arteriovenous malformation  
 __AVN__ Atrioventricular node  
 __AVNRT__ Atrioventricular nodal reentrant tachycardia  
+__BB__ Bachman bundle  
 __BBB__ Bundle branch block  
 __BI__ Bipolar · _BI endocardial voltage_  
 __BP__ Blood pressure  
@@ -106,6 +107,7 @@ __LV__ Left ventricle
 __LVAD__ Left ventricular assist device  
 __LVEF__ Left ventricular ejection fraction  
 __LVESV__ Left ventricular end-systolic volume  
+__LVOT__ Left ventricular outflow tract  
 __LVSD__ Left ventricular systolic dysfunction  
 __MACE__ Major adverse cardiovascular events
 __MagIR__ (Conventional) Magnitude inversion recovery (see also PSIR)  
@@ -166,6 +168,7 @@ __RVOT__ Right ventricular outflow tract
 __Rx__ Prescription  
 __s/p__ Status post: after _This pt s/p PVI elsewhere came to me for "redo" persistent AF ablation._  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
+__SAN__ Sinoatrial node  
 __SAVR__ Surgical aortic valve replacement  
 __SAX__ Short-axis  
 __SBE__ Subacute bacterial endocarditis  
