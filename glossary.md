@@ -53,6 +53,8 @@ __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedure
 __catheter ablation__ _n_ (vs thoracoscopic surgical ablation) [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __cavo-tricuspid isthmus__ _n_ A body of fibrous tissue in the lower right atrium between the inferior vena cava, and the tricuspid valve. It is a target for ablation for treating atrial flutter.  
+__CHA<sub>2</sub>DS<sub>2</sub>–VASc score__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/CHA2DS2%E2%80%93VASc_score)  
+__Chiari network__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Chiari_network)  
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
 __commissure__ _n_ The point or surface where two parts, such as the eyelids, lips, or cardiac valves, join or form a connection.  
 __coronary artery bypass graft (CABG, pronounced “cabbage”) surgery__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)  
@@ -84,6 +86,7 @@ __fenestration__ _n_ A surgical method of making a hole in or perforating someth
 __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
 __fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which connective tissue replaces normal parenchymal tissue to the extent that it goes unchecked, leading to considerable tissue remodelling and the formation of permanent scar tissue. _Cardiac fibrosis can be observed in a DE-CMR scan._  
 __first-in-class__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
+__focal atrial tachycardia__ _n_  
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
 __hyperkalemia__ _n_ An abnormally high concentration of potassium in the blood.  
@@ -109,8 +112,10 @@ __lacunar stroke__ _n_ (lacunar infarct) The most common type of stroke, and res
 __late potential__ _n_ Deflections found on signal-averaged electrocardiograms that follow the QRS complex and point to an increased likelihood of ventricular dysrhythmias. These deflections represent delays in electrical conduction through the ventricles.  
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
+__macro-reentrant atrial tachycardia__ _n_  
 __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leaflets.  
 __mitral regurgitation__ _n_ The backward flow of blood from the left ventricle into the left atrium of the heart, caused by incompetent closure of the mitral valve.  
+__multifocal atrial tachycardia__ _n_ (MAT) [[Wikipedia]](https://en.wikipedia.org/wiki/Multifocal_atrial_tachycardia) · [[MedlinePlus]](https://medlineplus.gov/ency/article/000186.htm)
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
 __myocyte__ _n_ A muscle cell.  
 __myositis__ _n_ Inflammation of muscle tissue.  
