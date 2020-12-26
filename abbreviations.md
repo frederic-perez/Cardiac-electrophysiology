@@ -33,6 +33,7 @@ __CAC__ Coronary artery calcium
 __CAD__ Coronary artery disease  
 __CCHD__ Complex congenital heart disease  
 __CCM__ Cardiac Contractility Modulation  
+__CE MRA__ Contrast-enhanced MR angiography  
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
 __CHB__ Complete heart block  
@@ -90,6 +91,7 @@ __ILAM__ Isochronal late activation map
 __ILR__ Implantable loop recorder  
 __IPSC__ Induced pluripotent stem cell  
 __IR__ Interventional radiology  
+__IVC__ Inferior vena cava  
 __J&J__ Johnson & Johnson  
 __LA__ Left atrium  
 __LAA__ Left atrial appendage  
