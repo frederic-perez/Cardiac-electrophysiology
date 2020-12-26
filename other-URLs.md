@@ -7,6 +7,9 @@
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/results/refine?term=ENCORE-VT)
   - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177)
 - [Atlas of Human CARDIAC Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml) (University of Minnesota)  
+- Data
+  - [2018 Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/data/)
+  - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
 - Electrophysiology
   - [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
