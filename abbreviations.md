@@ -103,6 +103,7 @@ __LAX__ Long-axis
 __LCC__ Left coronary cusp (one of the 3 aortic valve cusps)  
 __LGE__ Late gadolinium enhancement (compare with EGE)  
 __LGE-CMR__ Late gadolinium enhanced CMR  
+__LIMA__ Left internal mammary artery   
 __LIPV__ Left inferior pulmonary vein  
 __LSPV__ Left superior pulmonary vein  
 __LV__ Left ventricle  
@@ -180,6 +181,7 @@ __SCAF__ Sub-clinical atrial fibrillation
 __SCD__ Sudden cardiac death  
 __SHD__ Structural heart disease  
 __SR__ Sinus rhythm  
+__SSS__ Sick sinus syndrome [[WikiDoc]](https://www.wikidoc.org/index.php/Sick_sinus_syndrome)  
 __STEMI__ ST-elevation myocardial infarction  
 __SVC__ Superior vena cava  
 __SVT__ Supraventricular tachycardia  
