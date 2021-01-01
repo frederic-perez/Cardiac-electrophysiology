@@ -43,6 +43,7 @@ __bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)
 __cancellous__ _adj_ Of a reticular, spongy, or lattice-like structure; said mainly of bone tissue.  
 __cannulate__ _v_ To insert a cannula into (a bodily cavity, duct, or vessel), as for the drainage  of fluid or the administration of medication.  
 __cannulation__ _n_ Introduction of a cannula into a tubelike organ or body cavity. _Syn_ intubation  
+__cardiac action potential__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cardiac_action_potential)  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
 __cardiac tamponade__ _n_ Mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart's normal range of motion,  
@@ -55,6 +56,7 @@ __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)
 __cavo-tricuspid isthmus__ _n_ A body of fibrous tissue in the lower right atrium between the inferior vena cava, and the tricuspid valve. It is a target for ablation for treating atrial flutter.  
 __CHA<sub>2</sub>DS<sub>2</sub>–VASc score__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/CHA2DS2%E2%80%93VASc_score)  
 __Chiari network__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Chiari_network)  
+__circumflex__ _adj_ (of certain nerves, arteries, or veins) Bending or curving around.  
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
 __commissure__ _n_ The point or surface where two parts, such as the eyelids, lips, or cardiac valves, join or form a connection.  
 __coronary artery bypass graft (CABG, pronounced “cabbage”) surgery__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)  
@@ -65,6 +67,7 @@ __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.  
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
+__depolarization__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Depolarization#Heart)  
 __diverticulum__ _n_ A pouch or sac branching out from a hollow organ or structure, such as the intestine. _Left atrial diverticulum._  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells.  
@@ -192,4 +195,5 @@ __ventriculogram__ _n_ An image of the cardiac ventricles, used to estimate ejec
 __VT burden__ _n_ The number of sustained VT episodes or appropriate ICD interventions per year. _The reduction of VT burden was calculated as follows: 1–(no. of VT episodes in period post ablation/no. of VT episodes in same period pre-ablation)._  
 __VT/VF storm__ _n_ Generally defined as three or more episodes of VF or sustained VT within 24 hours.  
 __Wolff-Parkinson-White syndrome__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome)  
+__workup__ _n_ A thorough medical diagnostic examination including laboratory tests and x-rays.  
 __xenotransplantation__ _n_ A surgical procedure in which tissue or whole organs are transfered from one species to another species. _Cardiac xenotransplantation._  
