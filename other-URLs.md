@@ -1,12 +1,14 @@
 - AFib
   - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
   - [Get smart about AFib](https://www.getsmartaboutafib.com/), by Biosense Webster, Inc.
+- Cardiac anatomy
+  - Innerbody Research’s [“The Heart”](https://www.innerbody.com/image/card01.html)
+  - University of Minnesota’s [Atlas of Human Cardiac Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml)
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
   - [CASA-AF](https://clinicaltrials.gov/ct2/results/refine?term=CASA-AF)
   - [DECAF](https://clinicaltrials.gov/ct2/results/refine?term=DECAF)
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/results/refine?term=ENCORE-VT)
   - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177)
-- [Atlas of Human CARDIAC Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml) (University of Minnesota)  
 - Data
   - [2018 Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/data/)
   - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
