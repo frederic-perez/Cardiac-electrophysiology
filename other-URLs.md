@@ -10,18 +10,18 @@
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/results/refine?term=ENCORE-VT)
   - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177)
 - Data
-  - [2018 Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/data/)
   - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
+  - [2018 Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/data/)
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
 - Electrophysiology
-  - [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
   - [Cardiac Electrophysiology - Online Learning | Johnson & Johnson Institute](https://jnjinstitute.com/en-us/online-profed-resources/resources/cardiac-electrophysiology)
-  - [The Student Physiologist](https://thephysiologist.org/) (Online Cardiology Resource)
   - [GitHub repos on electrophysiology](https://github.com/topics/electrophysiology)
+  - [The Student Physiologist](https://thephysiologist.org/) (Online Cardiology Resource)
+  - [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
 - ECG
-  - [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
   - [ECG Guru](http://www.ecgguru.com)
+  - [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
 - MRI
-  - [Magnetic Resonance - Technology Information Portal](https://www.mr-tip.com/)
   - [Cardiac MRI tutorial](http://www.vhlab.umn.edu/atlas/cardiac-mri-tutorial/index.shtml)
+  - [Magnetic Resonance - Technology Information Portal](https://www.mr-tip.com/)
   - [MRI heart cross sectional anatomy tool](https://mrimaster.com/anatomy%20heart%20axial%20.html)
