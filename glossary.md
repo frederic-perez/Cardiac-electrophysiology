@@ -62,13 +62,16 @@ __commissure__ _n_ The point or surface where two parts, such as the eyelids, li
 __coronary artery bypass graft (CABG, pronounced “cabbage”) surgery__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
 __coronary spasm__ _n_ Muscular closure of the coronary arteries, causing angina, ischemia, or myocardial infarction.  
+__coronary stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_stent)  
 __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, often leading to destruction of heart muscle.  
+__crista terminalis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Crista_terminalis)  
 __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.  
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
 __depolarization__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Depolarization#Heart)  
 __diverticulum__ _n_ A pouch or sac branching out from a hollow organ or structure, such as the intestine. _Left atrial diverticulum._  
+__drug-eluting stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Drug-eluting_stent)  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells.  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
