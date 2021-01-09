@@ -25,3 +25,5 @@
   - [Cardiac MRI tutorial](http://www.vhlab.umn.edu/atlas/cardiac-mri-tutorial/index.shtml)
   - [Magnetic Resonance - Technology Information Portal](https://www.mr-tip.com/)
   - [MRI heart cross sectional anatomy tool](https://mrimaster.com/anatomy%20heart%20axial%20.html)
+- Podcasts
+  - [This Week in Cardiology](https://podcasts.apple.com/us/podcast/this-week-in-cardiology/id991125169), hosted by Dr. John Mandrola
