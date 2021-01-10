@@ -201,6 +201,7 @@ __VF__, __VFib__ Ventricular fibrillation
 __VHD__ Valvular heart disease  
 __VPB__ Ventricular premature beat  
 __VT__ Ventricular tachycardia  
+__WACA__ Wide area circumferential ablation  
 __WCD__ Wearable cardioverter defibrillator  
 __WOI__ Window of interest  
 __WPW syndrome__ Wolfe-Parkinson-White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
