@@ -5,7 +5,8 @@
   - Innerbody Research’s [“The Heart”](https://www.innerbody.com/image/card01.html)
   - University of Minnesota’s [Atlas of Human Cardiac Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml)
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
-  - [CASA-AF](https://clinicaltrials.gov/ct2/results/refine?term=CASA-AF)
+  - [AWARE](https://clinicaltrials.gov/ct2/show/NCT02150902) - Augmented Wide Area Circumferential Catheter Ablation for Reduction of Atrial Fibrillation Recurrence
+  - [CASA-AF](https://clinicaltrials.gov/ct2/show/NCT02755688) - Catheter Ablation Versus Thoracoscopic Surgical Ablation in Long Standing Persistent Atrial Fibrillation
   - [DECAF](https://clinicaltrials.gov/ct2/results/refine?term=DECAF)
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/results/refine?term=ENCORE-VT)
   - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177)
