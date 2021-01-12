@@ -24,6 +24,7 @@ __AVNRT__ Atrioventricular nodal reentrant tachycardia
 __BB__ Bachman bundle  
 __BBB__ Bundle branch block  
 __BI__ Bipolar · _BI endocardial voltage_  
+__BMD__ Becker muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Becker_muscular_dystrophy)  
 __BP__ Blood pressure  
 __BPV__ Blood pressure variability  
 __BSW__ Biosense Webster  
@@ -51,6 +52,7 @@ __CTI__ Cavo-tricuspid isthmus · _CTI line_
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
 __DCM__ Dilated cardiomyopathy  
+__DMD__ Duchenne muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy)  
 __DOAC__ Direct oral anticoagulant  
 __DOACs__ Direct oral anticoagulants  
 __EACTS__ European Association for Cardio-Thoracic Surgery  
@@ -112,9 +114,10 @@ __LVEF__ Left ventricular ejection fraction
 __LVESV__ Left ventricular end-systolic volume  
 __LVOT__ Left ventricular outflow tract  
 __LVSD__ Left ventricular systolic dysfunction  
-__MACE__ Major adverse cardiovascular events
+__MACE__ Major adverse cardiovascular events  
 __MagIR__ (Conventional) Magnitude inversion recovery (see also PSIR)  
 __MAT__ Multifocal atrial tachycardia  
+__MD__ Muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Muscular_dystrophy)  
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
 __MMVT__ Monomorphic ventricular tachycardia  
