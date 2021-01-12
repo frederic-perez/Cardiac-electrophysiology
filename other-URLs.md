@@ -28,3 +28,5 @@
   - [MRI heart cross sectional anatomy tool](https://mrimaster.com/anatomy%20heart%20axial%20.html)
 - Podcasts
   - [This Week in Cardiology](https://podcasts.apple.com/us/podcast/this-week-in-cardiology/id991125169), hosted by Dr. John Mandrola
+- Workshops
+  - [STACOM](http://stacom.cardiacatlas.org/) (Statistical Atlases and Computational Modelling of the Heart)
