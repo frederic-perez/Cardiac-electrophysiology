@@ -1,10 +1,14 @@
 __2D GRE__ 2D gradient echo sequence  
 __2D SSFP__ 2D steady-state free precession sequence  
 __3D GRE__ 3D gradient echo sequences  
+__ABI__ Ankle-brachial index  
+__ABL__ Ablation  
 __ACC__ American College of Cardiology  
 __ACHD__ Adult congenital heart disease  
+__ACM__ Arrhythmogenic cardiomyopathy [[Wikipedia]](https://en.wikipedia.org/wiki/Arrhythmogenic_cardiomyopathy)  
 __AED__ Automated external defibrillator  
 __AF__, __AFib__ Atrial fibrillation  
+__AFL__ Atrial flutter [[Wikipedia]](https://en.wikipedia.org/wiki/Atrial_flutter)  
 __AHA__ American Heart Association  
 __AICD__ Automatic implantable cardioverter defibrillator · It was trademarked by the Boston Scientific corporation, so the more generic ICD is preferred terminology.  
 __AIS__ Acute ischemic stroke  
@@ -51,6 +55,7 @@ __CS__ Coronary sinus
 __CTI__ Cavo-tricuspid isthmus · _CTI line_  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
+__CVRF__ Cardiovascular risk factor  
 __DCM__ Dilated cardiomyopathy  
 __DMD__ Duchenne muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy)  
 __DOAC__ Direct oral anticoagulant  
