@@ -66,7 +66,7 @@ __EAM__ Electro-anatomical map, electroanatomic mapping
 __EAN__ Electroanatomic  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __ECGI__ Electrocardiographic Imaging  
-__ECV__ Extracellular volume · _ECV fraction_  
+__ECV__ Extracellular volume · _ECV fraction; ECV map_  
 __EF__ Ejection fraction  
 __EGE__ Early gadolinium enhancement (compare with LGE)  
 __EGM__ Electrogram. The word "electrogram" (EGM) without further specification usually means an intracardiac electrogram.  
@@ -125,6 +125,7 @@ __MAT__ Multifocal atrial tachycardia
 __MD__ Muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Muscular_dystrophy)  
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
+__MINOCA__ Myocardial infarction with non-obstructive coronary arteries  
 __MMVT__ Monomorphic ventricular tachycardia  
 __MPP__ Multipoint pacing  
 __MRg-EP__ Magnetic resonance-guided electrophysiology  
@@ -141,6 +142,7 @@ __NSR__ Normal sinus rhythm
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __NSVT__ Non-sustained ventricular tachycardia  
 __NVAF__ Non-valvular atrial fibrillation  
+__OCT__ Optical coherence tomography [[Wikipedia]](https://en.wikipedia.org/wiki/Optical_coherence_tomography)  
 __OHIF__ Open Health Imaging Foundation  
 __PA__ Pulmonary artery  
 __PACs__ Premature atrial contractions  
@@ -170,6 +172,7 @@ __RCC__ Right coronary cusp (one of the 3 aortic valve cusps)
 __RF__ Radiofrequency  
 __RFA__ Radiofrequency ablation  
 __RFCA__ Radiofrequency catheter ablation  
+__RIJ__ Right internal jugular (vein)  
 __RIPV__ Right inferior pulmonary vein  
 __RMN__ Robotic Magnetic Navigation  
 __RPVI__ Registered Physician Vascular Interpretation (certification)  
