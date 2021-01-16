@@ -64,6 +64,7 @@ __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, r
 __coronary spasm__ _n_ Muscular closure of the coronary arteries, causing angina, ischemia, or myocardial infarction.  
 __coronary stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_stent)  
 __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, often leading to destruction of heart muscle.  
+__coronary vasospasm__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Coronary_vasospasm) [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_vasospasm)  
 __crista terminalis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Crista_terminalis)  
 __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
@@ -97,6 +98,8 @@ __focal atrial tachycardia__ _n_
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
 __granuloma__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Granuloma) _Noncaseating granulomas._  
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
+__hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
+__hibernating myocardium__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Hibernating_myocardium) Regional dysfunction of myocardial tissue due to prolonged local hypoperfusion, which is completely reversible upon restoration of adequate blood flow; hibernation occurs in pts with CAD and impairment of left ventricular function at rest.  
 __hyperkalemia__ _n_ An abnormally high concentration of potassium in the blood.  
 __hypertension__ _n_ __1__ Abnormally elevated arterial blood pressure. __2__ Arterial disease marked by chronic high blood pressure.  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
@@ -157,6 +160,7 @@ __retrograde approach__ _n_ Two ways to reach the LV: in the _transseptal approa
 __retrograde conduction__ _n_ (VA conduction, ventriculoatrial conduction) The conduction backward phenomena in the heart, where the conduction comes from the ventricles or from the AV node into and through the atria.  
 __rotoblation__ _n_ (rotablation, rotoablation) Drilling through the core of a plaque obstructing a blood vessel to improve blood flow to the organ supplied by the vessel; rotational atherectomy.  
 __sarcoidosis__ _n_ A disease of unknown origin that is characterized by the formation of granulomatous lesions especially in the lungs and lymph nodes of the chest and trunk, and less often in the skin, eyes, and other organs, and that if untreated may lead to chronic illness and organ damage.  
+__secondary prevention of coronary artery disease__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Secondary_Prevention_of_Coronary_Artery_Disease)  
 __Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
 __Senning procedure__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Senning_procedure) An atrial switch heart operation performed to treat transposition of the great arteries.  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
@@ -170,6 +174,7 @@ __stress cardiomyopathy__ _n_ See _Takotsubo cardiomyopathy_.
 __stroke volume__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Stroke_volume) The volume of blood pumped from a ventricle of the heart in one beat.  
 __stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
 __structural heart disease__ _n_ (structural cardiac disease) A collection of heart diseases that includes heart failure, coronary artery disease, hypertrophic cardiomyopathy, and congenital heart disease.  
+__stunned myocardium__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Stunned_myocardium) [[Wikipedia]](https://en.wikipedia.org/wiki/Myocardial_stunning) Impaired myocardial contractile performance following a period of ischemia and ultimately reversible.  
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subendocardial__ _adj_ Beneath the endocardium. _Subendocardial ischemia is ischemia that is not transmural._  
 __substrate__ _n_  
