@@ -17,7 +17,7 @@ __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening o
 __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
 __aortic regurgitation__ _n_ The backward flow of blood from the aorta into the left ventricle caused by incompetent closure of the aortic valve.  
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
-__arrhythmia__ _n_ Any variation from the normal rhythm in the heartbeat. _Syn_ dysrhythmia  
+__arrhythmia__, __arhythmia__, __arythmia__, __arrythmia__ _n_ _(different spelling variants)_ Any abnormality in the rhythm of the heartbeat. _Syn_ dysrhythmia  
 __arrhythmogenic__ _n_ Capable of inducing cardiac arrhythmias.  
 __arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arteriosclerosis) The thickening, hardening, and loss of elasticity of the walls of arteries.  
 __aspect__ _n_ The side of an object, such as an organ, that is facing in a particular direction.  
@@ -88,12 +88,14 @@ __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other f
 __endocarditis__ _n_ Inflammation of the endocardium.  
 __entrain__ _v_ To adjust (an internal rhythm of an organism) so that it synchronizes with an external cycle.  
 __etiology__ _n_ The cause or origin of a disease or disorder as determined by medical diagnosis.  
+__Fabry disease__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Fabry_disease)  
 __fenestration__ _n_ A surgical method of making a hole in or perforating something.  
 __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
 __fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which connective tissue replaces normal parenchymal tissue to the extent that it goes unchecked, leading to considerable tissue remodelling and the formation of permanent scar tissue. _Cardiac fibrosis can be observed in a DE-CMR scan._  
 __first-in-class__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __focal atrial tachycardia__ _n_  
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
+__granuloma__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Granuloma) _Noncaseating granulomas._  
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
 __hyperkalemia__ _n_ An abnormally high concentration of potassium in the blood.  
 __hypertension__ _n_ __1__ Abnormally elevated arterial blood pressure. __2__ Arterial disease marked by chronic high blood pressure.  
@@ -163,6 +165,7 @@ __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_n
 __sinus rhythm__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinus_rhythm)  
 __sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
 __ST elevation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/ST_elevation)  
+__stress cardiomyopathy MRI__ _n_ (stress CMR) [[WikiDoc]](https://www.wikidoc.org/index.php/Stress_cardiomyopathy_MRI)  
 __stress cardiomyopathy__ _n_ See _Takotsubo cardiomyopathy_.  
 __stroke volume__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Stroke_volume) The volume of blood pumped from a ventricle of the heart in one beat.  
 __stroke__ _n_ The sudden death of brain cells in a localized area due to inadequate blood flow.  
@@ -188,6 +191,7 @@ __tunneled__ _adj_ Placed surgically beneath the skin or into deeper tissues, e.
 __unipolar__ _adj_ Having, acting by means of, or produced by a single magnetic or electric pole.  
 __unremarkable__ _adj_ Lacking distinction; ordinary.  
 __valvular regurgitation__ _n_ Backflow of blood through the orifice of one of the heart valves owing to imperfect closing of the valve.  
+__vector__ _n_ A carrier, especially the animal (usually an arthropod) that transfers an infective agent from one host to another. _Chagas disease usually has a vector-borne transmission. _  
 __vein of Marshall__ _n_ The oblique vein of the left atrium (oblique vein of Marshall) is a small vessel which descends obliquely on the back of the left atrium and ends in the coronary sinus near its left extremity.  
 __ventricular aneurysm__ _n_ Ventricular aneurysms are one of the many complications that may occur after a heart attack. The word aneurysm refers to a bulge or ‘pocketing’ of the wall or lining of a vessel commonly occurring in the blood vessels at the base of the septum, or within the aorta.  
 __ventricular fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523) An often fatal form of arrhythmia characterized by rapid, irregular fibrillar twitching of the ventricles of the heart in place of normal contractions, resulting in a loss of pulse.  
