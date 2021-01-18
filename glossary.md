@@ -2,7 +2,7 @@ __-desis__ _suff_ (Surgery) Binding, fixation (the surgeon made two things stick
 __-ectomy__ _suff_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
 __-esis__ _suff_ Combining form meaning condition, action, or process.  
 __-itis__ _suff_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
-__-ostomy__ _suff_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.   
+__-ostomy__ _suff_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
 __-pexy__ _suff_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
 __-plasty__ _suff_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
 __-poiesis__ _suff_ Production; creation; formation: _hematopoiesis_.  
@@ -196,7 +196,7 @@ __tunneled__ _adj_ Placed surgically beneath the skin or into deeper tissues, e.
 __unipolar__ _adj_ Having, acting by means of, or produced by a single magnetic or electric pole.  
 __unremarkable__ _adj_ Lacking distinction; ordinary.  
 __valvular regurgitation__ _n_ Backflow of blood through the orifice of one of the heart valves owing to imperfect closing of the valve.  
-__vector__ _n_ A carrier, especially the animal (usually an arthropod) that transfers an infective agent from one host to another. _Chagas disease usually has a vector-borne transmission. _  
+__vector__ _n_ A carrier, especially the animal (usually an arthropod) that transfers an infective agent from one host to another. _Chagas disease usually has a vector-borne transmission._  
 __vein of Marshall__ _n_ The oblique vein of the left atrium (oblique vein of Marshall) is a small vessel which descends obliquely on the back of the left atrium and ends in the coronary sinus near its left extremity.  
 __ventricular aneurysm__ _n_ Ventricular aneurysms are one of the many complications that may occur after a heart attack. The word aneurysm refers to a bulge or ‘pocketing’ of the wall or lining of a vessel commonly occurring in the blood vessels at the base of the septum, or within the aorta.  
 __ventricular fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523) An often fatal form of arrhythmia characterized by rapid, irregular fibrillar twitching of the ventricles of the heart in place of normal contractions, resulting in a loss of pulse.  
