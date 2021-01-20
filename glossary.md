@@ -11,6 +11,7 @@ __-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or 
 __12 derivations__ _n_ A derivation is the process of getting something from something else. The process of getting or collecting things or information. _A standard ECG uses 12 derivations to examine the heart's electrical potentials from 12 different viewpoints._  
 __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
+__adhesion__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Adhesion_(medicine)) _Firm apical adherences did not allow to reach the isthmus in the second epicardial mapping._ _Pericardial adhesions._  
 __akinesis__ _n_ Motionlessness attributable to a temporary paralysis.  
 __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
 __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening of a narrowed blood vessel by means of balloon angioplasty.  
@@ -36,6 +37,7 @@ __beta-blocker__ _n_ Any of a class of drugs (such as propranolol) that decrease
 __bigeminy__ _n_ The occurrence of premature atrial or ventricular heartbeats in pairs.  
 __bipolar__ _adj_ Relating to or having two poles or charges.  
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
+__blood pool__ _n_ _Left ventricular blood pool volume._ _Aortic blood pool._  
 __bradycardia__ _n_ Slowness of the heart rate, usually fewer than 60 beats per minute in an adult human. Compare _tachycardia_  
 __broken heart syndrome__ _n_ See _Takotsubo cardiomyopathy_.  
 __bundle branch block__ _n_ (bundle branch heart block, interventricular heart block) A defect in the electrical conduction system of the heart in which there is failure of conduction down one of the main branches of the bundle of His. On the surface electrocardiogram, the QRS complex is > 0.12 sec. and its shape is altered.  
@@ -94,6 +96,7 @@ __fenestration__ _n_ A surgical method of making a hole in or perforating someth
 __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
 __fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which connective tissue replaces normal parenchymal tissue to the extent that it goes unchecked, leading to considerable tissue remodelling and the formation of permanent scar tissue. _Cardiac fibrosis can be observed in a DE-CMR scan._  
 __first-in-class__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
+__fluoroshot__  
 __focal atrial tachycardia__ _n_  
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
 __granuloma__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Granuloma) _Noncaseating granulomas._  
@@ -149,6 +152,7 @@ __polymorphic ventricular tachycardia__ _n_ A form of ventricular tachycardia in
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
 __prolapse__ _n_ A condition in which organs fall down or slip out of place. It is used for organs protruding through the vagina, rectum, or for the misalignment of the valves of the heart. A spinal disc herniation is also sometimes called "disc prolapse".  
 __pseudoaneurysm__ _n_ The preferred term for a false aneurysm in which the saccular dilation (“aneurysm”) does not involve all of the vessel wall layers.  
+__pulmonary edema__ _n_ _Extensive LA radiofrequency ablation bears the risk of a severe pulmonary edema._  
 __pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a surgical procedure to treat atrial fibrillation.  
 __pulmonic regurgitation__ _n_ Backflow of blood from the pulmonary artery into the right ventricle, owing to insufficiency of the pulmonic valve.  
