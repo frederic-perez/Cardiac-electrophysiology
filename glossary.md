@@ -13,6 +13,7 @@ __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).
 __ablation__ _n_ The act or process of ablating.  
 __adhesion__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Adhesion_(medicine)) _Firm apical adherences did not allow to reach the isthmus in the second epicardial mapping._ _Pericardial adhesions._  
 __akinesis__ _n_ Motionlessness attributable to a temporary paralysis.  
+__amyloid__ _n_ (pathology) A waxy translucent complex protein resembling starch that results from degeneration of tissue.  
 __angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
 __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening of a narrowed blood vessel by means of balloon angioplasty.  
 __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
@@ -48,6 +49,7 @@ __cannulation__ _n_ Introduction of a cannula into a tubelike organ or 
 __cardiac action potential__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cardiac_action_potential)  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
+__cardiac sarcoidosis__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/The_heart_in_sarcoidosis)  
 __cardiac tamponade__ _n_ Mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart's normal range of motion,  
 __cardiogenic shock__ _n_ Shock caused by cardiac arrest.  
 __cardioneural__ _adj_ Pertaining to the heart and nervous system.  
@@ -103,6 +105,7 @@ __granuloma__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Granuloma) _Nonc
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hibernating myocardium__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Hibernating_myocardium) Regional dysfunction of myocardial tissue due to prolonged local hypoperfusion, which is completely reversible upon restoration of adequate blood flow; hibernation occurs in pts with CAD and impairment of left ventricular function at rest.  
+__Holter monitor__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Holter_monitor)  
 __hyperkalemia__ _n_ An abnormally high concentration of potassium in the blood.  
 __hypertension__ _n_ __1__ Abnormally elevated arterial blood pressure. __2__ Arterial disease marked by chronic high blood pressure.  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
@@ -157,8 +160,10 @@ __pulmonary embolism__ A condition in which an embolus (blood clot, formed in a 
 __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a surgical procedure to treat atrial fibrillation.  
 __pulmonic regurgitation__ _n_ Backflow of blood from the pulmonary artery into the right ventricle, owing to insufficiency of the pulmonic valve.  
 __Purkinje fibers__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Purkinje_fibers)  
+__PV stenosis__ _n_ _“Back in the early days of catheter ablation, pulmonary vein (PV) stenosis was an all too frequent complication, because ablations were often done inside the PVs. Today’s ablations are performed at the PV openings or in the antrum area where there is much less chance of swelling or stenosis blocking a PV. From 1998 to 2005 there was a huge difference in the severity of PV stenosis due to EPs learning to ablate outside the PVs.”_  
 __QRS complex__ _n_ (ventricular depolarization) An electrocardiographic complex consisting of the Q, R, and S waves, representing propagation of a wave of depolarization over the ventricles.  
 __R-R interval__ The time elapsing between two consecutive R waves in the electrocardiogram.  
+__Rassi score__  
 __refractory__ _adj_ Resistant to treatment.  
 __retrograde approach__ _n_ Two ways to reach the LV: in the _transseptal approach_, the doctor inserts the catheter into the LV through veins, starting in the upper leg; in the _retrograde approach_, the doctor inserts the catheter through a small artery in the upper leg. The catheter travels through the aorta to reach the LV.  
 __retrograde conduction__ _n_ (VA conduction, ventriculoatrial conduction) The conduction backward phenomena in the heart, where the conduction comes from the ventricles or from the AV node into and through the atria.  
@@ -190,6 +195,7 @@ __thoracoscopic surgical ablation__ _n_ (vs catheter ablation) A a minimally inv
 __thromboembolism__ _n_ The blocking of a blood vessel by a blood clot dislodged from its site of origin.  
 __Torsades de pointes__ _n_ A specific type of abnormal heart rhythm that can lead to sudden cardiac death.  
 __transcatheter__ _adj_ Performed through the lumen of a catheter.  
+__transient__ _adj_ For a short time only; temporary or transitory. _Transient lesions._  
 __transmural myocardial infarction__ _n_ Infarction that involves the whole thickness of the heart muscle from endocardium to epicardium.  
 __transmural necrosis__ _n_ _A symptom‐to‐balloon time of >121 minutes causes a high grade of transmural necrosis._  
 __transseptal approach__ _n_ Two ways to reach the LV: in the _transseptal approach_, the doctor inserts the catheter into the LV through veins, starting in the upper leg; in the _retrograde approach_, the doctor inserts the catheter through a small artery in the upper leg. The catheter travels through the aorta to reach the LV.  
