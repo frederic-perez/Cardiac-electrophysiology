@@ -52,11 +52,12 @@ __CPVT__ Catecholaminergic polymorphic ventricular tachycardia
 __CRM__ Cardiac rhythm management  
 __CRT__ Cardiac resynchronization therapy  
 __CS__ Coronary sinus  
-__CTI__ Cavo-tricuspid isthmus · _CTI line_  
+__CTI__ Cavo-tricuspid isthmus · _CTI line_ · _CTI block_  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
 __CVRF__ Cardiovascular risk factor  
 __DCM__ Dilated cardiomyopathy  
+__DICOM-RT__ DICOM radio therapy  
 __DMD__ Duchenne muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy)  
 __DOAC__ Direct oral anticoagulant  
 __DOACs__ Direct oral anticoagulants  
@@ -67,6 +68,7 @@ __EAN__ Electroanatomic
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __ECGI__ Electrocardiographic Imaging  
 __ECV__ Extracellular volume · _ECV fraction; ECV map_  
+__EDEL__ Endoscopically detected asymptomatic esophageal lesions  
 __EF__ Ejection fraction  
 __EGE__ Early gadolinium enhancement (compare with LGE)  
 __EGM__ Electrogram. The word "electrogram" (EGM) without further specification usually means an intracardiac electrogram.  
@@ -200,6 +202,7 @@ __TAVI__ Transcatheter aortic valve implantation
 __TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
 __TdP__ Torsades de pointes · _TdP tachycardia_  
 __TEE__ Transesophageal echocardiogram · Transesophageal echocardiography  
+__TIA__ Transient ischemic attack  
 __TIC__ Tachycardia-induced cardiomyopathy  
 __TMVR__ Transcatheter mitral valve replacement  
 __TOE__ Transesophageal echocardiography  
