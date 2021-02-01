@@ -42,7 +42,7 @@ __CE MRA__ Contrast-enhanced MR angiography
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
 __CHB__ Complete heart block  
-__CHD__ Congenital heart defect, also known as a congenital heart anomaly and congenital heart disease  
+__CHD__ __1__ Congenital heart defect, also known as a congenital heart anomaly and congenital heart disease __2__ Coronary heart disease [[WikiDoc]](https://www.wikidoc.org/index.php/Coronary_heart_disease_overview)  
 __CHF__ Congestive heart failure  
 __CKD__ Chronic kidney disease  
 __CL__ Cycle length  
@@ -53,6 +53,7 @@ __CRM__ Cardiac rhythm management
 __CRT__ Cardiac resynchronization therapy  
 __CS__ Coronary sinus  
 __CTI__ Cavo-tricuspid isthmus · _CTI line_ · _CTI block_  
+__CTP__ Computed tomography perfusion  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
 __CVRF__ Cardiovascular risk factor  
