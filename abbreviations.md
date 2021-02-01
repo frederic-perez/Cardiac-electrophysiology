@@ -126,6 +126,7 @@ __MACE__ Major adverse cardiovascular events
 __MagIR__ (Conventional) Magnitude inversion recovery (see also PSIR)  
 __MAT__ Multifocal atrial tachycardia  
 __MD__ Muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Muscular_dystrophy)  
+__MDE CT__ Myocardial delayed enhancement CT  
 __MEM__ Multi-electrode mapping  
 __MI__ Myocardial infarction (commonly known as a heart attack)  
 __MINOCA__ Myocardial infarction with non-obstructive coronary arteries  
@@ -207,6 +208,7 @@ __TIA__ Transient ischemic attack
 __TIC__ Tachycardia-induced cardiomyopathy  
 __TMVR__ Transcatheter mitral valve replacement  
 __TOE__ Transesophageal echocardiography  
+__TR__ Tricuspid regurgitation  
 __TTE__ Transthoracic echocardiography  
 __TV__ Tricuspid valve  
 __TVP__ Transvenous pacing; transvenous pacemaker  
