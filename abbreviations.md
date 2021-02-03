@@ -6,6 +6,7 @@ __ABL__ Ablation
 __ACC__ American College of Cardiology  
 __ACHD__ Adult congenital heart disease  
 __ACM__ Arrhythmogenic cardiomyopathy [[Wikipedia]](https://en.wikipedia.org/wiki/Arrhythmogenic_cardiomyopathy)  
+__AE__ Adverse event  
 __AED__ Automated external defibrillator  
 __AF__, __AFib__ Atrial fibrillation  
 __AFL__ Atrial flutter [[Wikipedia]](https://en.wikipedia.org/wiki/Atrial_flutter)  
@@ -71,6 +72,7 @@ __ECGI__ Electrocardiographic Imaging
 __ECV__ Extracellular volume · _ECV fraction; ECV map_  
 __EDEL__ Endoscopically detected asymptomatic esophageal lesions  
 __EF__ Ejection fraction  
+__EGD__ Esophagogastroduodenoscopy  
 __EGE__ Early gadolinium enhancement (compare with LGE)  
 __EGM__ Electrogram. The word "electrogram" (EGM) without further specification usually means an intracardiac electrogram.  
 __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph  
@@ -123,6 +125,7 @@ __LVESV__ Left ventricular end-systolic volume
 __LVOT__ Left ventricular outflow tract  
 __LVSD__ Left ventricular systolic dysfunction  
 __MACE__ Major adverse cardiovascular events  
+__MAE__ Major adverse event  
 __MagIR__ (Conventional) Magnitude inversion recovery (see also PSIR)  
 __MAT__ Multifocal atrial tachycardia  
 __MD__ Muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Muscular_dystrophy)  
@@ -146,6 +149,7 @@ __NSR__ Normal sinus rhythm
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __NSVT__ Non-sustained ventricular tachycardia  
 __NVAF__ Non-valvular atrial fibrillation  
+__OAC__ Oral anticoagulation  
 __OCT__ Optical coherence tomography [[Wikipedia]](https://en.wikipedia.org/wiki/Optical_coherence_tomography)  
 __OHIF__ Open Health Imaging Foundation  
 __PA__ Pulmonary artery  
@@ -154,6 +158,7 @@ __PAD__ Peripheral artery disease
 __PAF__ Paroxysmal atrial fibrillation  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
 __PE__ Pulmonary embolism  
+__PFA__ Pulsed field ablation  
 __PFO__ Patent foramen ovale (one of two kinds of holes in the heart, the other being an ASD)  
 __PM__ Pacemaker  
 __POAF__ Postoperative atrial fibrillation  
