@@ -79,9 +79,11 @@ __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph
 __EP__ Electrophysiology  
 __EPS__ Electrophysiology study  
 __ESC__ European Society of Cardiology  
+__EVAR__ Endovascular aneurysm repair  
 __FACC__ Fellow of the American College of Cardiologists  
 __FAM__ Fast anatomical map  
 __FAT__ Focal atrial tachycardia  
+__FEVAR__ Fenestrated endovascular aortic repair  
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
 __FOI__ Fusion-optimized intervals  
