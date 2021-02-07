@@ -21,6 +21,7 @@ __aortic regurgitation__ _n_ The backward flow of blood from the aorta into the 
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__, __arhythmia__, __arythmia__, __arrythmia__ _n_ _(different spelling variants)_ Any abnormality in the rhythm of the heartbeat. _Syn_ dysrhythmia  
 __arrhythmogenic__ _n_ Capable of inducing cardiac arrhythmias.  
+__arterial puncture__ _n_ Placement of a needle or catheter into an artery to sample blood gases or blood pressure, or positioning of a catheter in the aorta or the heart.  
 __arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arteriosclerosis) The thickening, hardening, and loss of elasticity of the walls of arteries.  
 __aspect__ _n_ The side of an object, such as an organ, that is facing in a particular direction.  
 __asystole__ _n_ The absence of heartbeat; cardiac arrest.  
@@ -71,6 +72,7 @@ __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, ofte
 __coronary vasospasm__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Coronary_vasospasm) [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_vasospasm)  
 __crista terminalis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Crista_terminalis)  
 __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.  
+__cutdown__ _n_ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.  
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
