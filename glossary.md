@@ -8,13 +8,13 @@ __-plasty__ _suff_ (Surgery) Molding or shaping of a defect to restore form and 
 __-poiesis__ _suff_ Production; creation; formation: _hematopoiesis_.  
 __-rrhaphy__ _suff_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
 __-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
-__12 derivations__ _n_ A derivation is the process of getting something from something else. The process of getting or collecting things or information. _A standard ECG uses 12 derivations to examine the heart's electrical potentials from 12 different viewpoints._  
+__12 derivations__ _n_ A derivation is the process of getting something from something else. The process of getting or collecting things or information. _A standard ECG uses 12 derivations to examine the heart’s electrical potentials from 12 different viewpoints._  
 __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
 __adhesion__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Adhesion_(medicine)) _Firm apical adherences did not allow to reach the isthmus in the second epicardial mapping._ _Pericardial adhesions._  
 __akinesis__ _n_ Motionlessness attributable to a temporary paralysis.  
 __amyloid__ _n_ (pathology) A waxy translucent complex protein resembling starch that results from degeneration of tissue.  
-__angina__ _n_ Angina is pain, "discomfort," or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
+__angina__ _n_ Angina is pain, “discomfort,” or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
 __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening of a narrowed blood vessel by means of balloon angioplasty.  
 __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
 __aortic regurgitation__ _n_ The backward flow of blood from the aorta into the left ventricle caused by incompetent closure of the aortic valve.  
@@ -51,11 +51,11 @@ __cardiac action potential__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Car
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
 __cardiac sarcoidosis__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/The_heart_in_sarcoidosis)  
-__cardiac tamponade__ _n_ Mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart's normal range of motion,  
+__cardiac tamponade__ _n_ Mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart’s normal range of motion,  
 __cardiogenic shock__ _n_ Shock caused by cardiac arrest.  
 __cardioneural__ _adj_ Pertaining to the heart and nervous system.  
 __cardiopoiesis__ _n_ The production of cardiac muscle tissue.  
-__cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It's also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that's performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that's performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
+__cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It’s also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that’s performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that’s performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
 __catheter ablation__ _n_ (vs thoracoscopic surgical ablation) [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __cavo-tricuspid isthmus__ _n_ A body of fibrous tissue in the lower right atrium between the inferior vena cava, and the tricuspid valve. It is a target for ablation for treating atrial flutter.  
@@ -88,7 +88,7 @@ __ectatic__ _adj_ Relating to, or marked by, ectasis. _Ectatic coronary arteries
 __ectopy__ _n_ The origination of cardiac electrical impulses in myocardium outside of the sinoatrial node. _Syn_ ectopia _Mechanical ectopies._  
 __effusion__ _n_ __1__ The escape of fluid from the blood vessels or lymphatics into the tissues or a cavity. __2__ A collection of the fluid effused.  
 __electrocardiogram__ _n_ The graphic record produced by an electrocardiograph. _Syn_ cardiogram  
-__electrocardiograph__ _n_ A galvanometric device that detects variations in the electric potential that triggers the heartbeat, used to evaluate the heart's health. _Syn_ cardiograph  
+__electrocardiograph__ _n_ A galvanometric device that detects variations in the electric potential that triggers the heartbeat, used to evaluate the heart’s health. _Syn_ cardiograph  
 __electrophysiology__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Electrophysiology) The branch of medical science concerned with the electrical activity associated with bodily processes.  
 __electroporation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Electroporation)  
 __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other foreign matter that gets stuck while traveling through the bloodstream. Cerebral embolism occurs when a blood clot from elsewhere in the circulatory system breaks free. If it becomes lodged in an artery supplying the brain, either in the brain or in the neck, it can cause a stroke. The most common cause of cerebral embolism is atrial fibrillation. In atrial fibrillation, the upper chambers (atria) of the heart beat weakly and rapidly, instead of slowly and steadily. Blood within the atria is not completely emptied. This stagnant blood may form clots within the atria, which can then break off and enter the circulation. Atrial fibrillation is a factor in about 15% of all strokes. The risk of a stroke from atrial fibrillation can be dramatically reduced with daily use of anticoagulant medication.  
@@ -127,7 +127,7 @@ __isoelectric__ _adj_ Having equal electric potential.
 __isogram__ _n_ See isoline.  
 __isoline__ _n_ A line on a map, chart, or graph connecting points of equal value. Also called _isogram_.  
 __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
-__lacunar stroke__ _n_ (lacunar infarct) The most common type of stroke, and results from occlusion of small penetrating arteries that provide blood to the brain's deep structures.  
+__lacunar stroke__ _n_ (lacunar infarct) The most common type of stroke, and results from occlusion of small penetrating arteries that provide blood to the brain’s deep structures.  
 __late potential__ _n_ Deflections found on signal-averaged electrocardiograms that follow the QRS complex and point to an increased likelihood of ventricular dysrhythmias. These deflections represent delays in electrical conduction through the ventricles.  
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
@@ -156,7 +156,7 @@ __phrenic nerve__ _n_ A major branch of the cervical plexus, extending through t
 __placebo procedure__ _n_  
 __polymorphic ventricular tachycardia__ _n_ A form of ventricular tachycardia in which there are multiple ventricular foci with the resultant QRS complexes varying in amplitude, axis and duration. The commonest cause of PVT is myocardial ischaemia.  
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
-__prolapse__ _n_ A condition in which organs fall down or slip out of place. It is used for organs protruding through the vagina, rectum, or for the misalignment of the valves of the heart. A spinal disc herniation is also sometimes called "disc prolapse".  
+__prolapse__ _n_ A condition in which organs fall down or slip out of place. It is used for organs protruding through the vagina, rectum, or for the misalignment of the valves of the heart. A spinal disc herniation is also sometimes called “disc prolapse.”  
 __pseudoaneurysm__ _n_ The preferred term for a false aneurysm in which the saccular dilation (“aneurysm”) does not involve all of the vessel wall layers.  
 __pulmonary edema__ _n_ _Extensive LA radiofrequency ablation bears the risk of a severe pulmonary edema._  
 __pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
