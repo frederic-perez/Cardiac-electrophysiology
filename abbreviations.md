@@ -61,8 +61,7 @@ __CVRF__ Cardiovascular risk factor
 __DCM__ Dilated cardiomyopathy  
 __DICOM-RT__ DICOM radio therapy  
 __DMD__ Duchenne muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy)  
-__DOAC__ Direct oral anticoagulant  
-__DOACs__ Direct oral anticoagulants  
+__DOAC__, __DOACs__ Direct oral anticoagulant(s)  
 __EACTS__ European Association for Cardio-Thoracic Surgery  
 __EACVI__ European Association of Cardiovascular Imaging  
 __EAM__ Electro-anatomical map, electroanatomic mapping  
@@ -74,7 +73,7 @@ __EDEL__ Endoscopically detected asymptomatic esophageal lesions
 __EF__ Ejection fraction  
 __EGD__ Esophagogastroduodenoscopy  
 __EGE__ Early gadolinium enhancement (compare with LGE)  
-__EGM__ Electrogram. The word "electrogram" (EGM) without further specification usually means an intracardiac electrogram.  
+__EGM__ Electrogram. The word “electrogram” (EGM) without further specification usually means an intracardiac electrogram.  
 __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EP__ Electrophysiology  
 __EPS__ Electrophysiology study  
@@ -98,7 +97,6 @@ __HTN__ Hypertension
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac echocardiography  
 __ICEG__ Intracardiac electrogram  
-__ICL__ Implantable cardioverter-defibrillator  
 __ICU__ Intensive care unit  
 __IHD__ Ischaemic heart disease  
 __ILAM__ Isochronal late activation map  
@@ -168,8 +166,7 @@ __PPM__ Permanent pacemaker
 __PSIR__ Phase-sensitive inversion recovery (see also MagIR)  
 __pt__ Patient  
 __PVAI__ Pulmonary vein antrum isolation · Pulmonary vein isolation ablation  
-__PVC__ Premature ventricular contraction [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
-__PVCs__ Premature ventricular contractions  
+__PVC__, __PVCs__ Premature ventricular contraction(s) [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVI__ Pulmonary vein isolation · Polymorphic ventricular tachycardia  
 __PWI__ Posterior wall isolation  
 __QAV__ Quadricuspid aortic valve  
@@ -191,7 +188,7 @@ __RSPV__ Right superior pulmonary vein
 __RV__ Right Ventricle  
 __RVOT__ Right ventricular outflow tract  
 __Rx__ Prescription  
-__s/p__ Status post: after _This pt s/p PVI elsewhere came to me for "redo" persistent AF ablation._  
+__s/p__ Status post: after _This pt s/p PVI elsewhere came to me for “redo” persistent AF ablation._  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
 __SAN__ Sinoatrial node  
 __SAVR__ Surgical aortic valve replacement  
