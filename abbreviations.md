@@ -1,6 +1,7 @@
 __2D GRE__ 2D gradient echo sequence  
 __2D SSFP__ 2D steady-state free precession sequence  
 __3D GRE__ 3D gradient echo sequences  
+__AA__ Ascending aorta  
 __ABI__ Ankle-brachial index  
 __ABL__ Ablation  
 __ACC__ American College of Cardiology  
@@ -58,6 +59,7 @@ __CTP__ Computed tomography perfusion
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
 __CVRF__ Cardiovascular risk factor  
+__DA__ Descending aorta  
 __DCM__ Dilated cardiomyopathy  
 __DICOM-RT__ DICOM radio therapy  
 __DMD__ Duchenne muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy)  
