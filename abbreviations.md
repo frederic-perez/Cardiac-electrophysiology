@@ -40,6 +40,7 @@ __CAC__ Coronary artery calcium
 __CAD__ Coronary artery disease  
 __CCHD__ Complex congenital heart disease  
 __CCM__ Cardiac Contractility Modulation  
+__CCTA__ Cardiac/Coronary computed tomography angiography  
 __CE MRA__ Contrast-enhanced MR angiography  
 __CF__ Contact force  
 __CFAE__ Complex fractionated atrial electrogram  
@@ -106,6 +107,7 @@ __ILR__ Implantable loop recorder
 __IPSC__ Induced pluripotent stem cell  
 __IR__ Interventional radiology  
 __IVC__ Inferior vena cava  
+__IVL__ Intravascular lithotripsy  
 __J&J__ Johnson & Johnson  
 __LA__ Left atrium  
 __LAA__ Left atrial appendage  
@@ -164,6 +166,7 @@ __PFA__ Pulsed field ablation
 __PFO__ Patent foramen ovale (one of two kinds of holes in the heart, the other being an ASD)  
 __PM__ Pacemaker  
 __POAF__ Postoperative atrial fibrillation  
+__POTS__ Postural orthostatic tachycardia syndrome
 __PPM__ Permanent pacemaker  
 __PSIR__ Phase-sensitive inversion recovery (see also MagIR)  
 __pt__ Patient  
