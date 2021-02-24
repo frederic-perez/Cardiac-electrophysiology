@@ -82,6 +82,7 @@ __EP__ Electrophysiology
 __EPS__ Electrophysiology study  
 __ESC__ European Society of Cardiology  
 __EVAR__ Endovascular aneurysm repair  
+__F__ Female  
 __FACC__ Fellow of the American College of Cardiologists  
 __FAM__ Fast anatomical map  
 __FAT__ Focal atrial tachycardia  
@@ -97,6 +98,7 @@ __HF__ Heart failure · _HF patients_
 __HFpEF__ Heart failure with preserved ejection fraction  
 __HPSD__ High-powered short-duration (contact force), for ablation  
 __HTN__ Hypertension  
+__Hx__, __hx__ Medical history  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac echocardiography  
 __ICEG__ Intracardiac electrogram  
@@ -128,6 +130,7 @@ __LVEF__ Left ventricular ejection fraction
 __LVESV__ Left ventricular end-systolic volume  
 __LVOT__ Left ventricular outflow tract  
 __LVSD__ Left ventricular systolic dysfunction  
+__M__ Male  
 __MACE__ Major adverse cardiovascular events  
 __MAE__ Major adverse event  
 __MagIR__ (Conventional) Magnitude inversion recovery (see also PSIR)  
@@ -219,7 +222,7 @@ __TMVR__ Transcatheter mitral valve replacement
 __TOE__ Transesophageal echocardiography  
 __TR__ Tricuspid regurgitation  
 __TTE__ Transthoracic echocardiography  
-__TV__ Tricuspid valve  
+__TV__ Tricuspid valve · _TV prolapse._  
 __TVP__ Transvenous pacing; transvenous pacemaker  
 __UNI__ Unipolar · _UNI endocardial voltage_  
 __VEGF__ Vascular endothelial growth factor  
