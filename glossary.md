@@ -94,6 +94,7 @@ __electroporation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Electroporat
 __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other foreign matter that gets stuck while traveling through the bloodstream. Cerebral embolism occurs when a blood clot from elsewhere in the circulatory system breaks free. If it becomes lodged in an artery supplying the brain, either in the brain or in the neck, it can cause a stroke. The most common cause of cerebral embolism is atrial fibrillation. In atrial fibrillation, the upper chambers (atria) of the heart beat weakly and rapidly, instead of slowly and steadily. Blood within the atria is not completely emptied. This stagnant blood may form clots within the atria, which can then break off and enter the circulation. Atrial fibrillation is a factor in about 15% of all strokes. The risk of a stroke from atrial fibrillation can be dramatically reduced with daily use of anticoagulant medication.  
 __endocarditis__ _n_ Inflammation of the endocardium.  
 __entrain__ _v_ To adjust (an internal rhythm of an organism) so that it synchronizes with an external cycle.  
+__entrainment pacing__ _n_  
 __etiology__ _n_ The cause or origin of a disease or disorder as determined by medical diagnosis.  
 __Fabry disease__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Fabry_disease)  
 __fenestration__ _n_ A surgical method of making a hole in or perforating something.  
@@ -126,7 +127,7 @@ __isochrone__ _n_ An isogram connecting points at which something occurs or arri
 __isoelectric__ _adj_ Having equal electric potential.  
 __isogram__ _n_ See isoline.  
 __isoline__ _n_ A line on a map, chart, or graph connecting points of equal value. Also called _isogram_.  
-__isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ.  
+__isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ. _Anatomical isthmuses related to VT which may allow for individualized tailored ablation.__ _Characteristics of isthmus include width, length, and conduction velocity index._ _Isthmus entrance._ _This might be the isthmus of the VT._ _A common isthmus but different exits._  
 __lacunar stroke__ _n_ (lacunar infarct) The most common type of stroke, and results from occlusion of small penetrating arteries that provide blood to the brain’s deep structures.  
 __late potential__ _n_ Deflections found on signal-averaged electrocardiograms that follow the QRS complex and point to an increased likelihood of ventricular dysrhythmias. These deflections represent delays in electrical conduction through the ventricles.  
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
