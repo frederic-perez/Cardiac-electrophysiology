@@ -233,5 +233,5 @@ __VT__ Ventricular tachycardia
 __WACA__ Wide area circumferential ablation  
 __WCD__ Wearable cardioverter defibrillator  
 __WOI__ Window of interest  
-__WPW syndrome__ Wolfe-Parkinson-White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
+__WPW syndrome__ Wolff–Parkinson–White syndrome [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff–Parkinson–White_syndrome)  
 __WPWS__ Wolff–Parkinson–White syndrome  
