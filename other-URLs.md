@@ -7,9 +7,10 @@
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
   - [AWARE](https://clinicaltrials.gov/ct2/show/NCT02150902) - Augmented Wide Area Circumferential Catheter Ablation for Reduction of Atrial Fibrillation Recurrence
   - [CASA-AF](https://clinicaltrials.gov/ct2/show/NCT02755688) - Catheter Ablation Versus Thoracoscopic Surgical Ablation in Long Standing Persistent Atrial Fibrillation
-  - [DECAF](https://clinicaltrials.gov/ct2/results/refine?term=DECAF)
-  - [ENCORE-VT](https://clinicaltrials.gov/ct2/results/refine?term=ENCORE-VT)
-  - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177)
+  - [DECAF](https://clinicaltrials.gov/ct2/show/NCT01751607) - Determining the Association of Chromosomal Variants With Non-PV Triggers and Ablation-outcome in AF
+  - [ENCORE-VT](https://clinicaltrials.gov/ct2/show/NCT01751607) - Phase I/II Study of EP-guided Noninvasive Cardiac Radioablation for Treatment of Ventricular Tachycardia
+  - [IMMACULATE](https://clinicaltrials.gov/ct2/show/NCT02468349) - IMproving reModeling in Acute myoCardial Infarction Using Live and Asynchronous TElemedicine
+  - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177) - Personalized Atrial Fibrillation Ablation With QDOT
 - Data
   - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
   - [2018 Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/data/)
