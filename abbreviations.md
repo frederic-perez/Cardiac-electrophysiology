@@ -206,6 +206,7 @@ __SBRT__ Stereotactic body radiation therapy
 __SCA__ Sudden cardiac arrest  
 __SCAF__ Sub-clinical atrial fibrillation  
 __SCD__ Sudden cardiac death  
+__SCRN__ Society For Cardiac Robotic Navigation  
 __SHD__ Structural heart disease  
 __SR__ Sinus rhythm  
 __SSS__ Sick sinus syndrome [[WikiDoc]](https://www.wikidoc.org/index.php/Sick_sinus_syndrome)  
