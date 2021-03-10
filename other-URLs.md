@@ -7,9 +7,14 @@
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
   - [AWARE](https://clinicaltrials.gov/ct2/show/NCT02150902) - Augmented Wide Area Circumferential Catheter Ablation for Reduction of Atrial Fibrillation Recurrence
   - [CASA-AF](https://clinicaltrials.gov/ct2/show/NCT02755688) - Catheter Ablation Versus Thoracoscopic Surgical Ablation in Long Standing Persistent Atrial Fibrillation
+  - [CMR GUIDE DCM](https://clinicaltrials.gov/ct2/show/NCT03993730) - Cardiovascular Magnetic Resonance GUIDEd Insertion of Implantable Cardiac Defibrillator in Dilated CardioMyopathy
   - [DECAF](https://clinicaltrials.gov/ct2/show/NCT01751607) - Determining the Association of Chromosomal Variants With Non-PV Triggers and Ablation-outcome in AF
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/show/NCT01751607) - Phase I/II Study of EP-guided Noninvasive Cardiac Radioablation for Treatment of Ventricular Tachycardia
+  - [HCMR](https://clinicaltrials.gov/ct2/show/NCT01915615) - Novel Markers of Prognosis in Hypertrophic Cardiomyopathy
   - [IMMACULATE](https://clinicaltrials.gov/ct2/show/NCT02468349) - IMproving reModeling in Acute myoCardial Infarction Using Live and Asynchronous TElemedicine
+  - [Left Ventricular Structural Predictors of Sudden Cardiac Death](https://clinicaltrials.gov/ct2/show/NCT01076660)
+  - [NICMR](https://clinicaltrials.gov/ct2/show/NCT02657967) Development of an Evidenced-Based Tool for Prediction of Sudden Death in Patients With Non-Ischemic Cardiomyopathy
+  - [PROTECT-ICD](https://clinicaltrials.gov/ct2/show/NCT03588286) - Programmed Ventricular Stimulation to Risk Stratify for Early Cardioverter-Defibrillator (ICD) Implantation to Prevent Tachyarrhythmias Following Acute Myocardial Infarction
   - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177) - Personalized Atrial Fibrillation Ablation With QDOT
 - Data
   - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
