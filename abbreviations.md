@@ -102,6 +102,7 @@ __Hx__, __hx__ Medical history
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac echocardiography  
 __ICEG__ Intracardiac electrogram  
+__ICM__ Ischemic cardiomyopathy  
 __ICU__ Intensive care unit  
 __IHD__ Ischaemic heart disease  
 __ILAM__ Isochronal late activation map  
@@ -117,10 +118,12 @@ __LAAA__ Left atrial accessory appendage
 __LAAC__ Left atrial appendage closure  
 __LAD__ __1__ Left anterior descending coronary artery __2__ Left atrial diverticulum  
 __LAT__ Local activation time  
+__LAVA__ Local abnormal ventricular activity  
 __LAX__ Long-axis  
 __LCC__ Left coronary cusp (one of the 3 aortic valve cusps)  
 __LGE__ Late gadolinium enhancement (compare with EGE)  
 __LGE-CMR__ Late gadolinium enhanced CMR  
+__LIE-CT__ Late iodine enhancement CT  
 __LIMA__ Left internal mammary artery   
 __LIPV__ Left inferior pulmonary vein  
 __LSPV__ Left superior pulmonary vein  
@@ -211,6 +214,7 @@ __SHD__ Structural heart disease
 __SR__ Sinus rhythm  
 __SSS__ Sick sinus syndrome [[WikiDoc]](https://www.wikidoc.org/index.php/Sick_sinus_syndrome)  
 __STEMI__ ST-elevation myocardial infarction  
+__SUV__ Standardized uptake value  
 __SVC__ Superior vena cava  
 __SVT__ Supraventricular tachycardia  
 __TAVI__ Transcatheter aortic valve implantation  
