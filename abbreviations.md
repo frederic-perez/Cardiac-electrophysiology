@@ -174,6 +174,7 @@ __PM__ Pacemaker
 __POAF__ Postoperative atrial fibrillation  
 __POTS__ Postural orthostatic tachycardia syndrome
 __PPM__ Permanent pacemaker  
+__PROSPERO__ International prospective register of systematic reviews [[Wikipedia]](https://en.wikipedia.org/wiki/PROSPERO)  
 __PSIR__ Phase-sensitive inversion recovery (see also MagIR)  
 __pt__ Patient  
 __PVAI__ Pulmonary vein antrum isolation · Pulmonary vein isolation ablation  
@@ -181,6 +182,7 @@ __PVC__, __PVCs__ Premature ventricular contraction(s) [[Wikipedia]](https://en.
 __PVI__ Pulmonary vein isolation · Polymorphic ventricular tachycardia  
 __PWI__ Posterior wall isolation  
 __QAV__ Quadricuspid aortic valve  
+__QCT__ Quantitative computed tomography [[Wikipedia]](https://en.wikipedia.org/wiki/Quantitative_computed_tomography)  
 __QOL__ Quality of life  
 __QTc__ Corrected QT (interval)  
 __RA__ Right atrium  
