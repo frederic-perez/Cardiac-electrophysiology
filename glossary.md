@@ -45,7 +45,7 @@ __broken heart syndrome__ _n_ See _Takotsubo cardiomyopathy_.
 __bundle branch block__ _n_ (bundle branch heart block, interventricular heart block) A defect in the electrical conduction system of the heart in which there is failure of conduction down one of the main branches of the bundle of His. On the surface electrocardiogram, the QRS complex is > 0.12 sec. and its shape is altered.  
 __bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)  
 __cancellous__ _adj_ Of a reticular, spongy, or lattice-like structure; said mainly of bone tissue.  
-__cannulate__ _v_ To insert a cannula into (a bodily cavity, duct, or vessel), as for the drainage  of fluid or the administration of medication.  
+__cannulate__ _v_ To insert a cannula into (a bodily cavity, duct, or vessel), as for the drainage of fluid or the administration of medication.  
 __cannulation__ _n_ Introduction of a cannula into a tubelike organ or body cavity. _Syn_ intubation  
 __cardiac action potential__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cardiac_action_potential)  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
@@ -53,6 +53,7 @@ __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a 
 __cardiac sarcoidosis__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/The_heart_in_sarcoidosis)  
 __cardiac tamponade__ _n_ Mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart’s normal range of motion,  
 __cardiogenic shock__ _n_ Shock caused by cardiac arrest.  
+__cardiomyopathy__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cardiomyopathy) A group of diseases that affect the heart muscle.  
 __cardioneural__ _adj_ Pertaining to the heart and nervous system.  
 __cardiopoiesis__ _n_ The production of cardiac muscle tissue.  
 __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It’s also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that’s performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that’s performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
@@ -139,7 +140,7 @@ __multifocal atrial tachycardia__ _n_ (MAT) [[Wikipedia]](https://en.wikipedia.o
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
 __myocyte__ _n_ A muscle cell.  
 __myositis__ _n_ Inflammation of muscle tissue.  
-__no reflow phenomenon__ _n_ (no-reflow phenomenon) Deficient reperfusion of previously ischemic tissue even though the lumen of the artery  that  irrigates  the  territory  has  been opened.  
+__no reflow phenomenon__ _n_ (no-reflow phenomenon) Deficient reperfusion of previously ischemic tissue even though the lumen of the artery that irrigates the territory has been opened.  
 __noncompaction cardiomyopathy__ _n_ (non-compaction cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Noncompaction_cardiomyopathy)  
 __oximetry__ _n_ A device for measuring the oxygen saturation of arterial blood, especially a pulse oximeter.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
@@ -166,6 +167,7 @@ __pulmonic regurgitation__ _n_ Backflow of blood from the pulmonary artery into 
 __Purkinje fibers__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Purkinje_fibers)  
 __PV stenosis__ _n_ _“Back in the early days of catheter ablation, pulmonary vein (PV) stenosis was an all too frequent complication, because ablations were often done inside the PVs. Today’s ablations are performed at the PV openings or in the antrum area where there is much less chance of swelling or stenosis blocking a PV. From 1998 to 2005 there was a huge difference in the severity of PV stenosis due to EPs learning to ablate outside the PVs.”_  
 __QRS complex__ _n_ (ventricular depolarization) An electrocardiographic complex consisting of the Q, R, and S waves, representing propagation of a wave of depolarization over the ventricles.  
+__quantitative computed tomography__ _n_ (QCT) [[Wikipedia]](https://en.wikipedia.org/wiki/Quantitative_computed_tomography) A medical technique that measures bone mineral density (BMD) using a standard X-ray Computed Tomography (CT) scanner with a calibration standard to convert Hounsfield Units (HU) of the CT image to bone mineral density values.    
 __R-R interval__ The time elapsing between two consecutive R waves in the electrocardiogram.  
 __Rassi score__  
 __refractory__ _adj_ Resistant to treatment.  
@@ -182,6 +184,7 @@ __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_n
 __sinus rhythm__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinus_rhythm)  
 __sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
 __ST elevation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/ST_elevation)  
+__steam pop__ _n_ Steam pop refers to the audible sound produced by intramyocardial explosion when tissue temperature reaches 100°C, leading to the production of gas. It is a potentially severe complication of radiofrequency ablation because it has been associated with cardiac perforation and ventricular septal defect.  
 __stress cardiomyopathy MRI__ _n_ (stress CMR) [[WikiDoc]](https://www.wikidoc.org/index.php/Stress_cardiomyopathy_MRI)  
 __stress cardiomyopathy__ _n_ See _Takotsubo cardiomyopathy_.  
 __stroke volume__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Stroke_volume) The volume of blood pumped from a ventricle of the heart in one beat.  
