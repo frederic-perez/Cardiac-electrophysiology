@@ -8,6 +8,7 @@
   - [AWARE](https://clinicaltrials.gov/ct2/show/NCT02150902) - Augmented Wide Area Circumferential Catheter Ablation for Reduction of Atrial Fibrillation Recurrence
   - [CASA-AF](https://clinicaltrials.gov/ct2/show/NCT02755688) - Catheter Ablation Versus Thoracoscopic Surgical Ablation in Long Standing Persistent Atrial Fibrillation
   - [CMR GUIDE DCM](https://clinicaltrials.gov/ct2/show/NCT03993730) - Cardiovascular Magnetic Resonance GUIDEd Insertion of Implantable Cardiac Defibrillator in Dilated CardioMyopathy
+  - [DECAAF II](https://clinicaltrials.gov/ct2/show/NCT02529319) - Efficacy of Delayed Enhancement MRI-Guided Ablation vs Conventional Catheter Ablation of Atrial Fibrillation
   - [DECAF](https://clinicaltrials.gov/ct2/show/NCT01751607) - Determining the Association of Chromosomal Variants With Non-PV Triggers and Ablation-outcome in AF
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/show/NCT01751607) - Phase I/II Study of EP-guided Noninvasive Cardiac Radioablation for Treatment of Ventricular Tachycardia
   - [HCMR](https://clinicaltrials.gov/ct2/show/NCT01915615) - Novel Markers of Prognosis in Hypertrophic Cardiomyopathy
