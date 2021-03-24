@@ -5,6 +5,7 @@
   - Innerbody Research’s [“The Heart”](https://www.innerbody.com/image/card01.html)
   - University of Minnesota’s [Atlas of Human Cardiac Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml)
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
+  - [ALICIA](https://clinicaltrials.gov/ct2/show/NCT02698631) - Isolation of Pulmonary Veins With the Aid of Magnetic Resonance Imaging
   - [AWARE](https://clinicaltrials.gov/ct2/show/NCT02150902) - Augmented Wide Area Circumferential Catheter Ablation for Reduction of Atrial Fibrillation Recurrence
   - [CASA-AF](https://clinicaltrials.gov/ct2/show/NCT02755688) - Catheter Ablation Versus Thoracoscopic Surgical Ablation in Long Standing Persistent Atrial Fibrillation
   - [CMR GUIDE DCM](https://clinicaltrials.gov/ct2/show/NCT03993730) - Cardiovascular Magnetic Resonance GUIDEd Insertion of Implantable Cardiac Defibrillator in Dilated CardioMyopathy
