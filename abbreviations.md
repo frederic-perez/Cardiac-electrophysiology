@@ -108,7 +108,7 @@ __IHD__ Ischaemic heart disease
 __ILAM__ Isochronal late activation map  
 __ILR__ Implantable loop recorder  
 __IPSC__ Induced pluripotent stem cell  
-__IR__ Interventional radiology  
+__IR__ Interventional radiology/radiologist  
 __IVC__ Inferior vena cava  
 __IVL__ Intravascular lithotripsy  
 __J&J__ Johnson & Johnson  
