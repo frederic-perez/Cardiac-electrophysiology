@@ -13,6 +13,7 @@ __ablate__ _v_ To remove or destroy the function of (a body organ or tissue).
 __ablation__ _n_ The act or process of ablating.  
 __adhesion__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Adhesion_(medicine)) _Firm apical adherences did not allow to reach the isthmus in the second epicardial mapping._ _Pericardial adhesions._  
 __akinesis__ _n_ Motionlessness attributable to a temporary paralysis.  
+__alternans__ _n_ Alternation in the pattern of activity (such as that produced by the heartbeat).  
 __amyloid__ _n_ (pathology) A waxy translucent complex protein resembling starch that results from degeneration of tissue.  
 __angina__ _n_ Angina is pain, “discomfort,” or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
 __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening of a narrowed blood vessel by means of balloon angioplasty.  

@@ -48,7 +48,7 @@ __CHB__ Complete heart block
 __CHD__ __1__ Congenital heart defect, also known as a congenital heart anomaly and congenital heart disease __2__ Coronary heart disease [[WikiDoc]](https://www.wikidoc.org/index.php/Coronary_heart_disease_overview)  
 __CHF__ Congestive heart failure  
 __CKD__ Chronic kidney disease  
-__CL__ Cycle length  
+__CL__ Cycle length · _CL alternans_  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
 __COPD__ Chronic obstructive pulmonary disease  
 __CPVT__ Catecholaminergic polymorphic ventricular tachycardia  
