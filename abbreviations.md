@@ -72,7 +72,9 @@ __EAN__ Electroanatomic
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __ECGI__ Electrocardiographic Imaging  
 __ECV__ Extracellular volume · _ECV fraction; ECV map_  
+__ED__ End-diastole  
 __EDEL__ Endoscopically detected asymptomatic esophageal lesions  
+__EDV__ End-diastolic volume  
 __EF__ Ejection fraction  
 __EGD__ Esophagogastroduodenoscopy  
 __EGE__ Early gadolinium enhancement (compare with LGE)  
@@ -80,7 +82,10 @@ __EGM__ Electrogram. The word “electrogram” (EGM) without further specificat
 __EKG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __EP__ Electrophysiology  
 __EPS__ Electrophysiology study  
+__ER__ Eustachian ridge · _The Eustachian ridge is a common place for CTI reconnection and can be a challenge to ablate._  
+__ES__ End-systole  
 __ESC__ European Society of Cardiology  
+__ESV__ End-systolic volume  
 __EVAR__ Endovascular aneurysm repair  
 __F__ Female  
 __FACC__ Fellow of the American College of Cardiologists  
