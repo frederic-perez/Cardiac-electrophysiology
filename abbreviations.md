@@ -65,6 +65,7 @@ __DCM__ Dilated cardiomyopathy
 __DICOM-RT__ DICOM radio therapy  
 __DMD__ Duchenne muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy)  
 __DOAC__, __DOACs__ Direct oral anticoagulant(s)  
+__DVT__ Deep vein thrombosis  
 __EACTS__ European Association for Cardio-Thoracic Surgery  
 __EACVI__ European Association of Cardiovascular Imaging  
 __EAM__ Electro-anatomical map, electroanatomic mapping  
@@ -95,6 +96,7 @@ __FEVAR__ Fenestrated endovascular aortic repair
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
 __FOI__ Fusion-optimized intervals  
+__GA__ General anesthesia  
 __GP__ Ganglionated plexi · _GP ablation_  
 __Gy__ Gray  
 __HCM__ Hypertrophic cardiomyopathy  
@@ -160,6 +162,7 @@ __MV__ Mitral valve
 __MVR__ Mitral valve replacement  
 __NCC__ Non-coronary cusp (one of the 3 aortic valve cusps)  
 __NICM__ Nonischemic cardiomyopathy  
+__NPO__ _abbr_ _Latin_ Nil per os (nothing by mouth)  
 __NSR__ Normal sinus rhythm  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
 __NSVT__ Non-sustained ventricular tachycardia  
