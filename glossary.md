@@ -72,6 +72,7 @@ __coronary spasm__ _n_ Muscular closure of the coronary arteries, causing angina
 __coronary stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_stent)  
 __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, often leading to destruction of heart muscle.  
 __coronary vasospasm__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Coronary_vasospasm) [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_vasospasm)  
+__coronary__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
 __crista terminalis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Crista_terminalis)  
 __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.  
 __cutdown__ _n_ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
