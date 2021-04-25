@@ -58,6 +58,7 @@ __cardiomyopathy__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cardiomyopath
 __cardioneural__ _adj_ Pertaining to the heart and nervous system.  
 __cardiopoiesis__ _n_ The production of cardiac muscle tissue.  
 __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It’s also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that’s performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that’s performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
+__cath lab__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cath_lab)
 __catheter ablation__ _n_ (vs thoracoscopic surgical ablation) [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
 __cavo-tricuspid isthmus__ _n_ A body of fibrous tissue in the lower right atrium between the inferior vena cava, and the tricuspid valve. It is a target for ablation for treating atrial flutter.  
