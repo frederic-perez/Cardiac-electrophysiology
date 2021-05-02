@@ -100,6 +100,7 @@ __endocarditis__ _n_ Inflammation of the endocardium.
 __entrain__ _v_ To adjust (an internal rhythm of an organism) so that it synchronizes with an external cycle.  
 __entrainment pacing__ _n_  
 __etiology__ _n_ The cause or origin of a disease or disorder as determined by medical diagnosis.  
+__Eustachian ridge__ _n_  
 __Fabry disease__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Fabry_disease)  
 __fenestration__ _n_ A surgical method of making a hole in or perforating something.  
 __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
@@ -212,6 +213,7 @@ __transseptal approach__ _n_ Two ways to reach the LV: in the _transseptal appro
 __transseptal puncture__ _n_ _The LA is the most difficult cardiac chamber to access percutaneously. Although it can be reached via the LV and mitral valve, manipulation of catheters that have made two 180° turns is cumbersome. The transseptal puncture permits a direct route to the LA via the intra-atrial septum and systemic venous system._  
 __transseptal__ _adj_ Extending or performed through or across a septum.  
 __tricuspid regurgitation__ _n_ Backflow of blood from the right ventricle into the right atrium, owing to imperfect functioning of the tricuspid valve.  
+__troponin__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Troponin) Troponin, or the troponin complex, is a complex of three regulatory proteins (troponin C, troponin I, and troponin T) that are integral to muscle contraction in skeletal muscle and cardiac muscle, but not smooth muscle. [...] A person who recently had a myocardial infarction would have an area of damaged heart muscle and elevated cardiac troponin levels in the blood.  
 __tunneled__ _adj_ Placed surgically beneath the skin or into deeper tissues, e.g., into the intestinal wall. A tunneled catheter, e.g., is one that enters a vein through an incision made in the skin near the vein but then is passed through subcutaneous tissues to a second incision distant from the first. Tissue that surrounds the passage through which the catheter passes heals tightly around the catheter, holding it in place. Unlike non-tunneled catheters, tunneled catheters can remain in place for many months. They are used for intravenous infusions, the administration of chemotherapy, hemodialysis, and blood drawing.  
 __unipolar__ _adj_ Having, acting by means of, or produced by a single magnetic or electric pole.  
 __unremarkable__ _adj_ Lacking distinction; ordinary.  
