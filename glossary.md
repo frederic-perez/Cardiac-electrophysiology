@@ -68,6 +68,7 @@ __circumflex__ _adj_ (of certain nerves, arteries, or veins) Bending or curving 
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
 __commissure__ _n_ The point or surface where two parts, such as the eyelids, lips, or cardiac valves, join or form a connection.  
 __coronary artery bypass graft (CABG, pronounced “cabbage”) surgery__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)  
+__coronary calcium scan__ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/heart-scan/about/pac-20384686) [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_CT_calcium_scan)  
 __coronary sinus__ _n_ The dilated terminal portion of the great cardiac vein, receiving blood from other veins draining the heart muscle and emptying into the right atrium.  
 __coronary spasm__ _n_ Muscular closure of the coronary arteries, causing angina, ischemia, or myocardial infarction.  
 __coronary stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_stent)  
@@ -188,6 +189,7 @@ __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_n
 __sinus rhythm__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinus_rhythm)  
 __sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
 __ST elevation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/ST_elevation)  
+__statin__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Statin) Any of a class of drugs, including atorvastatin and simvastatin, that lower the levels of low-density lipoproteins in the blood by inhibiting the activity of an enzyme involved in the production of cholesterol in the liver.  
 __steam pop__ _n_ Steam pop refers to the audible sound produced by intramyocardial explosion when tissue temperature reaches 100°C, leading to the production of gas. It is a potentially severe complication of radiofrequency ablation because it has been associated with cardiac perforation and ventricular septal defect.  
 __stress cardiomyopathy MRI__ _n_ (stress CMR) [[WikiDoc]](https://www.wikidoc.org/index.php/Stress_cardiomyopathy_MRI)  
 __stress cardiomyopathy__ _n_ See _Takotsubo cardiomyopathy_.  
