@@ -36,7 +36,7 @@ __BPV__ Blood pressure variability
 __BSW__ Biosense Webster  
 __BZ__ Border zone  
 __CABG__ Coronary artery bypass graft  
-__CAC__ Coronary artery calcium  
+__CAC__ Coronary artery calcium [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_CT_calcium_scan)  
 __CAD__ Coronary artery disease  
 __CCHD__ Complex congenital heart disease  
 __CCM__ Cardiac Contractility Modulation  
