@@ -27,7 +27,7 @@ __arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arterioscle
 __aspect__ _n_ The side of an object, such as an organ, that is facing in a particular direction.  
 __asystole__ _n_ The absence of heartbeat; cardiac arrest.  
 __atherectomy__ _n_ A non-surgical procedure to open blocked coronary arteries or vein grafts by using a device on the end of a catheter to cut or shave away atherosclerotic plaque (a deposit of fat and other substances that accumulate in the lining of the artery wall).  
-__atherosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Atherosclerosis) A disease in which the inside of an artery narrows due to the build up of plaque.  
+__atherosclerosis__ _n_ [[WebMD]](https://www.webmd.com/heart-disease/what-is-atherosclerosis) [[Wikipedia]](https://en.wikipedia.org/wiki/Atherosclerosis) A disease in which the inside of an artery narrows due to the build up of plaque. The following terms are similar, yet distinct, in both spelling and meaning, and can be easily confused: arteriosclerosis, arteriolosclerosis, and atherosclerosis. _Arteriosclerosis_ is a general term describing any hardening (and loss of elasticity) of medium or large arteries (from Greek ἀρτηρία (artēria) ‘artery’, and σκλήρωσις (sklerosis) ‘hardening’); _arteriolosclerosis_ is any hardening (and loss of elasticity) of arterioles (small arteries); _atherosclerosis_ is a hardening of an artery specifically due to an atheromatous plaque (from Ancient Greek ἀθήρα (athḗra) ‘gruel’). The term atherogenic is used for substances or processes that cause formation of atheroma.  
 __atraumatic__ _adj_ Not producing injury or damage.  
 __atrial fibrillation__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624)  
 __atrial flutter__ _n_ [[Encyclopedia article by TheFreeDictionary]](https://encyclopedia.thefreedictionary.com/atrial+flutter)  
@@ -48,6 +48,7 @@ __bundle of His__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Bundle_of_His)
 __cancellous__ _adj_ Of a reticular, spongy, or lattice-like structure; said mainly of bone tissue.  
 __cannulate__ _v_ To insert a cannula into (a bodily cavity, duct, or vessel), as for the drainage of fluid or the administration of medication.  
 __cannulation__ _n_ Introduction of a cannula into a tubelike organ or body cavity. _Syn_ intubation  
+__cardiac ablation__ _n_ [[WebMD]](https://www.webmd.com/heart-disease/atrial-fibrillation/what-is-cardiac-ablation)  
 __cardiac action potential__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cardiac_action_potential)  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
