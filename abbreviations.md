@@ -174,6 +174,7 @@ __PA__ Pulmonary artery
 __PACs__ Premature atrial contractions  
 __PAD__ Peripheral artery disease  
 __PAF__ Paroxysmal atrial fibrillation  
+__PAH__ Pulmonary artery hypertension [[WebMD]](https://www.webmd.com/lung/pah-help-16/pah-overview)  
 __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with stent)  
 __PE__ Pulmonary embolism  
 __PFA__ Pulsed field ablation  
