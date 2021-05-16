@@ -6,14 +6,15 @@
 
 Information gathered on the topic (sorted alphabetically):
 
-- [Abbreviations](abbreviations.md)
-- [Big shots](big-shots.md)
-- Companies and products:
+- Companies and products
   - [Navigation](companies-and-products--navigation.md)
   - [Others](companies-and-products--others.md)
-- [Glossary](glossary.md)
 - [Hashtags](hashtags.md)
 - [Other organizations](other-organizations.md)
+- [Pundits](pundits.md)
+- Terminology
+  - [Abbreviations](abbreviations.md)
+  - [Glossary](glossary.md)
 - [Videos](videos.md)
 
 Last but not least, [other interesting URLs](other-URLs.md).
