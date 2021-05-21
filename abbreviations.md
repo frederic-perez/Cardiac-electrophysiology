@@ -213,6 +213,7 @@ __Rx__ Prescription
 __s/p__ Status post: after _This pt s/p PVI elsewhere came to me for “redo” persistent AF ablation._  
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
 __SAN__ Sinoatrial node  
+__SAO__ Short axis orientation  
 __SAVR__ Surgical aortic valve replacement  
 __SAX__ Short-axis  
 __SBE__ Subacute bacterial endocarditis  
