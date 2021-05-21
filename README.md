@@ -6,9 +6,7 @@
 
 Information gathered on the topic (sorted alphabetically):
 
-- Companies and products
-  - [Navigation](companies-and-products--navigation.md)
-  - [Others](companies-and-products--others.md)
+- [Companies and products (navigation and others)](companies-and-products.md)
 - [Hashtags](hashtags.md)
 - [Other organizations](other-organizations.md)
 - [Pundits](pundits.md)
