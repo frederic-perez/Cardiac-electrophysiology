@@ -17,4 +17,4 @@
 - __GE Healthcare__ > [ViosWorks](https://www.gehealthcare.com/products/magnetic-resonance-imaging/upgrades/viosworks)
 - __inHEART__ [LinkedIn](https://www.linkedin.com/company/inheartmedical) · [website](https://www.inheart.fr)
 - __Radical Imaging__ [LinkedIn](https://www.linkedin.com/company/radical-imaging) · [website](http://radicalimaging.com) > OHIF Viewer
-- [__SIEMENS Healthineers__](https://www.siemens-healthineers.com/healthcare-professionals) > [syngo.via](https://www.siemens-healthineers.com/medical-imaging-it/advanced-visualization-solutions/syngovia)
+- __SIEMENS Healthineers__ [LinkedIn](https://www.linkedin.com/company/siemens-healthineers) · [website](https://www.siemens-healthineers.com/healthcare-professionals) > [syngo.via](https://www.siemens-healthineers.com/medical-imaging-it/advanced-visualization-solutions/syngovia)
