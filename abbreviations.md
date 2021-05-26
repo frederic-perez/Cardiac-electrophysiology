@@ -2,6 +2,7 @@ __2D GRE__ 2D gradient echo sequence
 __2D SSFP__ 2D steady-state free precession sequence  
 __3D GRE__ 3D gradient echo sequences  
 __AA__ Ascending aorta  
+__AAD__ Anti-arrhythmic drugs  
 __ABI__ Ankle-brachial index  
 __ABL__ Ablation  
 __ACC__ American College of Cardiology  
@@ -24,6 +25,7 @@ __AT__ Atrial tachycardia
 __ATP__ Antitachycardia pacing  
 __AV__ Atrioventricular · _AV node_  
 __AVB__ Atrioventricular block  
+__AVK__ Anti-vitamin K  
 __AVM__ Arteriovenous malformation  
 __AVN__ Atrioventricular node  
 __AVNRT__ Atrioventricular nodal reentrant tachycardia  
@@ -162,6 +164,7 @@ __MV__ Mitral valve
 __MVR__ Mitral valve replacement  
 __NCC__ Non-coronary cusp (one of the 3 aortic valve cusps)  
 __NICM__ Nonischemic cardiomyopathy  
+__NOAC__ New oral anticoagulant  
 __NPO__ _abbr_ _Latin_ Nil per os (nothing by mouth)  
 __NSR__ Normal sinus rhythm  
 __NSTEMI__ Non-ST-elevation myocardial infarction  
@@ -239,12 +242,14 @@ __TMVR__ Transcatheter mitral valve replacement
 __TOE__ Transesophageal echocardiography  
 __TR__ Tricuspid regurgitation  
 __TTE__ Transthoracic echocardiography  
+__TTR__ Time in therapeutic range (anticoagulant control)  
 __TV__ Tricuspid valve · _TV prolapse._  
 __TVP__ Transvenous pacing; transvenous pacemaker  
 __UNI__ Unipolar · _UNI endocardial voltage_  
 __VEGF__ Vascular endothelial growth factor  
 __VF__, __VFib__ Ventricular fibrillation  
 __VHD__ Valvular heart disease  
+__VKA__ Vitamin K antagonist  
 __VPB__ Ventricular premature beat  
 __VT__ Ventricular tachycardia  
 __WACA__ Wide area circumferential ablation  
