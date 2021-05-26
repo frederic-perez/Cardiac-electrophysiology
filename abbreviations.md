@@ -45,7 +45,7 @@ __CCM__ Cardiac Contractility Modulation
 __CCTA__ Cardiac/Coronary computed tomography angiography  
 __CE MRA__ Contrast-enhanced MR angiography  
 __CF__ Contact force  
-__CFAE__ Complex fractionated atrial electrogram  
+__CFAE__ Complex fractionated atrial electrogram · _A majority of CFAEs are not active participants in the AF process and as such are poor targets for ablation._  
 __CHB__ Complete heart block  
 __CHD__ __1__ Congenital heart defect, also known as a congenital heart anomaly and congenital heart disease __2__ Coronary heart disease [[WikiDoc]](https://www.wikidoc.org/index.php/Coronary_heart_disease_overview)  
 __CHF__ Congestive heart failure  
@@ -140,6 +140,7 @@ __LV__ Left ventricle
 __LVAD__ Left ventricular assist device  
 __LVEF__ Left ventricular ejection fraction  
 __LVESV__ Left ventricular end-systolic volume  
+__LVH__ Left ventricular hypertrophy  
 __LVOT__ Left ventricular outflow tract  
 __LVSD__ Left ventricular systolic dysfunction  
 __M__ Male  
@@ -227,6 +228,7 @@ __SCD__ Sudden cardiac death
 __SCRN__ Society For Cardiac Robotic Navigation  
 __SHD__ Structural heart disease  
 __SR__ Sinus rhythm  
+__SRV__ Systemic right ventricle  
 __SSS__ Sick sinus syndrome [[WikiDoc]](https://www.wikidoc.org/index.php/Sick_sinus_syndrome)  
 __STEMI__ ST-elevation myocardial infarction  
 __SUV__ Standardized uptake value  
