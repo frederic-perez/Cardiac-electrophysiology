@@ -116,6 +116,7 @@ __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hibernating myocardium__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Hibernating_myocardium) Regional dysfunction of myocardial tissue due to prolonged local hypoperfusion, which is completely reversible upon restoration of adequate blood flow; hibernation occurs in pts with CAD and impairment of left ventricular function at rest.  
 __Holter monitor__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Holter_monitor)  
+__hybrid AF ablation__ _n_ Hybrid AF ablation consists of subsets of the Cox-Maze IV lesion set applied epicardially via minimally invasive thorascopically based approach followed by catheter AF ablation, which treats gaps in ablation lesions and any additional atrial reentrant circuits.  
 __hyperkalemia__ _n_ An abnormally high concentration of potassium in the blood.  
 __hypertension__ _n_ __1__ Abnormally elevated arterial blood pressure. __2__ Arterial disease marked by chronic high blood pressure.  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
