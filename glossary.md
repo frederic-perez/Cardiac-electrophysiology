@@ -38,6 +38,7 @@ __bacteremia__ _n_ The presence of bacteria in the blood.
 __baffle__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Baffle_(medicine)) A surgically-created tunnel or wall within the heart or major blood vessels used to redirect the flow of blood.  
 __beta-blocker__ _n_ Any of a class of drugs (such as propranolol) that decrease the rate and force of heart contractions and lower high blood pressure by blocking the activity of beta-receptors.  
 __bigeminy__ _n_ The occurrence of premature atrial or ventricular heartbeats in pairs.  
+__bipolar RF clamp__ _n_ _The bipolar radiofrequency clamp is arguably the surgeon’s best tool in developing long linear lesions on the heart without the need for cut and sew incisions._  
 __bipolar__ _adj_ Relating to or having two poles or charges.  
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
 __blood pool__ _n_ _Left ventricular blood pool volume._ _Aortic blood pool._  
