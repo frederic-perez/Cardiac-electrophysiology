@@ -114,6 +114,7 @@ __focal atrial tachycardia__ _n_
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
 __granuloma__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Granuloma) _Noncaseating granulomas._  
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
+__hematopoiesis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Haematopoiesis)  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hibernating myocardium__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Hibernating_myocardium) Regional dysfunction of myocardial tissue due to prolonged local hypoperfusion, which is completely reversible upon restoration of adequate blood flow; hibernation occurs in pts with CAD and impairment of left ventricular function at rest.  
 __Holter monitor__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Holter_monitor)  
