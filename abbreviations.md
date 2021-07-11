@@ -218,7 +218,7 @@ __s/p__ Status post: after · _This pt s/p PVI elsewhere came to me for “redo�
 __SA node__ Sinoatrial node [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node)  
 __SAN__ Sinoatrial node  
 __SAO__ Short axis orientation  
-__SAVR__ Surgical aortic valve replacement  
+__SAVR__ Surgical aortic valve replacement (compare with _TAVR_)  
 __SAX__ Short-axis  
 __SBE__ Subacute bacterial endocarditis  
 __SBRT__ Stereotactic body radiation therapy  
@@ -235,7 +235,7 @@ __SUV__ Standardized uptake value
 __SVC__ Superior vena cava  
 __SVT__ Supraventricular tachycardia  
 __TAVI__ Transcatheter aortic valve implantation  
-__TAVR__ Transcatheter aortic valve replacement [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
+__TAVR__ Transcatheter aortic valve replacement (compare with _SAVR_) [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
 __TdP__ Torsades de pointes · _TdP tachycardia_  
 __TEE__ Transesophageal echocardiogram · Transesophageal echocardiography  
 __TIA__ Transient ischemic attack  
