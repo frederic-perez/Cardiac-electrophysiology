@@ -19,6 +19,7 @@ __angina__ _n_ Angina is pain, “discomfort,” or pressure localized in the ch
 __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening of a narrowed blood vessel by means of balloon angioplasty.  
 __aortic isthmus__ _n_ A slight constriction of the aorta immediately distal to the left subclavian artery at the point of attachment of the ductus arteriosus.  
 __aortic regurgitation__ _n_ The backward flow of blood from the aorta into the left ventricle caused by incompetent closure of the aortic valve.  
+__aortic root__ _n_  
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__, __arhythmia__, __arythmia__, __arrythmia__ _n_ _(different spelling variants)_ Any abnormality in the rhythm of the heartbeat. _Syn_ dysrhythmia  
 __arrhythmogenic__ _n_ Capable of inducing cardiac arrhythmias.  
