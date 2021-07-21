@@ -1,6 +1,6 @@
 # Companies and products
 
-## Navigation
+## Navigation systems
 
 1. __Biosense Webster__ (Part of the __Johnson & Johnson__ Family of Companies) [website](https://www.jnjmedicaldevices.com/en-US/companies/biosensewebster) > __[CARTO® 3 System](https://www.biosensewebster.com/products/carto-3.aspx)__ - Advanced 3D Cardiac Mapping
 1. __Abbott__ > __[EnSite Precision™](https://www.cardiovascular.abbott/us/en/hcp/products/electrophysiology/ensite-precision-cardiac-mapping-system.html) cardiac mapping system__ (Notes: 1. _\[...] Abbott’s strategic acquisitions in 2017 of St. Jude Medical and Alere have amplified the breadth and complexity of its commercial business._ 2. _St. Jude Medical announced FDA clearance of EnSite Precision Cardiac Mapping System on December 15, 2016._)
