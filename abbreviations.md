@@ -18,6 +18,7 @@ __AIS__ Acute ischemic stroke
 __AMI__ Acute myocardial infarction  
 __Ao__ Aorta  
 __AP__ Action potential  
+__APD__ Action potential duration  
 __ARVC__ Arrhythmogenic right ventricular cardiomyopathy  
 __ASCVD__ Atherosclerotic cardiovascular disease  
 __ASD__ Atrial septal defect (one of two kinds of holes in the heart, the other being a PFO)  
@@ -49,6 +50,7 @@ __CFAE__ Complex fractionated atrial electrogram · _A majority of CFAEs are not
 __CHB__ Complete heart block  
 __CHD__ __1__ Congenital heart defect, also known as a congenital heart anomaly and congenital heart disease __2__ Coronary heart disease [[WikiDoc]](https://www.wikidoc.org/index.php/Coronary_heart_disease_overview)  
 __CHF__ Congestive heart failure  
+__CIED__ Cardiac implantable electronic device · _CIED leads._  
 __CKD__ Chronic kidney disease  
 __CL__ Cycle length · _CL alternans_  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
@@ -125,7 +127,9 @@ __LA__ Left atrium
 __LAA__ Left atrial appendage  
 __LAAA__ Left atrial accessory appendage  
 __LAAC__ Left atrial appendage closure  
+__LAAEF__ Left atrial appendage ejection fraction  
 __LAD__ __1__ Left anterior descending coronary artery __2__ Left atrial diverticulum  
+__LAEF__ Left atrial ejection fraction  
 __LAT__ Local activation time  
 __LAVA__ Local abnormal ventricular activity  
 __LAX__ Long-axis  
@@ -135,6 +139,7 @@ __LGE-CMR__ Late gadolinium enhanced CMR
 __LIE-CT__ Late iodine enhancement CT  
 __LIMA__ Left internal mammary artery   
 __LIPV__ Left inferior pulmonary vein  
+__LQTS__ Long QT syndrome (see also SQTS)  
 __LSPV__ Left superior pulmonary vein  
 __LV__ Left ventricle  
 __LVAD__ Left ventricular assist device  
@@ -193,6 +198,7 @@ __pt__ Patient
 __PVAI__ Pulmonary vein antrum isolation · Pulmonary vein isolation ablation  
 __PVC__, __PVCs__ Premature ventricular contraction(s) [[Wikipedia]](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)  
 __PVI__ Pulmonary vein isolation · Polymorphic ventricular tachycardia  
+__PWD__ P-wave dispersion  
 __PWI__ Posterior wall isolation  
 __QAV__ Quadricuspid aortic valve  
 __QCT__ Quantitative computed tomography [[Wikipedia]](https://en.wikipedia.org/wiki/Quantitative_computed_tomography)  
@@ -223,10 +229,13 @@ __SAX__ Short-axis
 __SBE__ Subacute bacterial endocarditis  
 __SBRT__ Stereotactic body radiation therapy  
 __SCA__ Sudden cardiac arrest  
+__SCAD__ Spontaneous coronary artery dissection [[Wikipedia]](https://en.wikipedia.org/wiki/Spontaneous_coronary_artery_dissection)  
 __SCAF__ Sub-clinical atrial fibrillation  
 __SCD__ Sudden cardiac death  
+__SCE__ Single cell electroporation  
 __SCRN__ Society For Cardiac Robotic Navigation  
 __SHD__ Structural heart disease  
+__SQTS__ Short QT syndrome (see also LQTS)  
 __SR__ Sinus rhythm  
 __SRV__ Systemic right ventricle  
 __SSS__ Sick sinus syndrome [[WikiDoc]](https://www.wikidoc.org/index.php/Sick_sinus_syndrome)  
