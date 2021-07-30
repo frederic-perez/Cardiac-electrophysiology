@@ -70,6 +70,7 @@ __DICOM-RT__ DICOM radio therapy
 __DMD__ Duchenne muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy)  
 __DOAC__, __DOACs__ Direct oral anticoagulant(s)  
 __DVT__ Deep vein thrombosis  
+__Dx__ (or __DX__) __1__ Diagnosis. _Dx: viral pneumonia._ _DX codes._ __2__ Diagnostic. _Dx tests._  
 __EACTS__ European Association for Cardio-Thoracic Surgery  
 __EACVI__ European Association of Cardiovascular Imaging  
 __EAM__ Electro-anatomical map, electroanatomic mapping  
