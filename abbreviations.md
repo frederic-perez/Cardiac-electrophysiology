@@ -77,6 +77,7 @@ __EAM__ Electro-anatomical map, electroanatomic mapping
 __EAN__ Electroanatomic  
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __ECGI__ Electrocardiographic Imaging  
+__ECMO__ Extracorporeal membrane oxygenation · _ECMO rescue._  
 __ECV__ Extracellular volume · _ECV fraction; ECV map_  
 __ED__ End-diastole  
 __EDEL__ Endoscopically detected asymptomatic esophageal lesions  
@@ -210,6 +211,7 @@ __RAA__ Right atrial appendage
 __RBS__ Retained Blood Syndrome  
 __RCA__ Right coronary artery  
 __RCC__ Right coronary cusp (one of the 3 aortic valve cusps)  
+__RD__ Reentrant driver  
 __RF__ Radiofrequency  
 __RFA__ Radiofrequency ablation  
 __RFCA__ Radiofrequency catheter ablation  
@@ -236,6 +238,7 @@ __SCD__ Sudden cardiac death
 __SCE__ Single cell electroporation  
 __SCRN__ Society For Cardiac Robotic Navigation  
 __SHD__ Structural heart disease  
+__SHF__ Systolic heart failure  
 __SQTS__ Short QT syndrome (see also LQTS)  
 __SR__ Sinus rhythm  
 __SRV__ Systemic right ventricle  
