@@ -135,6 +135,7 @@ __LAEF__ Left atrial ejection fraction
 __LAT__ Local activation time  
 __LAVA__ Local abnormal ventricular activity  
 __LAX__ Long-axis  
+__LBBB__ Left bundle branch block [[Wikipedia]](https://en.wikipedia.org/wiki/Left_bundle_branch_block)  
 __LCC__ Left coronary cusp (one of the 3 aortic valve cusps)  
 __LGE__ Late gadolinium enhancement (compare with EGE)  
 __LGE-CMR__ Late gadolinium enhanced CMR  
