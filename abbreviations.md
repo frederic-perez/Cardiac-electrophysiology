@@ -130,6 +130,7 @@ __LAA__ Left atrial appendage
 __LAAA__ Left atrial accessory appendage  
 __LAAC__ Left atrial appendage closure  
 __LAAEF__ Left atrial appendage ejection fraction  
+__LAAO__ Left atrial appendage occlusion  
 __LAD__ __1__ Left anterior descending coronary artery __2__ Left atrial diverticulum  
 __LAEF__ Left atrial ejection fraction  
 __LAT__ Local activation time  
