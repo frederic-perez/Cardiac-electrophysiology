@@ -18,6 +18,8 @@
   - [NICMR](https://clinicaltrials.gov/ct2/show/NCT02657967) Development of an Evidenced-Based Tool for Prediction of Sudden Death in Patients With Non-Ischemic Cardiomyopathy
   - [PROTECT-ICD](https://clinicaltrials.gov/ct2/show/NCT03588286) - Programmed Ventricular Stimulation to Risk Stratify for Early Cardioverter-Defibrillator (ICD) Implantation to Prevent Tachyarrhythmias Following Acute Myocardial Infarction
   - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177) - Personalized Atrial Fibrillation Ablation With QDOT
+- Other clinical trials
+  - [STOPSTORM](https://cordis.europa.eu/project/id/945119) - A Prospective European Validation Cohort for Stereotactic Therapy of Re-entrant Tachycardia
 - Data
   - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
   - [2018 Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/data/)

@@ -245,6 +245,7 @@ __SQTS__ Short QT syndrome (see also LQTS)
 __SR__ Sinus rhythm  
 __SRV__ Systemic right ventricle  
 __SSS__ Sick sinus syndrome [[WikiDoc]](https://www.wikidoc.org/index.php/Sick_sinus_syndrome)  
+__STAR__ Stereotactic arrhythmia radioablation  
 __STEMI__ ST-elevation myocardial infarction  
 __SUV__ Standardized uptake value  
 __SVC__ Superior vena cava  
