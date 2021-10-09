@@ -131,6 +131,7 @@ __ILAM__ (isochronal late activation mapping) is a functional method of EAM to p
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruction of local blood supply, as by a thrombus or embolus. _Syn_ infarction  
 __innervate__ _v_ __1__ To supply (an organ or a body part) with nerves. __2__ To stimulate (a nerve, muscle, or body part) to action.  
+__inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: _an inotropic drug._  
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
 __intramural__ _adj_ Within the walls of a cavity or hollow organ. _Having a subepicardial or deep intramural substrate._  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
@@ -159,6 +160,7 @@ __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular en
 __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease, usually recurring periodically.  
 __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal versus permanent AF._  
 __patency__ _n_ The state or quality of being open, expanded, or unblocked.  
+__patent foramen ovale__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Atrial_septal_defect#Patent_foramen_ovale) · [[Hopkins Medicine]](https://www.hopkinsmedicine.org/health/conditions-and-diseases/patent-foramen-ovale)  
 __pathogenesis__ _n_ The origin, development, and resultant effects of a disease.  
 __pathophysiology__ _n_ The study of the effects of disease on physiological processes.  
 __perfusion__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Perfusion) “Poor perfusion (malperfusion), that is, ischemia, causes health problems, as seen in cardiovascular disease, including coronary artery disease, cerebrovascular disease, peripheral artery disease, and many other conditions.”  
