@@ -6,6 +6,7 @@
 
 Information gathered on the topic (sorted alphabetically):
 
+- [Clinical trials](clinical-trials.md)
 - [Companies and products (navigation systems and others)](companies-and-products.md)
 - [Hashtags](hashtags.md)
 - [Other organizations](other-organizations.md)
