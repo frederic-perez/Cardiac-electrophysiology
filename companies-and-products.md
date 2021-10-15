@@ -3,7 +3,7 @@
 ## Navigation systems
 
 1. __Biosense Webster__ (Part of the __Johnson & Johnson__ Family of Companies) [website](https://www.jnjmedicaldevices.com/en-US/companies/biosensewebster) » __[CARTO® 3 System](https://www.biosensewebster.com/products/carto-3.aspx)__ - Advanced 3D Cardiac Mapping
-1. __Abbott__ » __[EnSite Precision™](https://www.cardiovascular.abbott/us/en/hcp/products/electrophysiology/ensite-precision-cardiac-mapping-system.html) cardiac mapping system__ (Notes: 1. _\[...] Abbott’s strategic acquisitions in 2017 of St. Jude Medical and Alere have amplified the breadth and complexity of its commercial business._ 2. _St. Jude Medical announced FDA clearance of EnSite Precision Cardiac Mapping System on December 15, 2016._)
+1. __Abbott__ » __[EnSite™ X](https://www.cardiovascular.abbott/us/en/hcp/products/electrophysiology/mapping-systems/ensite-x/about.html) EP System__, __[EnSite Precision™](https://www.cardiovascular.abbott/us/en/hcp/products/electrophysiology/ensite-precision-cardiac-mapping-system.html) cardiac mapping system__ (Notes: 1. _\[...] Abbott’s strategic acquisitions in 2017 of St. Jude Medical and Alere have amplified the breadth and complexity of its commercial business._ 2. _St. Jude Medical announced FDA clearance of EnSite Precision Cardiac Mapping System on December 15, 2016._)
 1. __Boston Scientific__ » __[RHYTHMIA HDx™](https://www.bostonscientific.com/en-US/medical-specialties/electrophysiology/cardiac-mapping-system.html)__ Cardiac Mapping System
 1. __Stereotaxis__ [LinkedIn](https://www.linkedin.com/company/stereotaxis) · [website](http://www.stereotaxis.com)
 1. __Philips__ » __[KODEX-EPD](https://www.usa.philips.com/healthcare/product/HC733015/kodex-epd-cardiac-imaging-and-mapping-system/)__  
