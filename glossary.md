@@ -130,6 +130,7 @@ __idiopathic__ _adj_ Denoting a disease of unknown cause.
 __ILAM__ (isochronal late activation mapping) is a functional method of EAM to prioritize uncoupled and delayed local potentials in the context of the entire window of sinus rhythm during intrinsic or paced rhythm.  
 __implantable cardioverter-defibrillator__ _n_ (ICD) [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __infarct__ _n_ An area of tissue that undergoes necrosis as a result of obstruction of local blood supply, as by a thrombus or embolus. _Syn_ infarction  
+__infective endocarditis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Infective_endocarditis) An infection of the inner surface of the heart, usually the valves.  
 __innervate__ _v_ __1__ To supply (an organ or a body part) with nerves. __2__ To stimulate (a nerve, muscle, or body part) to action.  
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: _an inotropic drug._  
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
@@ -213,6 +214,7 @@ __tachycardia-induced cardiomyopathy__ [[Wikipedia]](https://en.wikipedia.org/wi
 __Takotsubo cardiomyopathy__ _n_ (Takotsubo syndrome, stress cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Takotsubo_cardiomyopathy)  
 __thoracoscopic surgical ablation__ _n_ (vs catheter ablation) A a minimally invasive procedure used to treat AF. It consists of three steps: _1_ Radio-frequency (energy) waves destroy the heart cells which are disrupting the electrical pathway. This helps restore the heart’s normal signalling abilities. _2_ Some nerves around the heart are also destroyed as part of the treatment. _3_ A piece of muscle called the left atrial appendage is removed. From the article _Catheter ablation vs. thoracoscopic surgical ablation in long-standing persistent atrial fibrillation: CASA-AF randomized controlled trial_: “Single procedure thoracoscopic SA is not superior to CA in treating LSPAF. Catheter ablation provided greater improvements in symptoms and accrued significantly more QALYs during follow-up than SA..”  
 __thromboembolism__ _n_ The blocking of a blood vessel by a blood clot dislodged from its site of origin.  
+__thrombolysis__ _n_ Dissolution or destruction of a thrombus.  
 __Torsades de pointes__ _n_ A specific type of abnormal heart rhythm that can lead to sudden cardiac death.  
 __transcatheter__ _adj_ Performed through the lumen of a catheter.  
 __transient__ _adj_ For a short time only; temporary or transitory. _Transient lesions._  
