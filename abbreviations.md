@@ -247,7 +247,9 @@ __SR__ Sinus rhythm
 __SRV__ Systemic right ventricle  
 __SSS__ Sick sinus syndrome [[WikiDoc]](https://www.wikidoc.org/index.php/Sick_sinus_syndrome)  
 __STAR__ Stereotactic arrhythmia radioablation  
+__STE__ Speckle tracking echocardiography  
 __STEMI__ ST-elevation myocardial infarction  
+__STI__ Speckle tracking imaging  
 __SUV__ Standardized uptake value  
 __SVC__ Superior vena cava  
 __SVT__ Supraventricular tachycardia  
