@@ -13,6 +13,7 @@
   - [IMMACULATE](https://clinicaltrials.gov/ct2/show/NCT02468349) - IMproving reModeling in Acute myoCardial Infarction Using Live and Asynchronous TElemedicine (🇸🇬)
   - [Left Ventricular Structural Predictors of Sudden Cardiac Death](https://clinicaltrials.gov/ct2/show/NCT01076660) (🇺🇸)
   - [NICMR](https://clinicaltrials.gov/ct2/show/NCT02657967) - Development of an Evidenced-Based Tool for Prediction of Sudden Death in Patients With Non-Ischemic Cardiomyopathy (🇺🇸🇨🇦)
+  - [PREVENT-VT](https://clinicaltrials.gov/ct2/show/NCT04675073) - Preventive VT Substrate Ablation in Ischemic Heart Disease (🇪🇸)
   - [PROTECT-ICD](https://clinicaltrials.gov/ct2/show/NCT03588286) - Programmed Ventricular Stimulation to Risk Stratify for Early Cardioverter-Defibrillator (ICD) Implantation to Prevent Tachyarrhythmias Following Acute Myocardial Infarction (🇺🇸🇦🇺🇨🇿🇩🇪🇭🇺🇱🇻🇲🇾🇳🇿🇵🇱🇷🇺🇸🇬🇸🇰🇨🇭)
   - [QDOT-LAWT](https://clinicaltrials.gov/ct2/show/NCT04298177) - Personalized Atrial Fibrillation Ablation With QDOT (🇪🇸)
   - [RAVENTA](https://clinicaltrials.gov/ct2/show/NCT03867747) ☢️ - Radiosurgery for the Treatment of Refractory Ventricular Extrasystoles and Tachycardias (🇩🇪) » [Article](https://link.springer.com/article/10.1007/s00392-020-01650-9)
