@@ -167,6 +167,7 @@ __pathophysiology__ _n_ The study of the effects of disease on physiological pro
 __perfusion__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Perfusion) “Poor perfusion (malperfusion), that is, ischemia, causes health problems, as seen in cardiovascular disease, including coronary artery disease, cerebrovascular disease, peripheral artery disease, and many other conditions.”  
 __pericardial effusion__ _n_ The accumulation of an abnormally large amount of pericardial fluid in the pericardium.  
 __perioperative__ _adj_ Pertaining or relating to the period of time surrounding a surgical procedure, including the preoperative, intraoperative, and postoperative periods.  
+__photoplethysmogram__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Photoplethysmogram)  
 __phrenic nerve__ _n_ A major branch of the cervical plexus, extending through the thorax to provide innervation of the diaphragm. Nerve impulses from the inspiratory center in the brain travel down it, causing contraction of the diaphragm, so that inhalation can occur.  
 __placebo procedure__ _n_  
 __polymorphic ventricular tachycardia__ _n_ A form of ventricular tachycardia in which there are multiple ventricular foci with the resultant QRS complexes varying in amplitude, axis and duration. The commonest cause of PVT is myocardial ischaemia.  

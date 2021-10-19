@@ -194,7 +194,8 @@ __PFA__ Pulsed field ablation
 __PFO__ Patent foramen ovale (one of two kinds of holes in the heart, the other being an ASD)  
 __PM__ Pacemaker  
 __POAF__ Postoperative atrial fibrillation  
-__POTS__ Postural orthostatic tachycardia syndrome
+__POTS__ Postural orthostatic tachycardia syndrome  
+__PPG__	Photoplethysmogram, photoplethysmography  
 __PPM__ Permanent pacemaker  
 __PROSPERO__ International prospective register of systematic reviews [[Wikipedia]](https://en.wikipedia.org/wiki/PROSPERO)  
 __PSIR__ Phase-sensitive inversion recovery (see also MagIR)  
