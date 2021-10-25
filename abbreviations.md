@@ -13,6 +13,7 @@ __AED__ Automated external defibrillator
 __AF__, __AFib__ Atrial fibrillation  
 __AFL__ Atrial flutter [[Wikipedia]](https://en.wikipedia.org/wiki/Atrial_flutter)  
 __AHA__ American Heart Association  
+__AHD__ Atherosclerotic heart disease  
 __AICD__ Automatic implantable cardioverter defibrillator · It was trademarked by the Boston Scientific corporation, so the more generic ICD is preferred terminology.  
 __AIS__ Acute ischemic stroke  
 __AMI__ Acute myocardial infarction  
@@ -258,6 +259,7 @@ __TAVI__ Transcatheter aortic valve implantation
 __TAVR__ Transcatheter aortic valve replacement (compare with _SAVR_) [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
 __TdP__ Torsades de pointes · _TdP tachycardia_  
 __TEE__ Transesophageal echocardiogram · Transesophageal echocardiography  
+__TEER__ Transcatheter edge-to-edge repair  
 __TIA__ Transient ischemic attack  
 __TIC__ Tachycardia-induced cardiomyopathy  
 __TMVR__ Transcatheter mitral valve replacement  
