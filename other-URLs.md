@@ -4,6 +4,7 @@
 - Cardiac anatomy
   - Innerbody Research’s [“The Heart”](https://www.innerbody.com/image/card01.html)
   - University of Minnesota’s [Atlas of Human Cardiac Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml)
+  - University of Dundee’s [Coronary arteries of the heart](https://anatomytool.org/content/dundee-3d-model-coronary-arteries-heart) (3D model)
 - Data
   - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
   - [2018 Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/data/)
