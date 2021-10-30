@@ -1,4 +1,4 @@
-- AFib
+- Atrial fibrilation (AFib)
   - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
   - [Get smart about AFib](https://www.getsmartaboutafib.com/), by Biosense Webster, Inc.
 - Cardiac anatomy
@@ -9,14 +9,15 @@
   - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
   - [2018 Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/data/)
 - [Diagnostic and Interventional Cardiology (DAIC)](https://www.dicardiology.com/)
-- Electrophysiology
+- Electrocardiogram (ECG)
+  - [ECG Guru](http://www.ecgguru.com)
+  - [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
+  - [ECGSIM: The interactive ECG tool for research and education](https://www.ecgsim.org/index.php)
+- Electrophysiology (EP)
   - [Cardiac Electrophysiology - Online Learning | Johnson & Johnson Institute](https://jnjinstitute.com/en-us/online-profed-resources/resources/cardiac-electrophysiology)
   - [GitHub repos on electrophysiology](https://github.com/topics/electrophysiology)
   - [The Student Physiologist](https://thephysiologist.org/) (Online Cardiology Resource)
   - [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
-- ECG
-  - [ECG Guru](http://www.ecgguru.com)
-  - [EPS 101 (Interactive Tutorial) - SVT Simulator](http://svtsim.com/eps.html)
 - MRI
   - [Cardiac MRI tutorial](http://www.vhlab.umn.edu/atlas/cardiac-mri-tutorial/index.shtml)
   - [Magnetic Resonance - Technology Information Portal](https://www.mr-tip.com/)
