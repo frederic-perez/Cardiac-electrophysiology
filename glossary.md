@@ -84,6 +84,7 @@ __cutdown__ _n_ The surgical insertion of a catheter into a vein, as for the adm
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.  
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
+__denervation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Denervation) _Pulmonary artery denervation._  
 __depolarization__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Depolarization#Heart)  
 __diverticulum__ _n_ A pouch or sac branching out from a hollow organ or structure, such as the intestine. _Left atrial diverticulum._  
 __drug-eluting stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Drug-eluting_stent)  
