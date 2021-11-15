@@ -8,6 +8,7 @@ __ABL__ Ablation
 __ACC__ American College of Cardiology  
 __ACHD__ Adult congenital heart disease  
 __ACM__ Arrhythmogenic cardiomyopathy [[Wikipedia]](https://en.wikipedia.org/wiki/Arrhythmogenic_cardiomyopathy)  
+__ADHF__ Acute decompensated heart failure [[Wikipedia]](https://en.wikipedia.org/wiki/Acute_decompensated_heart_failure)  
 __AE__ Adverse event  
 __AED__ Automated external defibrillator  
 __AF__, __AFib__ Atrial fibrillation  
