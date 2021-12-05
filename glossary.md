@@ -151,7 +151,10 @@ __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leafl
 __mitral regurgitation__ _n_ The backward flow of blood from the left ventricle into the left atrium of the heart, caused by incompetent closure of the mitral valve.  
 __multifocal atrial tachycardia__ _n_ (MAT) [[Wikipedia]](https://en.wikipedia.org/wiki/Multifocal_atrial_tachycardia) · [[MedlinePlus]](https://medlineplus.gov/ency/article/000186.htm)
 __myocardial infarction__ _n_ Destruction of an area of heart muscle as the result of occlusion of a coronary artery.  
+__myocarditis__ _n_ Inflammation of the myocardium.  
+__myocardium__ _n_ The muscular tissue of the heart.  
 __myocyte__ _n_ A muscle cell.  
+__myopericarditis__ _n_ A combination of myocarditis and pericarditis.  
 __myositis__ _n_ Inflammation of muscle tissue.  
 __no reflow phenomenon__ _n_ (no-reflow phenomenon) Deficient reperfusion of previously ischemic tissue even though the lumen of the artery that irrigates the territory has been opened.  
 __noncompaction cardiomyopathy__ _n_ (non-compaction cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Noncompaction_cardiomyopathy)  
@@ -167,6 +170,8 @@ __pathogenesis__ _n_ The origin, development, and resultant effects of a disease
 __pathophysiology__ _n_ The study of the effects of disease on physiological processes.  
 __perfusion__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Perfusion) “Poor perfusion (malperfusion), that is, ischemia, causes health problems, as seen in cardiovascular disease, including coronary artery disease, cerebrovascular disease, peripheral artery disease, and many other conditions.”  
 __pericardial effusion__ _n_ The accumulation of an abnormally large amount of pericardial fluid in the pericardium.  
+__pericarditis__ _n_ Inflammation of the pericardium.  
+__pericardium__ _n_ The closed, saclike structure surrounding the heart in vertebrate animals and in man.  
 __perioperative__ _adj_ Pertaining or relating to the period of time surrounding a surgical procedure, including the preoperative, intraoperative, and postoperative periods.  
 __photoplethysmogram__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Photoplethysmogram)  
 __phrenic nerve__ _n_ A major branch of the cervical plexus, extending through the thorax to provide innervation of the diaphragm. Nerve impulses from the inspiratory center in the brain travel down it, causing contraction of the diaphragm, so that inhalation can occur.  
@@ -193,11 +198,13 @@ __sarcoidosis__ _n_ A disease of unknown origin that is characterized by the for
 __secondary prevention of coronary artery disease__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Secondary_Prevention_of_Coronary_Artery_Disease)  
 __Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
 __Senning procedure__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Senning_procedure) An atrial switch heart operation performed to treat transposition of the great arteries.  
+__sensitivity__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sensitivity_and_specificity) The ability of a test to correctly identify patients with a disease.  
 __septum__ _n_ A thin wall or membrane that separates two parts, structures, or individual organisms. The chambers of the heart are separated by septa.  
 __sham procedure__ _n_  
 __sinoatrial node__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinoatrial_node) A small mass of specialized cardiac muscle fibers located in the posterior wall of the right atrium of the heart that acts as a pacemaker by generating at regular intervals the electric impulses of the heartbeat. _Syn_ SA node, sinoauricular node, sinus node, cardiac pacemaker, pacemaker  
 __sinus rhythm__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinus_rhythm)  
 __sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
+__specificity__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sensitivity_and_specificity) The ability of a test to correctly identify people without the disease.  
 __ST elevation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/ST_elevation)  
 __statin__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Statin) Any of a class of drugs, including atorvastatin and simvastatin, that lower the levels of low-density lipoproteins in the blood by inhibiting the activity of an enzyme involved in the production of cholesterol in the liver.  
 __steam pop__ _n_ Steam pop refers to the audible sound produced by intramyocardial explosion when tissue temperature reaches 100°C, leading to the production of gas. It is a potentially severe complication of radiofrequency ablation because it has been associated with cardiac perforation and ventricular septal defect.  
