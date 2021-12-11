@@ -158,6 +158,7 @@ __M__ Male
 __MACE__ Major adverse cardiovascular events  
 __MAE__ Major adverse event  
 __MagIR__ (Conventional) Magnitude inversion recovery (see also PSIR)  
+__MAP__ Mean arterial pressure [[Wikipedia]](https://en.wikipedia.org/wiki/Mean_arterial_pressure)  
 __MAT__ Multifocal atrial tachycardia  
 __MD__ Muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Muscular_dystrophy)  
 __MDE CT__ Myocardial delayed enhancement CT  
