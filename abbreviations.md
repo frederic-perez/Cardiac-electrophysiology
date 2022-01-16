@@ -62,6 +62,7 @@ __CRM__ Cardiac rhythm management
 __CRT__ Cardiac resynchronization therapy  
 __CS__ Coronary sinus  
 __CTI__ Cavo-tricuspid isthmus · _CTI line_ · _CTI block_  
+__CTO__ Chronic total occlusion: a complete or nearly complete blockage of one or more coronary arteries. The blockage, typically present for at least three months, is caused by a buildup of plaque within a coronary artery. When this happens, blood flow to the heart is compromised.  
 __CTP__ Computed tomography perfusion  
 __CV__ Cardiovascular · _CV stents_  
 __CVD__ Cardiovascular disease  
