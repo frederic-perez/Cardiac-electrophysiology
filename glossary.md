@@ -147,6 +147,7 @@ __late potential__ _n_ Deflections found on signal-averaged electrocardiograms t
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __macro-reentrant atrial tachycardia__ _n_  
+__metaplasia__ _n_ The transformation of one kind of tissue into a different kind.  
 __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leaflets.  
 __mitral regurgitation__ _n_ The backward flow of blood from the left ventricle into the left atrium of the heart, caused by incompetent closure of the mitral valve.  
 __multifocal atrial tachycardia__ _n_ (MAT) [[Wikipedia]](https://en.wikipedia.org/wiki/Multifocal_atrial_tachycardia) · [[MedlinePlus]](https://medlineplus.gov/ency/article/000186.htm)

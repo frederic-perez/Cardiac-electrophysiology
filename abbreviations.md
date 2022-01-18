@@ -218,6 +218,7 @@ __RAA__ Right atrial appendage
 __RBS__ Retained Blood Syndrome  
 __RCA__ Right coronary artery  
 __RCC__ Right coronary cusp (one of the 3 aortic valve cusps)  
+__RCT__ Randomized controlled trial  
 __RD__ Reentrant driver  
 __RF__ Radiofrequency  
 __RFA__ Radiofrequency ablation  
