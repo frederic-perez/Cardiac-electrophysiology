@@ -9,11 +9,11 @@ __-poiesis__ _suff_ Production; creation; formation: _hematopoiesis_.
 __-rrhaphy__ _suff_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
 __-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
 __12 derivations__ _n_ A derivation is the process of getting something from something else. The process of getting or collecting things or information. _A standard ECG uses 12 derivations to examine the heart’s electrical potentials from 12 different viewpoints._  
-__ablate__ _v_ To remove or destroy the function of (a body organ or tissue).  
+__ablate__ _v_ [:scroll: Latin ablātus, past participle of auferre _to carry away_ =ab- _ab-_ + lātus, past participle of ferre _to bear_] To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
-__adhesion__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Adhesion_(medicine)) _Firm apical adherences did not allow to reach the isthmus in the second epicardial mapping._ _Pericardial adhesions._  
-__akinesis__ _n_ Motionlessness attributable to a temporary paralysis.  
-__alternans__ _n_ Alternation in the pattern of activity (such as that produced by the heartbeat).  
+__adhesion__ _n_ [:scroll: From adhere, from French adhérer, from Latin adhaerēre, _to stick to_ : ad-, _ad-_ + haerēre, _to stick_] [[Wikipedia]](https://en.wikipedia.org/wiki/Adhesion_(medicine)) _Firm apical adherences did not allow to reach the isthmus in the second epicardial mapping._ _Pericardial adhesions._  
+__akinesis__ _n_ (akinesia) [:scroll: Greek akinēsiā : a-, _without_; see a-1 + kīnēsis, _motion_] Motionlessness attributable to a temporary paralysis.  
+__alternans__ _n_ :mega: /awl-ter'nanz/ Alternation in the pattern of activity (such as that produced by the heartbeat).  
 __amyloid__ _n_ (pathology) A waxy translucent complex protein resembling starch that results from degeneration of tissue.  
 __angina__ _n_ Angina is pain, “discomfort,” or pressure localized in the chest that is caused by an insufficient supply of blood (ischemia) to the heart muscle. It is also sometimes characterized by a feeling of choking, suffocation, or crushing heaviness. This condition is also called angina pectoris.  
 __angioplasty__ _n_ Surgical repair of a blood vessel, especially the widening of a narrowed blood vessel by means of balloon angioplasty.  
