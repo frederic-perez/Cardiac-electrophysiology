@@ -22,6 +22,7 @@ __aortic regurgitation__ _n_ The backward flow of blood from the aorta into the 
 __aortic root__ _n_  
 __aortic sinus__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Aortic_sinus) The space between the superior aspect of each cusp of the aortic valve and the dilated portion of the wall of the ascending aorta, immediately above each cusp.  
 __arrhythmia__, __arhythmia__, __arythmia__, __arrythmia__ _n_ _(different spelling variants)_ Any abnormality in the rhythm of the heartbeat. _Syn_ dysrhythmia  
+__arrhythmogenic right ventricular dysplasia__ A disorder in which normal myocardium is replaced by fibrofatty tissue.  
 __arrhythmogenic__ _n_ Capable of inducing cardiac arrhythmias.  
 __arterial puncture__ _n_ Placement of a needle or catheter into an artery to sample blood gases or blood pressure, or positioning of a catheter in the aorta or the heart.  
 __arteriosclerosis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Arteriosclerosis) The thickening, hardening, and loss of elasticity of the walls of arteries.  
@@ -109,7 +110,8 @@ __Eustachian ridge__ _n_
 __Fabry disease__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Fabry_disease)  
 __fenestration__ _n_ A surgical method of making a hole in or perforating something.  
 __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/fibrillation) A small, local, involuntary, muscular contraction, due to spontaneous activation of single muscle cells or muscle fibers.  
-__fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which connective tissue replaces normal parenchymal tissue to the extent that it goes unchecked, leading to considerable tissue remodelling and the formation of permanent scar tissue. _Cardiac fibrosis can be observed in a DE-CMR scan._  
+__fibroblast__ _n_ /ˈfaɪ brəˌblæst/ A cell that contributes to the formation of connective tissue fibers.  
+__fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which connective tissue replaces normal parenchymal tissue to the extent that it goes unchecked, leading to considerable tissue remodelling and the formation of permanent scar tissue. _Cardiac fibrosis can be observed in a DE-CMR scan._ _However, in dilated cardiomyopathy, the synonymous use of the terms LGE and fibrosis is not recommended._ _LGE and fibrosis are not synonymous._  
 __first-in-class__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __fluoroshot__  
 __focal atrial tachycardia__ _n_  
@@ -124,6 +126,7 @@ __hybrid AF ablation__ _n_ Hybrid AF ablation consists of subsets of the Cox-Maz
 __hyperkalemia__ _n_ An abnormally high concentration of potassium in the blood.  
 __hypertension__ _n_ __1__ Abnormally elevated arterial blood pressure. __2__ Arterial disease marked by chronic high blood pressure.  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
+__hypertrophic cardiomyopathy__ _n_ A disorder in which the heart muscle is so strong that it does not relax enough to fill with the heart with blood and so has reduced pumping ability.  
 __hypokinesis__ _n_ Diminished or slow movement. _Syn_ hypocinesis, hypocinesia, hypomotility  
 __hypoperfusion__ _n_ Inadequate blood flow to a single organ or through the entire circulatory system.  
 __hypotension__ _n_ Abnormally low arterial blood pressure.  
@@ -147,6 +150,7 @@ __late potential__ _n_ Deflections found on signal-averaged electrocardiograms t
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __macro-reentrant atrial tachycardia__ _n_  
+__mesenchyme__ _n_ /ˈmɛs ɛŋ kaɪm, ˈmɛz-/ Cells of mesodermal origin that are capable of developing into connective tissues, blood, and lymphatic and blood vessels. _Mesenchymal origin._  
 __metaplasia__ _n_ The transformation of one kind of tissue into a different kind.  
 __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leaflets.  
 __mitral regurgitation__ _n_ The backward flow of blood from the left ventricle into the left atrium of the heart, caused by incompetent closure of the mitral valve.  
@@ -192,6 +196,8 @@ __quantitative computed tomography__ _n_ (QCT) [[Wikipedia]](https://en.wikipedi
 __R-R interval__ The time elapsing between two consecutive R waves in the electrocardiogram.  
 __Rassi score__  
 __refractory__ _adj_ Resistant to treatment.  
+__reperfusion__ _n_ /rē′pər-fyo͞o′zhən/ The restoration of blood flow to an organ or tissue that has had its blood supply cut off, as after a heart attack.  
+__resorption__ _n_ The dissolution or assimilation of a substance, as bone tissue, by biochemical activity.  _A process of myocyte resorption._  
 __retrograde approach__ _n_ Two ways to reach the LV: in the _transseptal approach_, the doctor inserts the catheter into the LV through veins, starting in the upper leg; in the _retrograde approach_, the doctor inserts the catheter through a small artery in the upper leg. The catheter travels through the aorta to reach the LV.  
 __retrograde conduction__ _n_ (VA conduction, ventriculoatrial conduction) The conduction backward phenomena in the heart, where the conduction comes from the ventricles or from the AV node into and through the atria.  
 __rotoblation__ _n_ (rotablation, rotoablation) Drilling through the core of a plaque obstructing a blood vessel to improve blood flow to the organ supplied by the vessel; rotational atherectomy.  
@@ -247,6 +253,7 @@ __ventricular remodeling__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Ventr
 __ventricular tachycardia isthmus(es)__ _n_ _The activation map of the VT is shown with the full circuit from the entrance to the exit sites, passing through the VT isthmus, which is delimited by two lateral boundaries of conduction block._  
 __ventricular tachycardia__ _n_ [[Wikipedia]](https://en.m.wikipedia.org/wiki/Ventricular_tachycardia)  
 __ventriculogram__ _n_ An image of the cardiac ventricles, used to estimate ejection fraction and assess wall motion.  
+__viable myocardium__ _n_ [[Wikiecho: myocardial viability]](http://www.wikiecho.org/wiki/Myocardial_Viability) Myocardium which due to ischaemia does not contract normally at rest but has the potential to recover its function, either by itself over time or after revascularisation. _The same part of the ventricular wall can have a mixture of necrotic tissue and viable myocardium._  
 __VT burden__ _n_ The number of sustained VT episodes or appropriate ICD interventions per year. _The reduction of VT burden was calculated as follows: 1–(no. of VT episodes in period post ablation/no. of VT episodes in same period pre-ablation)._  
 __VT/VF storm__ _n_ Generally defined as three or more episodes of VF or sustained VT within 24 hours.  
 __Wiggers diagram__ [[Wikipedia]](https://en.wikipedia.org/wiki/Wiggers_diagram)  
