@@ -12,6 +12,7 @@ __12 derivations__ _n_ A derivation is the process of getting something from som
 __ablate__ _v_ [:scroll: Latin ablātus, past participle of auferre _to carry away_ =ab- _ab-_ + lātus, past participle of ferre _to bear_] To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
 __adhesion__ _n_ [:scroll: From adhere, from French adhérer, from Latin adhaerēre, _to stick to_ : ad-, _ad-_ + haerēre, _to stick_] [[Wikipedia]](https://en.wikipedia.org/wiki/Adhesion_(medicine)) _Firm apical adherences did not allow to reach the isthmus in the second epicardial mapping._ _Pericardial adhesions._  
+__adipocyte__ _n_ /ˈædɪpəʊˌsaɪt/ A fat cell that accumulates and stores fats.  
 __akinesis__ _n_ (akinesia) [:scroll: Greek akinēsiā : a-, _without_; see a-1 + kīnēsis, _motion_] Motionlessness attributable to a temporary paralysis.  
 __alternans__ _n_ :mega: /awl-ter'nanz/ Alternation in the pattern of activity (such as that produced by the heartbeat).  
 __amyloid__ _n_ (pathology) A waxy translucent complex protein resembling starch that results from degeneration of tissue.  
@@ -79,6 +80,7 @@ __coronary stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_stent)
 __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, often leading to destruction of heart muscle.  
 __coronary vasospasm__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Coronary_vasospasm) [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_vasospasm)  
 __coronary__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
+__counterpulsation__ _n_ A means of assisting the failing heart by automatically removing arterial blood just before and during ventricular ejection and returning it to the circulation during diastole; a balloon catheter is inserted into the aorta and activated by an automatic mechanism triggered by the ECG.  
 __crista terminalis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Crista_terminalis)  
 __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.  
 __cutdown__ _n_ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
@@ -105,7 +107,7 @@ __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other f
 __endocarditis__ _n_ Inflammation of the endocardium.  
 __entrain__ _v_ To adjust (an internal rhythm of an organism) so that it synchronizes with an external cycle.  
 __entrainment pacing__ _n_  
-__etiology__ _n_ The cause or origin of a disease or disorder as determined by medical diagnosis.  
+__etiology__ _n_ (aetiology) [:scroll: [Late Latin aetiologia, from Greek aitiologiā: aitiā, cause + -logiā, -logy.] __1__ The branch of medicine that deals with the causes or origins of disease. __2__  The cause or origin of a disease or disorder as determined by medical diagnosis.  
 __Eustachian ridge__ _n_  
 __Fabry disease__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Fabry_disease)  
 __fenestration__ _n_ A surgical method of making a hole in or perforating something.  
