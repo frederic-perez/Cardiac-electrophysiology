@@ -22,6 +22,7 @@ __Ao__ Aorta
 __AP__ Action potential  
 __APD__ Action potential duration  
 __ARVC__ Arrhythmogenic right ventricular cardiomyopathy  
+__ARVD__ Arrhythmogenic right ventricular dysplasia  
 __ASCVD__ Atherosclerotic cardiovascular disease  
 __ASD__ Atrial septal defect (one of two kinds of holes in the heart, the other being a PFO)  
 __AT__ Atrial tachycardia  
@@ -274,6 +275,7 @@ __TTR__ Time in therapeutic range (anticoagulant control)
 __TV__ Tricuspid valve · _TV prolapse._  
 __TVP__ Transvenous pacing; transvenous pacemaker  
 __UNI__ Unipolar · _UNI endocardial voltage_  
+__VA__ Ventricular arrhythmia  
 __VEGF__ Vascular endothelial growth factor  
 __VF__, __VFib__ Ventricular fibrillation  
 __VHD__ Valvular heart disease  
