@@ -11,6 +11,7 @@ __ACM__ Arrhythmogenic cardiomyopathy [[Wikipedia]](https://en.wikipedia.org/wik
 __ADHF__ Acute decompensated heart failure [[Wikipedia]](https://en.wikipedia.org/wiki/Acute_decompensated_heart_failure)  
 __AE__ Adverse event  
 __AED__ Automated external defibrillator  
+__AEF__ Atrioesophageal fistula  
 __AF__, __AFib__ Atrial fibrillation  
 __AFL__ Atrial flutter [[Wikipedia]](https://en.wikipedia.org/wiki/Atrial_flutter)  
 __AHA__ American Heart Association  
@@ -21,6 +22,7 @@ __AMI__ Acute myocardial infarction
 __Ao__ Aorta  
 __AP__ Action potential  
 __APD__ Action potential duration  
+__ARDS__ Acute respiratory distress syndrome  
 __ARVC__ Arrhythmogenic right ventricular cardiomyopathy  
 __ARVD__ Arrhythmogenic right ventricular dysplasia  
 __ASCVD__ Atherosclerotic cardiovascular disease  
