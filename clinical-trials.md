@@ -4,6 +4,7 @@
 
   - [ALICIA](https://clinicaltrials.gov/ct2/show/NCT02698631) - Isolation of Pulmonary Veins With the Aid of Magnetic Resonance Imaging (🇪🇸)
   - [AWARE](https://clinicaltrials.gov/ct2/show/NCT02150902) - Augmented Wide Area Circumferential Catheter Ablation for Reduction of Atrial Fibrillation Recurrence (🇨🇦)
+  - [AWESOME-AF](https://clinicaltrials.gov/ct2/show/NCT04394923) - Relationship Between the Posterior Atrial Wall and the Esophagus: Esophageal Position and Temperature MEasurement During Atrial Fibrillation Ablation (🇪🇸)
   - [CASA-AF](https://clinicaltrials.gov/ct2/show/NCT02755688) - Catheter Ablation Versus Thoracoscopic Surgical Ablation in Long Standing Persistent Atrial Fibrillation (🇬🇧)
   - [CMR GUIDE DCM](https://clinicaltrials.gov/ct2/show/NCT03993730) - Cardiovascular Magnetic Resonance GUIDEd Insertion of Implantable Cardiac Defibrillator in Dilated CardioMyopathy (🇦🇺)
   - [DECAAF II](https://clinicaltrials.gov/ct2/show/NCT02529319) - Efficacy of Delayed Enhancement MRI-Guided Ablation vs Conventional Catheter Ablation of Atrial Fibrillation (🇺🇸)
