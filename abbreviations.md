@@ -2,6 +2,7 @@ __2D GRE__ 2D gradient echo sequence
 __2D SSFP__ 2D steady-state free precession sequence  
 __3D GRE__ 3D gradient echo sequences  
 __AA__ Ascending aorta  
+__AAA__ Abdominal aortic aneurysm  
 __AAD__ Anti-arrhythmic drugs  
 __ABI__ Ankle-brachial index  
 __ABL__ Ablation  
