@@ -115,7 +115,10 @@ __Gy__ Gray
 __HCM__ Hypertrophic cardiomyopathy  
 __HCP__ Healthcare professional  
 __HF__ Heart failure · _HF patients_  
+__HFimpEF__ Heart failure with improved ejection fraction  
+__HFmrEF__ Heart failure with mildly reduced ejection fraction  
 __HFpEF__ Heart failure with preserved ejection fraction  
+__HFrEF__ Heart failure with reduced ejection fraction  
 __HPSD__ High-powered short-duration (contact force), for ablation  
 __HTN__ Hypertension  
 __Hx__, __hx__ Medical history  
