@@ -275,6 +275,7 @@ __TIA__ Transient ischemic attack
 __TIC__ Tachycardia-induced cardiomyopathy  
 __TMVR__ Transcatheter mitral valve replacement  
 __TOE__ Transesophageal echocardiography  
+__TPV__ Transcatheter pulmonary valve  
 __TR__ Tricuspid regurgitation  
 __TTE__ Transthoracic echocardiography  
 __TTR__ Time in therapeutic range (anticoagulant control)  
