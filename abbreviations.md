@@ -203,6 +203,7 @@ __PCI__ Percutaneous coronary intervention (formerly known as angioplasty with s
 __PE__ Pulmonary embolism  
 __PFA__ Pulsed field ablation  
 __PFO__ Patent foramen ovale (one of two kinds of holes in the heart, the other being an ASD)  
+__PJRT__ Permanent junctional reciprocating tachycardia  
 __PM__ Pacemaker  
 __POAF__ Postoperative atrial fibrillation  
 __POTS__ Postural orthostatic tachycardia syndrome  
