@@ -10,6 +10,7 @@
   - [DECAAF II](https://clinicaltrials.gov/ct2/show/NCT02529319) - Efficacy of Delayed Enhancement MRI-Guided Ablation vs Conventional Catheter Ablation of Atrial Fibrillation (🇺🇸)
   - [DECAF](https://clinicaltrials.gov/ct2/show/NCT01751607) - Determining the Association of Chromosomal Variants With Non-PV Triggers and Ablation-outcome in AF (🇺🇸)
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/show/NCT02919618) ☢️ - Phase I/II Study of EP-guided Noninvasive Cardiac Radioablation for Treatment of Ventricular Tachycardia (🇺🇸) » [Circulation article](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038261)
+  - [ERASE-AF](https://clinicaltrials.gov/ct2/show/NCT02732626) - The Low Voltage Guided Ablation Trial of Persistent Atrial Fibrillation (🇦🇹🇩🇪🇵🇱)
   - [HCMR](https://clinicaltrials.gov/ct2/show/NCT01915615) - Novel Markers of Prognosis in Hypertrophic Cardiomyopathy (🇺🇸🇨🇦🇩🇪🇮🇹🇳🇱🇬🇧)
   - [IMMACULATE](https://clinicaltrials.gov/ct2/show/NCT02468349) - IMproving reModeling in Acute myoCardial Infarction Using Live and Asynchronous TElemedicine (🇸🇬)
   - [Left Ventricular Structural Predictors of Sudden Cardiac Death](https://clinicaltrials.gov/ct2/show/NCT01076660) (🇺🇸)
