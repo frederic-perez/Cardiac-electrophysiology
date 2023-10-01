@@ -2,6 +2,7 @@
 
 - Available at [ClinicalTrials.gov](https://clinicaltrials.gov):
 
+  - [ADVENT](https://clinicaltrials.gov/study/NCT04612244) - The FARAPULSE ADVENT PIVOTAL Trial PFA System vs SOC Ablation for Paroxysmal Atrial Fibrillation (🇺🇸)
   - [ALICIA](https://clinicaltrials.gov/ct2/show/NCT02698631) - Isolation of Pulmonary Veins With the Aid of Magnetic Resonance Imaging (🇪🇸)
   - [AWARE](https://clinicaltrials.gov/ct2/show/NCT02150902) - Augmented Wide Area Circumferential Catheter Ablation for Reduction of Atrial Fibrillation Recurrence (🇨🇦)
   - [AWESOME-AF](https://clinicaltrials.gov/ct2/show/NCT04394923) - Relationship Between the Posterior Atrial Wall and the Esophagus: Esophageal Position and Temperature MEasurement During Atrial Fibrillation Ablation (🇪🇸)
