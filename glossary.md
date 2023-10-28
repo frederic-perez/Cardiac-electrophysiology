@@ -149,6 +149,7 @@ __isoline__ _n_ A line on a map, chart, or graph connecting points of equal valu
 __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavities or parts of an organ. _Anatomical isthmuses related to VT which may allow for individualized tailored ablation.__ _Characteristics of isthmus include width, length, and conduction velocity index._ _Isthmus entrance._ _This might be the isthmus of the VT._ _A common isthmus but different exits._  
 __lacunar stroke__ _n_ (lacunar infarct) The most common type of stroke, and results from occlusion of small penetrating arteries that provide blood to the brain’s deep structures.  
 __late potential__ _n_ Deflections found on signal-averaged electrocardiograms that follow the QRS complex and point to an increased likelihood of ventricular dysrhythmias. These deflections represent delays in electrical conduction through the ventricles.  
+__late-breaking clinical trial__ A clinical trial that is initiated after the initial study protocol has been written, often in response to new information or developments that emerge during the study.  
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __macro-reentrant atrial tachycardia__ _n_  
