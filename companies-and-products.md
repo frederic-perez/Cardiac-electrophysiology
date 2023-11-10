@@ -7,6 +7,7 @@
 1. __Boston Scientific__ » __[RHYTHMIA HDx™](https://www.bostonscientific.com/en-US/medical-specialties/electrophysiology/cardiac-mapping-system.html)__ Cardiac Mapping System
 1. __Stereotaxis__ [LinkedIn](https://www.linkedin.com/company/stereotaxis) · [website](http://www.stereotaxis.com)
 1. __Philips__ » __[KODEX-EPD](https://www.usa.philips.com/healthcare/product/HC733015/kodex-epd-cardiac-imaging-and-mapping-system/)__ system (Note: _EPD Solutions developed the KODEX-EPD, a cardiac mapping and navigation system which utilizes electromagnetic technology to create real-time three-dimensional, high definition (3D-HD) images of a patient’s cardiac structures. [...] In June 2018, EPD Solutions was acquired by Royal Philips of the Netherlands, a member of the Hobart Group. The company’s Cardiac Mapping and Navigation System has received CE mark approval._)
+1. __Affera, a Medtronic company__ [LinkedIn](https://www.linkedin.com/company/affera/) · [website](https://affera.com/)
 1. __MicroPort® EP MedTech Co.__ [website](http://www.ep.microport.com) » Columbus
 
 ## Others
