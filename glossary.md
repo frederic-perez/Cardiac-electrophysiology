@@ -84,6 +84,7 @@ __counterpulsation__ _n_ A means of assisting the failing heart by automatically
 __crista terminalis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Crista_terminalis)  
 __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.  
 __cutdown__ _n_ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
+__de-identification__ _n_ The process of de-identification involves removing personally identifiable information (PII), such as name and social security number, as well as protected health information (PHI), like medical history and insurance information, when processing or sharing that data.  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.  
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
