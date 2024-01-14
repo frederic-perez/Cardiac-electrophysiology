@@ -151,6 +151,8 @@ __isthmus__ _n_ A relatively narrow passage or strip of tissue joining two cavit
 __lacunar stroke__ _n_ (lacunar infarct) The most common type of stroke, and results from occlusion of small penetrating arteries that provide blood to the brain’s deep structures.  
 __late potential__ _n_ Deflections found on signal-averaged electrocardiograms that follow the QRS complex and point to an increased likelihood of ventricular dysrhythmias. These deflections represent delays in electrical conduction through the ventricles.  
 __late-breaking clinical trial__ A clinical trial that is initiated after the initial study protocol has been written, often in response to new information or developments that emerge during the study.  
+__lead__ _n_ /lēd/ An electrocardiographic cable with connections within the electronics of the machine designated for an electrode placed at a particular point on the body surface.  
+__leadless__ _adj_ (see _lead) _Medtronic receives CE mark approval for next-generation leadless pacemakers._ _Medtronic is credited with inventing the wearable pacemaker in 1957 and then introducing the first MRI-compatible pacemakers to the market in 2011. The first leadless pacemakers followed in 2015._  
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __macro-reentrant atrial tachycardia__ _n_  
@@ -171,6 +173,7 @@ __oximetry__ _n_ A device for measuring the oxygen saturation of arterial blood,
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
 __pacemapping__ _n_ An electrophysiologic technique designed to help locating tachycardia sources by stimulating at different endocardial sites in order to reproduce the clinical tachycardia characteristics.  
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
+__paravalvular regurgitation__ A condition in which blood leaks around the edge of a heart valve, typically after the valve has been repaired or replaced.  
 __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease, usually recurring periodically.  
 __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal versus permanent AF._  
 __patency__ _n_ The state or quality of being open, expanded, or unblocked.  
