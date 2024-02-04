@@ -173,6 +173,7 @@ __oximetry__ _n_ A device for measuring the oxygen saturation of arterial blood,
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
 __pacemapping__ _n_ An electrophysiologic technique designed to help locating tachycardia sources by stimulating at different endocardial sites in order to reproduce the clinical tachycardia characteristics.  
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
+__paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __paravalvular regurgitation__ A condition in which blood leaks around the edge of a heart valve, typically after the valve has been repaired or replaced.  
 __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease, usually recurring periodically.  
 __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal versus permanent AF._  

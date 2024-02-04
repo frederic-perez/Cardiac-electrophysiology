@@ -10,6 +10,7 @@
   - [CMR GUIDE DCM](https://clinicaltrials.gov/ct2/show/NCT03993730) - Cardiovascular Magnetic Resonance GUIDEd Insertion of Implantable Cardiac Defibrillator in Dilated CardioMyopathy (🇦🇺)
   - [DECAAF II](https://clinicaltrials.gov/ct2/show/NCT02529319) - Efficacy of Delayed Enhancement MRI-Guided Ablation vs Conventional Catheter Ablation of Atrial Fibrillation (🇺🇸)
   - [DECAF](https://clinicaltrials.gov/ct2/show/NCT01751607) - Determining the Association of Chromosomal Variants With Non-PV Triggers and Ablation-outcome in AF (🇺🇸)
+  - [EASY AF](https://clinicaltrials.gov/study/NCT04659213) - Esophagus Deviation During Radiofrequency Ablation of Atrial Fibrillation (🇺🇸) » [JACC article](https://www.jacc.org/doi/10.1016/j.jacep.2023.09.004)
   - [ENCORE-VT](https://clinicaltrials.gov/ct2/show/NCT02919618) ☢️ - Phase I/II Study of EP-guided Noninvasive Cardiac Radioablation for Treatment of Ventricular Tachycardia (🇺🇸) » [Circulation article](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038261)
   - [ERASE-AF](https://clinicaltrials.gov/ct2/show/NCT02732626) - The Low Voltage Guided Ablation Trial of Persistent Atrial Fibrillation (🇦🇹🇩🇪🇵🇱)
   - [HCMR](https://clinicaltrials.gov/ct2/show/NCT01915615) - Novel Markers of Prognosis in Hypertrophic Cardiomyopathy (🇺🇸🇨🇦🇩🇪🇮🇹🇳🇱🇬🇧)
