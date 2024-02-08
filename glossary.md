@@ -61,6 +61,7 @@ __cardiac tamponade__ _n_ Mechanical compression of the heart resulting from lar
 __cardiogenic shock__ _n_ Shock caused by cardiac arrest.  
 __cardiomyopathy__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cardiomyopathy) A group of diseases that affect the heart muscle.  
 __cardioneural__ _adj_ Pertaining to the heart and nervous system.  
+__cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
 __cardiopoiesis__ _n_ The production of cardiac muscle tissue.  
 __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It’s also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that’s performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that’s performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
 __cath lab__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cath_lab)
