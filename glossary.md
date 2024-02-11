@@ -41,6 +41,7 @@ __bacteremia__ _n_ The presence of bacteria in the blood.
 __baffle__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Baffle_(medicine)) A surgically-created tunnel or wall within the heart or major blood vessels used to redirect the flow of blood.  
 __beta-blocker__ _n_ Any of a class of drugs (such as propranolol) that decrease the rate and force of heart contractions and lower high blood pressure by blocking the activity of beta-receptors.  
 __bigeminy__ _n_ The occurrence of premature atrial or ventricular heartbeats in pairs.  
+__bioprosthesis__ _n_ Any implanted device of natural (i.e., nonsynthetic) origin designed to replace a defective body part—e.g., a porcine heart valve.  
 __bipolar RF clamp__ _n_ _The bipolar radiofrequency clamp is arguably the surgeon’s best tool in developing long linear lesions on the heart without the need for cut and sew incisions._  
 __bipolar__ _adj_ Relating to or having two poles or charges.  
 __blood pool imaging__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreedictionary.com/blood+pool+imaging) _Syn_ Cardiac blood pool scan, ejection fraction study, gated cardiac scan, radionuclide ventriculogram, wall motion study, multigated blood pool imaging (MUGA)  
@@ -170,12 +171,13 @@ __myopericarditis__ _n_ A combination of myocarditis and pericarditis.
 __myositis__ _n_ Inflammation of muscle tissue.  
 __no reflow phenomenon__ _n_ (no-reflow phenomenon) Deficient reperfusion of previously ischemic tissue even though the lumen of the artery that irrigates the territory has been opened.  
 __noncompaction cardiomyopathy__ _n_ (non-compaction cardiomyopathy) [[Wikipedia]](https://en.wikipedia.org/wiki/Noncompaction_cardiomyopathy)  
+__noncontrast__ _adj_ Without the use of a contrast medium. _Noncontrast CT imaged._  
 __oximetry__ _n_ A device for measuring the oxygen saturation of arterial blood, especially a pulse oximeter.  
 __pacemaker__ _n_ __a__ A part of the body, such as the mass of muscle fibers of the sinoatrial node, that sets the pace or rhythm of physiological activity. __b__ Any of several usually miniaturized and surgically implanted electronic devices used to stimulate or regulate contractions of the heart muscle.  
 __pacemapping__ _n_ An electrophysiologic technique designed to help locating tachycardia sources by stimulating at different endocardial sites in order to reproduce the clinical tachycardia characteristics.  
 __palpitation__ _n_ A heartbeat that is unusually rapid, strong, or irregular enough to make a person aware of it, usually over 120 beats per minute, as opposed to the normal 60 to 100 per minute.  
-__paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __paravalvular regurgitation__ A condition in which blood leaks around the edge of a heart valve, typically after the valve has been repaired or replaced.  
+__paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __paroxysm__ _n_ A severe attack or a sudden increase in intensity of a disease, usually recurring periodically.  
 __paroxysmal__ _adj_ Accompanied by or of the nature of paroxysms. _Paroxysmal versus permanent AF._  
 __patency__ _n_ The state or quality of being open, expanded, or unblocked.  

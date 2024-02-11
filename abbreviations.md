@@ -26,6 +26,7 @@ __APD__ Action potential duration
 __ARDS__ Acute respiratory distress syndrome  
 __ARVC__ Arrhythmogenic right ventricular cardiomyopathy  
 __ARVD__ Arrhythmogenic right ventricular dysplasia  
+__AS__ Aortic stenosis.  
 __ASCVD__ Atherosclerotic cardiovascular disease  
 __ASD__ Atrial septal defect (one of two kinds of holes in the heart, the other being a PFO)  
 __AT__ Atrial tachycardia  
@@ -267,6 +268,7 @@ __STI__ Speckle tracking imaging
 __SUV__ Standardized uptake value  
 __SVC__ Superior vena cava  
 __SVT__ Supraventricular tachycardia  
+__TAH__ Total artificial heart.  
 __TAVI__ Transcatheter aortic valve implantation  
 __TAVR__ Transcatheter aortic valve replacement (compare with _SAVR_) [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
 __TdP__ Torsades de pointes · _TdP tachycardia_  
