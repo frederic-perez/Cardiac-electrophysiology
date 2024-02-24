@@ -92,6 +92,7 @@ __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
 __denervation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Denervation) _Pulmonary artery denervation._  
 __depolarization__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Depolarization#Heart)  
+__diastole__ _n_ /daɪˈæstəlɪ/ The dilatation of the chambers of the heart that follows each contraction, during which they refill with blood.  
 __diverticulum__ _n_ A pouch or sac branching out from a hollow organ or structure, such as the intestine. _Left atrial diverticulum._  
 __drug-eluting stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Drug-eluting_stent)  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
@@ -118,6 +119,7 @@ __fibrillation__ _n_ [[The Free Dictionary]](https://medical-dictionary.thefreed
 __fibroblast__ _n_ /ˈfaɪ brəˌblæst/ A cell that contributes to the formation of connective tissue fibers.  
 __fibrosis__ _n_ _Syn_ fibrotic scarring - A pathological wound healing in which connective tissue replaces normal parenchymal tissue to the extent that it goes unchecked, leading to considerable tissue remodelling and the formation of permanent scar tissue. _Cardiac fibrosis can be observed in a DE-CMR scan._ _However, in dilated cardiomyopathy, the synonymous use of the terms LGE and fibrosis is not recommended._ _LGE and fibrosis are not synonymous._  
 __first-in-class__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
+__first-in-humans study__ In clinical trials, the first Phase-1 study in which a test product is administered to human beings.  
 __fluoroshot__  
 __focal atrial tachycardia__ _n_  
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
@@ -143,6 +145,7 @@ __infective endocarditis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Infec
 __innervate__ _v_ __1__ To supply (an organ or a body part) with nerves. __2__ To stimulate (a nerve, muscle, or body part) to action.  
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: _an inotropic drug._  
 __interstitial__ _adj_ Relating to or situated in the small, narrow spaces between tissues or parts of an organ. _Myocardial interstitial space._  
+__interventional cardiology__ _n_ Branch of cardiology that deals specifically with the catheter based treatment of structural heart diseases.  
 __intramural__ _adj_ Within the walls of a cavity or hollow organ. _Having a subepicardial or deep intramural substrate._  
 __ischemia__ _n_ An insufficient supply of blood to an organ, usually due to a blocked artery.  
 __isochrone__ _n_ An isogram connecting points at which something occurs or arrives at the same time.  
@@ -224,6 +227,7 @@ __sinus rhythm__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sinus_rhythm)
 __sinus__ _n_ A recess, cavity, or channel, such as one in bone or a dilated channel for venous blood.  
 __specificity__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Sensitivity_and_specificity) The ability of a test to correctly identify people without the disease.  
 __ST elevation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/ST_elevation)  
+__standard of care__ A medical or psychological treatment guideline, and can be general or specific. It specifies appropriate treatment based on scientific evidence and collaboration between medical and/or psychological professionals involved in the treatment of a given condition.  
 __statin__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Statin) Any of a class of drugs, including atorvastatin and simvastatin, that lower the levels of low-density lipoproteins in the blood by inhibiting the activity of an enzyme involved in the production of cholesterol in the liver.  
 __steam pop__ _n_ Steam pop refers to the audible sound produced by intramyocardial explosion when tissue temperature reaches 100°C, leading to the production of gas. It is a potentially severe complication of radiofrequency ablation because it has been associated with cardiac perforation and ventricular septal defect.  
 __stress cardiomyopathy MRI__ _n_ (stress CMR) [[WikiDoc]](https://www.wikidoc.org/index.php/Stress_cardiomyopathy_MRI)  
@@ -256,6 +260,7 @@ __tunneled__ _adj_ Placed surgically beneath the skin or into deeper tissues, e.
 __unipolar__ _adj_ Having, acting by means of, or produced by a single magnetic or electric pole.  
 __unremarkable__ _adj_ Lacking distinction; ordinary.  
 __valvular regurgitation__ _n_ Backflow of blood through the orifice of one of the heart valves owing to imperfect closing of the valve.  
+__valvuloplasty__ _n_ Plastic surgery to repair a valve, especially a heart valve.  
 __vector__ _n_ A carrier, especially the animal (usually an arthropod) that transfers an infective agent from one host to another. _Chagas disease usually has a vector-borne transmission._  
 __vein of Marshall__ _n_ The oblique vein of the left atrium (oblique vein of Marshall) is a small vessel which descends obliquely on the back of the left atrium and ends in the coronary sinus near its left extremity.  
 __ventricular aneurysm__ _n_ Ventricular aneurysms are one of the many complications that may occur after a heart attack. The word aneurysm refers to a bulge or ‘pocketing’ of the wall or lining of a vessel commonly occurring in the blood vessels at the base of the septum, or within the aorta.  
