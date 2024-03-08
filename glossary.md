@@ -123,6 +123,7 @@ __first-in-humans study__ In clinical trials, the first Phase-1 study in which a
 __fluoroshot__  
 __focal atrial tachycardia__ _n_  
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
+__ganglionated plexi__ _n_ The term “ganglionated” refers to the presence of ganglia, which are clusters of nerve cell bodies. “Plexi” is a plural form of “plexus,” which means a network or interweaving of nerves or blood vessels. Together, “ganglionated plexi” refers to a network of nerve cells on the heart that are involved in regulating its function.  
 __granuloma__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Granuloma) _Noncaseating granulomas._  
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
 __hematopoiesis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Haematopoiesis)  
