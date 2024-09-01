@@ -292,6 +292,7 @@ __VHD__ Valvular heart disease
 __VKA__ Vitamin K antagonist  
 __VPB__ Ventricular premature beat  
 __VT__ Ventricular tachycardia  
+__VTE__ Venous thromboembolism  
 __WACA__ Wide area circumferential ablation  
 __WCD__ Wearable cardioverter defibrillator  
 __WOI__ Window of interest  
