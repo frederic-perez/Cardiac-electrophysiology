@@ -31,7 +31,7 @@ __ASCVD__ Atherosclerotic cardiovascular disease
 __ASD__ Atrial septal defect (one of two kinds of holes in the heart, the other being a PFO)  
 __AT__ Atrial tachycardia  
 __ATP__ Antitachycardia pacing  
-__AV__ Atrioventricular · _AV node_  
+__AV__ Atrioventricular · _AV node._  
 __AVB__ Atrioventricular block  
 __AVK__ Anti-vitamin K  
 __AVM__ Arteriovenous malformation  
@@ -39,7 +39,7 @@ __AVN__ Atrioventricular node
 __AVNRT__ Atrioventricular nodal reentrant tachycardia  
 __BB__ Bachman bundle  
 __BBB__ Bundle branch block  
-__BI__ Bipolar · _BI endocardial voltage_  
+__BI__ Bipolar · _BI endocardial voltage._  
 __BMD__ Becker muscular dystrophy [[Wikipedia]](https://en.wikipedia.org/wiki/Becker_muscular_dystrophy)  
 __BP__ Blood pressure  
 __BPV__ Blood pressure variability  
@@ -59,17 +59,17 @@ __CHD__ __1__ Congenital heart defect, also known as a congenital heart anomaly 
 __CHF__ Congestive heart failure  
 __CIED__ Cardiac implantable electronic device · _CIED leads._  
 __CKD__ Chronic kidney disease  
-__CL__ Cycle length · _CL alternans_  
+__CL__ Cycle length · _CL alternans._  
 __CMR__ Cardiac/Cardiovascular magnetic resonance  
 __COPD__ Chronic obstructive pulmonary disease  
 __CPVT__ Catecholaminergic polymorphic ventricular tachycardia  
 __CRM__ Cardiac rhythm management  
 __CRT__ Cardiac resynchronization therapy  
 __CS__ Coronary sinus  
-__CTI__ Cavo-tricuspid isthmus · _CTI line_ · _CTI block_  
+__CTI__ Cavo-tricuspid isthmus · _CTI line._ · _CTI block._  
 __CTO__ Chronic total occlusion: a complete or nearly complete blockage of one or more coronary arteries. The blockage, typically present for at least three months, is caused by a buildup of plaque within a coronary artery. When this happens, blood flow to the heart is compromised.  
 __CTP__ Computed tomography perfusion  
-__CV__ Cardiovascular · _CV stents_  
+__CV__ Cardiovascular · _CV stents._  
 __CVD__ Cardiovascular disease  
 __CVRF__ Cardiovascular risk factor  
 __DA__ Descending aorta  
@@ -86,7 +86,7 @@ __EAN__ Electroanatomic
 __ECG__ __1__ Electrocardiogram __2__ Electrocardiograph  
 __ECGI__ Electrocardiographic Imaging  
 __ECMO__ Extracorporeal membrane oxygenation · _ECMO rescue._  
-__ECV__ Extracellular volume · _ECV fraction; ECV map_  
+__ECV__ Extracellular volume · _ECV fraction; ECV map._  
 __ED__ End-diastole  
 __EDEL__ Endoscopically detected asymptomatic esophageal lesions  
 __EDV__ End-diastolic volume  
@@ -106,16 +106,17 @@ __F__ Female
 __FACC__ Fellow of the American College of Cardiologists  
 __FAM__ Fast anatomical map  
 __FAT__ Focal atrial tachycardia  
+__FDG__ Fluorodeoxyglucose · _FDG uptake._  
 __FEVAR__ Fenestrated endovascular aortic repair  
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
 __FOI__ Fusion-optimized intervals  
 __GA__ General anesthesia  
-__GP__ Ganglionated plexi · _GP ablation_  
+__GP__ Ganglionated plexi · _GP ablation._  
 __Gy__ Gray  
 __HCM__ Hypertrophic cardiomyopathy  
 __HCP__ Healthcare professional  
-__HF__ Heart failure · _HF patients_  
+__HF__ Heart failure · _HF patients._  
 __HFimpEF__ Heart failure with improved ejection fraction  
 __HFmrEF__ Heart failure with mildly reduced ejection fraction  
 __HFpEF__ Heart failure with preserved ejection fraction  
@@ -271,7 +272,7 @@ __SVT__ Supraventricular tachycardia
 __TAH__ Total artificial heart.  
 __TAVI__ Transcatheter aortic valve implantation  
 __TAVR__ Transcatheter aortic valve replacement (compare with _SAVR_) [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/transcatheter-aortic-valve-replacement/about/pac-20384698)  
-__TdP__ Torsades de pointes · _TdP tachycardia_  
+__TdP__ Torsades de pointes · _TdP tachycardia._  
 __TEE__ Transesophageal echocardiogram · Transesophageal echocardiography  
 __TEER__ Transcatheter edge-to-edge repair  
 __TIA__ Transient ischemic attack  
@@ -284,7 +285,7 @@ __TTE__ Transthoracic echocardiography
 __TTR__ Time in therapeutic range (anticoagulant control)  
 __TV__ Tricuspid valve · _TV prolapse._  
 __TVP__ Transvenous pacing; transvenous pacemaker  
-__UNI__ Unipolar · _UNI endocardial voltage_  
+__UNI__ Unipolar · _UNI endocardial voltage._  
 __VA__ Ventricular arrhythmia  
 __VEGF__ Vascular endothelial growth factor  
 __VF__, __VFib__ Ventricular fibrillation  

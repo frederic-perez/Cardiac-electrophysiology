@@ -11,6 +11,7 @@ __-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or 
 __12 derivations__ _n_ A derivation is the process of getting something from something else. The process of getting or collecting things or information. _A standard ECG uses 12 derivations to examine the heart’s electrical potentials from 12 different viewpoints._  
 __ablate__ _v_ [:scroll: Latin ablātus, past participle of auferre _to carry away_ =ab- _ab-_ + lātus, past participle of ferre _to bear_] To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
+__activation mapping__ _n_ The process of recording and displaying the timing and pattern of electrical activation as it spreads through the heart tissue during a cardiac cycle.  
 __adhesion__ _n_ [:scroll: From adhere, from French adhérer, from Latin adhaerēre, _to stick to_ : ad-, _ad-_ + haerēre, _to stick_] [[Wikipedia]](https://en.wikipedia.org/wiki/Adhesion_(medicine)) _Firm apical adherences did not allow to reach the isthmus in the second epicardial mapping._ _Pericardial adhesions._  
 __adipocyte__ _n_ /ˈædɪpəʊˌsaɪt/ A fat cell that accumulates and stores fats.  
 __akinesis__ _n_ (akinesia) [:scroll: Greek akinēsiā : a-, _without_; see a-1 + kīnēsis, _motion_] Motionlessness attributable to a temporary paralysis.  
@@ -92,6 +93,7 @@ __deflect__ _v_ To turn aside or cause to turn aside; bend or deviate.
 __deflectable__ _adj_ Able to be deflected. _Deflectable catheter._  
 __denervation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Denervation) _Pulmonary artery denervation._  
 __depolarization__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Depolarization#Heart)  
+__dextrocardia__ _n_ Abnormal condition where the heart is located toward the right side of the chest.  
 __diastole__ _n_ /daɪˈæstəlɪ/ The dilatation of the chambers of the heart that follows each contraction, during which they refill with blood.  
 __diverticulum__ _n_ A pouch or sac branching out from a hollow organ or structure, such as the intestine. _Left atrial diverticulum._  
 __drug-eluting stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Drug-eluting_stent)  
@@ -200,6 +202,7 @@ __polymorphic ventricular tachycardia__ _n_ A form of ventricular tachycardia in
 __PR interval__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/PR_interval)  
 __prolapse__ _n_ A condition in which organs fall down or slip out of place. It is used for organs protruding through the vagina, rectum, or for the misalignment of the valves of the heart. A spinal disc herniation is also sometimes called “disc prolapse.”  
 __pseudoaneurysm__ _n_ The preferred term for a false aneurysm in which the saccular dilation (“aneurysm”) does not involve all of the vessel wall layers.  
+__pulmonary artery denervation__ A novel therapeutic approach being explored for the treatment of pulmonary hypertension, particularly in cases where the condition is secondary to left heart disease. It involves the disruption or ablation of sympathetic nerve fibers around the pulmonary arteries. The procedure typically uses catheter-directed techniques, such as thermal ablation or ultrasonic energy, to target the sympathetic nerves in the pulmonary artery walls.  
 __pulmonary edema__ _n_ _Extensive LA radiofrequency ablation bears the risk of a severe pulmonary edema._  
 __pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulmonary vein isolation__ _n_ Another name for pulmonary vein ablation, a surgical procedure to treat atrial fibrillation.  
