@@ -8,3 +8,4 @@
   - [Electrical system of the heart | Circulatory system physiology](https://www.youtube.com/watch?v=7K2icszdxQc) | NCLEX-RN | Khan Academy 
   - [Conduction system of the heart](https://www.youtube.com/watch?v=TnFoJ7Hhi-M) (Medvizz)
   - [Cardiovascular Physiology playlist](https://www.youtube.com/playlist?list=PLTF9h-T1TcJhp-1zjtApt2lVbQ2JHkY7b), in the [Ninja Nerd Science channel](https://www.youtube.com/channel/UC6QYFutt9cluQ3uSM963_KQ).
+- [Structure of the Human Heart](https://www.youtube.com/watch?v=qmpd82mpVO4), by HL Learning

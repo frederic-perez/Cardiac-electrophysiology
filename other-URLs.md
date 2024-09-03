@@ -6,6 +6,7 @@
   - University of Minnesota’s [Atlas of Human Cardiac Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml)
   - [Dundee - 3D model Coronary arteries of the heart](https://anatomytool.org/content/dundee-3d-model-coronary-arteries-heart) by Hannah Newey, license: CC BY-NC-SA. Reference and inspiration from: [3D4medical](https://3d4medical.com/)
   - [Cardiac Anatomy for Electrophysiologist](https://cardiacanatomyatlas.com/) by Cabrera & Sánchez Quintana
+- [Conferences](https://conferenceindex.org/conferences/electrophysiology) 
 - Data
   - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
   - [2018 Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/data/)
