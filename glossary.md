@@ -58,6 +58,7 @@ __cardiac ablation__ _n_ [[WebMD]](https://www.webmd.com/heart-disease/atrial-fi
 __cardiac action potential__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cardiac_action_potential)  
 __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, mechanical, or both; may be purposely induced for therapeutic reasons. _Syn_ heart arrest  
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
+__cardiac electrical rotor__ _n_ A type of functional reentrant activity that sustains arrhythmias, particularly atrial fibrillation (AF). A rotor is characterized by consistent rotational activity around a central point, often referred to as a phase singularity. This activity generates spiral waves that propagate outward from the core. The core of the rotor is an area where all excitation states converge, creating a non-excitable region. This core is surrounded by a spiral wavefront and tail, with the wavefront representing the depolarized region and the tail representing the recovering cardiomyocytes.  
 __cardiac sarcoidosis__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/The_heart_in_sarcoidosis)  
 __cardiac tamponade__ _n_ Mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart’s normal range of motion,  
 __cardiogenic shock__ _n_ Shock caused by cardiac arrest.  
@@ -97,6 +98,7 @@ __dextrocardia__ _n_ Abnormal condition where the heart is located toward the ri
 __diastole__ _n_ /daɪˈæstəlɪ/ The dilatation of the chambers of the heart that follows each contraction, during which they refill with blood.  
 __diverticulum__ _n_ A pouch or sac branching out from a hollow organ or structure, such as the intestine. _Left atrial diverticulum._  
 __drug-eluting stent__ [[Wikipedia]](https://en.wikipedia.org/wiki/Drug-eluting_stent)  
+__duodecapolar catheter__ A type of diagnostic catheter used in electrophysiology procedures, particularly for mapping and recording electrical activity within the heart. Despite the name “duodecapolar,” which suggests 12 poles, these catheters typically have 20 electrodes, arranged in pairs to form 10 bipolar recording sites. The term “duodecapolar” is often misused; the correct term for a 20-pole catheter should be “icosapolar” or “eicosapolar.”  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells.  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
@@ -161,6 +163,7 @@ __late potential__ _n_ Deflections found on signal-averaged electrocardiograms t
 __late-breaking clinical trial__ A clinical trial that is initiated after the initial study protocol has been written, often in response to new information or developments that emerge during the study.  
 __lead__ _n_ /lēd/ An electrocardiographic cable with connections within the electronics of the machine designated for an electrode placed at a particular point on the body surface.  
 __leadless__ _adj_ (see _lead) _Medtronic receives CE mark approval for next-generation leadless pacemakers._ _Medtronic is credited with inventing the wearable pacemaker in 1957 and then introducing the first MRI-compatible pacemakers to the market in 2011. The first leadless pacemakers followed in 2015._  
+__left atrial remodeling__ _n_ (LA remodeling) Structural and functional changes that occur in the left atrium, often as a result of various cardiac conditions.  
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __macro-reentrant atrial tachycardia__ _n_  
@@ -221,6 +224,7 @@ __retrograde approach__ _n_ Two ways to reach the LV: in the _transseptal approa
 __retrograde conduction__ _n_ (VA conduction, ventriculoatrial conduction) The conduction backward phenomena in the heart, where the conduction comes from the ventricles or from the AV node into and through the atria.  
 __rotoblation__ _n_ (rotablation, rotoablation) Drilling through the core of a plaque obstructing a blood vessel to improve blood flow to the organ supplied by the vessel; rotational atherectomy.  
 __sarcoidosis__ _n_ A disease of unknown origin that is characterized by the formation of granulomatous lesions especially in the lungs and lymph nodes of the chest and trunk, and less often in the skin, eyes, and other organs, and that if untreated may lead to chronic illness and organ damage.  
+__scar dechanneling__ _n_ A technique used in the catheter ablation of ventricular tachycardia (VT) to target and eliminate conducting channels within scar tissue in the heart. It involves identifying and ablating the entrance sites of activation channels within the scar tissue. These channels are often associated with late potentials, which are abnormal electrical signals that can contribute to VT.  
 __secondary prevention of coronary artery disease__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Secondary_Prevention_of_Coronary_Artery_Disease)  
 __Seldinger technique__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Seldinger_technique) A medical procedure to obtain safe access to blood vessels and other hollow organs.  
 __Senning procedure__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Senning_procedure) An atrial switch heart operation performed to treat transposition of the great arteries.  
