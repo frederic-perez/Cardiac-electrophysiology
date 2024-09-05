@@ -11,6 +11,7 @@ __-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or 
 __12 derivations__ _n_ A derivation is the process of getting something from something else. The process of getting or collecting things or information. _A standard ECG uses 12 derivations to examine the heart’s electrical potentials from 12 different viewpoints._  
 __ablate__ _v_ [:scroll: Latin ablātus, past participle of auferre _to carry away_ =ab- _ab-_ + lātus, past participle of ferre _to bear_] To remove or destroy the function of (a body organ or tissue).  
 __ablation__ _n_ The act or process of ablating.  
+__accessory left atrial appendage__ _n_ A rare anatomical variation of the left atrium, characterized by an additional outpouching or appendage beyond the main left atrial appendage.  
 __activation mapping__ _n_ The process of recording and displaying the timing and pattern of electrical activation as it spreads through the heart tissue during a cardiac cycle.  
 __adhesion__ _n_ [:scroll: From adhere, from French adhérer, from Latin adhaerēre, _to stick to_ : ad-, _ad-_ + haerēre, _to stick_] [[Wikipedia]](https://en.wikipedia.org/wiki/Adhesion_(medicine)) _Firm apical adherences did not allow to reach the isthmus in the second epicardial mapping._ _Pericardial adhesions._  
 __adipocyte__ _n_ /ˈædɪpəʊˌsaɪt/ A fat cell that accumulates and stores fats.  
@@ -114,8 +115,9 @@ __electroporation__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Electroporat
 __embolism__ _n_ An obstruction in a blood vessel due to a blood clot or other foreign matter that gets stuck while traveling through the bloodstream. Cerebral embolism occurs when a blood clot from elsewhere in the circulatory system breaks free. If it becomes lodged in an artery supplying the brain, either in the brain or in the neck, it can cause a stroke. The most common cause of cerebral embolism is atrial fibrillation. In atrial fibrillation, the upper chambers (atria) of the heart beat weakly and rapidly, instead of slowly and steadily. Blood within the atria is not completely emptied. This stagnant blood may form clots within the atria, which can then break off and enter the circulation. Atrial fibrillation is a factor in about 15% of all strokes. The risk of a stroke from atrial fibrillation can be dramatically reduced with daily use of anticoagulant medication.  
 __endocarditis__ _n_ Inflammation of the endocardium.  
 __entrain__ _v_ To adjust (an internal rhythm of an organism) so that it synchronizes with an external cycle.  
+__entrainment mapping__ _n_ A technique used to diagnose and characterize reentrant cardiac arrhythmias. It involves the use of pacing maneuvers to interact with and analyze the behavior of reentrant arrhythmias. This technique helps clinicians to understand the mechanism, location, and characteristics of the reentrant circuit. During entrainment, a pacing stimulus is applied at a rate faster than the tachycardia cycle length. This pacing stimulus "entrains" the tachycardia, meaning it captures the arrhythmia circuit and forces it to follow the pacing rate. Once pacing is stopped, the post-pacing interval (PPI) is measured to determine the relationship between the pacing site and the reentrant circuit.  
 __entrainment pacing__ _n_  
-__etiology__ _n_ (aetiology) [:scroll: [Late Latin aetiologia, from Greek aitiologiā: aitiā, cause + -logiā, -logy.] __1__ The branch of medicine that deals with the causes or origins of disease. __2__  The cause or origin of a disease or disorder as determined by medical diagnosis.  
+__etiology__ _n_ (aetiology) [:scroll: [Late Latin aetiologia, from Greek aitiologiā: aitiā, cause + -logiā, -logy.] __1__ The branch of medicine that deals with the causes or origins of disease. __2__ The cause or origin of a disease or disorder as determined by medical diagnosis.  
 __Eustachian ridge__ _n_  
 __Fabry disease__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Fabry_disease)  
 __fenestration__ _n_ A surgical method of making a hole in or perforating something.  
@@ -126,6 +128,7 @@ __first-in-class__ _n_ Drugs that use a new and unique mechanism of action for t
 __first-in-humans study__ In clinical trials, the first Phase-1 study in which a test product is administered to human beings.  
 __fluoroshot__  
 __focal atrial tachycardia__ _n_  
+__fractional flow reserve__ _n_ (FFR) A diagnostic technique used during coronary catheterization to assess the hemodynamic significance of coronary artery stenoses. FFR is defined as the ratio of the maximum blood flow achievable in a stenotic coronary artery to the maximum blood flow achievable in the same coronary artery if it were normal. It is calculated as the ratio of the pressure distal to the stenosis to the pressure proximal to the stenosis, typically aortic pressure.  
 __French catheter scale__ _n_ (French scale, French gauge) [[Wikipedia]](https://en.wikipedia.org/wiki/French_catheter_scale) Commonly used to measure the size of a catheter. It is most often abbreviated as Fr, but can often be seen abbreviated as Fg, FR or F. The diameter of a round catheter in millimeters can be determined by dividing the French size by 3.  
 __ganglionated plexi__ _n_ The term “ganglionated” refers to the presence of ganglia, which are clusters of nerve cell bodies. “Plexi” is a plural form of “plexus,” which means a network or interweaving of nerves or blood vessels. Together, “ganglionated plexi” refers to a network of nerve cells on the heart that are involved in regulating its function.  
 __granuloma__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Granuloma) _Noncaseating granulomas._  
@@ -167,6 +170,7 @@ __left atrial remodeling__ _n_ (LA remodeling) Structural and functional changes
 __left main disease__ A severe narrowing of the left main coronary artery (LMCA) jeopardizes a large area of myocardium and increases the risk of major adverse cardiac events.  
 __left ventricular assist device__ An implanted device that boosts the output of the heart on a short-term basis, for example in people awaiting heart transplants.  
 __macro-reentrant atrial tachycardia__ _n_  
+__mechanically induced VT__ A type of ventricular tachycardia that arises from changes in the heart's mechanical environment, often due to structural remodeling or acute mechanical stimuli, which can trigger and sustain arrhythmias through mechano-electric coupling.  
 __mesenchyme__ _n_ /ˈmɛs ɛŋ kaɪm, ˈmɛz-/ Cells of mesodermal origin that are capable of developing into connective tissues, blood, and lymphatic and blood vessels. _Mesenchymal origin._  
 __metaplasia__ _n_ The transformation of one kind of tissue into a different kind.  
 __mitral annulus__ _n_ A fibrous ring that is attached to the mitral valve leaflets.  
@@ -281,6 +285,7 @@ __ventriculogram__ _n_ An image of the cardiac ventricles, used to estimate ejec
 __viable myocardium__ _n_ [[Wikiecho: myocardial viability]](http://www.wikiecho.org/wiki/Myocardial_Viability) Myocardium which due to ischaemia does not contract normally at rest but has the potential to recover its function, either by itself over time or after revascularisation. _The same part of the ventricular wall can have a mixture of necrotic tissue and viable myocardium._  
 __VT burden__ _n_ The number of sustained VT episodes or appropriate ICD interventions per year. _The reduction of VT burden was calculated as follows: 1–(no. of VT episodes in period post ablation/no. of VT episodes in same period pre-ablation)._  
 __VT/VF storm__ _n_ Generally defined as three or more episodes of VF or sustained VT within 24 hours.  
+__Wenckebach block _n___ (AKA Mobitz type I second-degree atrioventricular (AV) block) A specific type of conduction disorder affecting the heart's electrical system, where the electrical signals from the atria to the ventricles are progressively delayed until one signal is completely blocked, resulting in a skipped beat.  
 __Wiggers diagram__ [[Wikipedia]](https://en.wikipedia.org/wiki/Wiggers_diagram)  
 __Wolff-Parkinson-White syndrome__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome)  
 __workup__ _n_ A thorough medical diagnostic examination including laboratory tests and x-rays.  
