@@ -10,7 +10,6 @@ Information gathered on the topic (sorted alphabetically):
 - [Companies and products (navigation systems and others)](companies-and-products.md)
 - [Hashtags](hashtags.md)
 - [Other organizations](other-organizations.md)
-- [Pundits](pundits.md)
 - Terminology
   - [Abbreviations](abbreviations.md)
   - [Glossary](glossary.md)
