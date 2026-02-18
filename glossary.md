@@ -61,20 +61,22 @@ __cardiac arrest__ _n_ Complete cessation of cardiac activity either electric, m
 __cardiac catheterization__ _n_ (heart cath) The insertion of a catheter into a chamber or vessel of the heart.  
 __cardiac electrical rotor__ _n_ A type of functional reentrant activity that sustains arrhythmias, particularly atrial fibrillation (AF). A rotor is characterized by consistent rotational activity around a central point, often referred to as a phase singularity. This activity generates spiral waves that propagate outward from the core. The core of the rotor is an area where all excitation states converge, creating a non-excitable region. This core is surrounded by a spiral wavefront and tail, with the wavefront representing the depolarized region and the tail representing the recovering cardiomyocytes.  
 __cardiac sarcoidosis__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/The_heart_in_sarcoidosis)  
-__cardiac tamponade__ _n_ Mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart’s normal range of motion,  
+__cardiac tamponade__ _n_ Mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart’s normal range of motion.  
 __cardiogenic shock__ _n_ Shock caused by cardiac arrest.  
 __cardiomyopathy__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cardiomyopathy) A group of diseases that affect the heart muscle.  
 __cardioneural__ _adj_ Pertaining to the heart and nervous system.  
 __cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
 __cardiopoiesis__ _n_ The production of cardiac muscle tissue.  
 __cardioversion__ _n_ [[Mayo Clinic]](https://www.mayoclinic.org/tests-procedures/cardioversion/about/pac-20385123) A medical procedure that restores a normal heart rhythm in people with certain types of abnormal heartbeats (arrhythmias). Cardioversion is usually done by sending electric shocks to your heart through electrodes placed on your chest. It’s also possible to do cardioversion with medications. Cardioversion is usually a scheduled procedure that’s performed in a hospital. [...] Cardioversion is different from defibrillation, an emergency procedure that’s performed when your heart stops or quivers uselessly. Defibrillation delivers more powerful shocks to the heart to correct its rhythm.  
-__cath lab__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cath_lab)
+__cath lab__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Cath_lab)  
 __catheter ablation__ _n_ (vs thoracoscopic surgical ablation) [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter_ablation)  
 __catheter__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Catheter)  
+__caudal__ _adj_ __1__ Pertaining to a cauda. __2__ Situated more toward the cauda, or tail, than some specified reference point; away from the head.  
 __cavo-tricuspid isthmus__ _n_ A body of fibrous tissue in the lower right atrium between the inferior vena cava, and the tricuspid valve. It is a target for ablation for treating atrial flutter.  
 __CHA<sub>2</sub>DS<sub>2</sub>–VASc score__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/CHA2DS2%E2%80%93VASc_score)  
 __Chiari network__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Chiari_network)  
 __circumflex__ _adj_ (of certain nerves, arteries, or veins) Bending or curving around.  
+__circus movement__ _n_ A contraction or excitation wave traveling continuously in circular fashion around a ring of muscle or through the wall of the heart. Aberrant electrical impulses that flow through the cardiac conduction system, which form the basis for some—if not all—supraventricular tachycardia.  
 __coarctation__ _n_ A narrowing or constricting, especially of the aorta or of a blood vessel.  
 __commissure__ _n_ The point or surface where two parts, such as the eyelids, lips, or cardiac valves, join or form a connection.  
 __coronary artery bypass graft (CABG, pronounced “cabbage”) surgery__ [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)  
@@ -86,6 +88,7 @@ __coronary thrombosis__ _n_ Obstruction of a coronary artery by a thrombus, ofte
 __coronary vasospasm__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Coronary_vasospasm) [[Wikipedia]](https://en.wikipedia.org/wiki/Coronary_vasospasm)  
 __coronary__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
 __counterpulsation__ _n_ A means of assisting the failing heart by automatically removing arterial blood just before and during ventricular ejection and returning it to the circulation during diastole; a balloon catheter is inserted into the aorta and activated by an automatic mechanism triggered by the ECG.  
+__cranial__ _adj_ Pertaining to the cranium or to the head end of the body; in humans, a synonym of superior.  
 __crista terminalis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Crista_terminalis)  
 __cryoablation__ _n_ A process that uses extreme cold to destroy tissue.  
 __cutdown__ _n_ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
@@ -134,6 +137,9 @@ __ganglionated plexi__ _n_ The term “ganglionated” refers to the presence of
 __granuloma__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Granuloma) _Noncaseating granulomas._  
 __heart__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Heart)  
 __hematopoiesis__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Haematopoiesis)  
+__hemo-__ _pref_ (hema-, haemo-) a combining form meaning “blood”: _hemocyte._  
+__hemodynamics__ _n_ (used with a sing. verb) The study of the forces involved in the circulation of blood.  
+__hemoptysis__ _n_ /hɪˈmɒp tə sɪs/ The expectoration of blood or of blood-streaked sputum from the larynx, trachea, bronchi, or lungs.  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hibernating myocardium__ _n_ [[WikiDoc]](https://www.wikidoc.org/index.php/Hibernating_myocardium) Regional dysfunction of myocardial tissue due to prolonged local hypoperfusion, which is completely reversible upon restoration of adequate blood flow; hibernation occurs in pts with CAD and impairment of left ventricular function at rest.  
 __Holter monitor__ _n_ [[Wikipedia]](https://en.wikipedia.org/wiki/Holter_monitor)  

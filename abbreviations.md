@@ -37,6 +37,7 @@ __AVK__ Anti-vitamin K
 __AVM__ Arteriovenous malformation  
 __AVN__ Atrioventricular node  
 __AVNRT__ Atrioventricular nodal reentrant tachycardia  
+__AVR__ Aortic valve replacement (see _SAVR_ and _TAVR_)  
 __BB__ Bachman bundle  
 __BBB__ Bundle branch block  
 __BI__ Bipolar · _BI endocardial voltage._  
@@ -110,6 +111,7 @@ __FDG__ Fluorodeoxyglucose · _FDG uptake._
 __FEVAR__ Fenestrated endovascular aortic repair  
 __FFR__ Fractional flow reserve  
 __FHRS__ Fellow of the Heart Rhythm Society (Washington, DC)  
+__FO__ Fossa ovalis  
 __FOI__ Fusion-optimized intervals  
 __GA__ General anesthesia  
 __GP__ Ganglionated plexi · _GP ablation._  
@@ -124,6 +126,7 @@ __HFrEF__ Heart failure with reduced ejection fraction
 __HPSD__ High-powered short-duration (contact force), for ablation  
 __HTN__ Hypertension  
 __Hx__, __hx__ Medical history  
+__IAS__ Interatrial septum  
 __ICD__ Implantable cardioverter-defibrillator [[Wikipedia]](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)  
 __ICE__ Intracardiac echocardiography  
 __ICEG__ Intracardiac electrogram  
@@ -132,8 +135,10 @@ __ICU__ Intensive care unit
 __IHD__ Ischaemic heart disease  
 __ILAM__ Isochronal late activation map  
 __ILR__ Implantable loop recorder  
+__IMA__ Internal mammary artery. _Syn_ Internal thoracic artery (ITA)  
 __IPSC__ Induced pluripotent stem cell  
 __IR__ Interventional radiology/radiologist  
+__ITA__ Internal thoracic artery. _Syn_ Internal mammary artery (IMA)  
 __IVC__ Inferior vena cava  
 __IVL__ Intravascular lithotripsy  
 __J&J__ Johnson & Johnson  
@@ -281,6 +286,7 @@ __TMVR__ Transcatheter mitral valve replacement
 __TOE__ Transesophageal echocardiography  
 __TPV__ Transcatheter pulmonary valve  
 __TR__ Tricuspid regurgitation  
+__TSP__ Transseptal puncture  
 __TTE__ Transthoracic echocardiography  
 __TTR__ Time in therapeutic range (anticoagulant control)  
 __TV__ Tricuspid valve · _TV prolapse._  

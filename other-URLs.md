@@ -1,11 +1,28 @@
 - Atrial fibrilation (AFib)
   - [AF Ablation Update 2019](https://www.drjohnm.org/2019/02/af-ablation-update-2019) by Dr John Mandrola
   - [Get smart about AFib](https://www.getsmartaboutafib.com/), by Biosense Webster, Inc.
-- Cardiac anatomy
+- Cardiac anatomy🫀
+  - ANATOMY**TOOL**’s [Heart - Collection Page](https://anatomytool.org/content/heart-collection-page)
+    - [Dundee - 3D model Coronary arteries of the heart](https://anatomytool.org/content/dundee-3d-model-coronary-arteries-heart) by Hannah Newey, license: CC BY-NC-SA. Reference and inspiration from: [3D4medical](https://3d4medical.com/)
+  - Article: [High-resolution 3D visualization of human hearts with emphases on the cardiac conduction system components—a new platform for medical education, mix/virtual reality, computational simulation](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1507005/full), by Chen _et al._ _Frontiers in Medicine_, Volume 12, 2025
+  - Cleveland Clinic’s
+    - [Heart](https://my.clevelandclinic.org/health/body/21704-heart)
+    - [Right Atrial Appendage](https://my.clevelandclinic.org/health/body/right-atrial-appendage) (RAA)
+  - [GetBodySmart’s Heart Anatomy](https://www.getbodysmart.com/heart-anatomy/)
+  - [IMAIOS e-anatomy](https://www.imaios.com/en/e-anatomy)’s [Heart](https://www.imaios.com/en/e-anatomy/thorax/heart) and [Cardiovascular System](https://www.imaios.com/en/e-anatomy/anatomical-structures/cardiovascular-system-1541222972#)
   - Innerbody Research’s [“The Heart”](https://www.innerbody.com/image/card01.html)
+  - LibreTexts
+    - [Cardiovascular System - Heart](https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Human_Anatomy_(Lange_et_al.)/17%3A_Cardiovascular_System_-_Heart)
+      - [Heart Anatomy](https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Human_Anatomy_(Lange_et_al.)/17%3A_Cardiovascular_System_-_Heart/17.02%3A_Heart_Anatomy)
+  - [_Pasión por la Anatomía_](https://linktr.ee/PasionAnatomia) including nice YouTube videos of the heart
+  - Sketchfab’s cardiac [models](https://sketchfab.com/search?q=cardiac&type=models) and [collections](https://sketchfab.com/search?q=cardiac&type=collections)
+  - Toronto’s Perioperative Interactive Education (PIE): [Cardiac Valves](https://pie.med.utoronto.ca/PIE/PIE_whatWeDo_valves.html)
   - University of Minnesota’s [Atlas of Human Cardiac Anatomy](http://www.vhlab.umn.edu/atlas/index.shtml)
-  - [Dundee - 3D model Coronary arteries of the heart](https://anatomytool.org/content/dundee-3d-model-coronary-arteries-heart) by Hannah Newey, license: CC BY-NC-SA. Reference and inspiration from: [3D4medical](https://3d4medical.com/)
-  - [Cardiac Anatomy for Electrophysiologist](https://cardiacanatomyatlas.com/) by Cabrera & Sánchez Quintana
+  - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+    - [cardiac anatomy images](https://commons.wikimedia.org/w/index.php?search=cardiac+anatomy&title=Special%3AMediaSearch&type=image)
+      - Example: [Chordae tendineae of left atrioventricular valve](https://upload.wikimedia.org/wikipedia/commons/5/52/Chordae_tendineae_of_left_atrioventricular_valve.png)
+  - Wikiversity’s [Medical gallery of Blausen Medical 2014 » Cardiac_anatomy](https://en.wikiversity.org/wiki/WikiJournal_of_Medicine/Medical_gallery_of_Blausen_Medical_2014#Cardiac_anatomy)
+  - [Cardiac Anatomy for Electrophysiologist](https://cardiacanatomyatlas.com/) by José Ángel Cabrera and Damián Sánchez-Quintana
 - [Conferences](https://conferenceindex.org/conferences/electrophysiology) 
 - Data
   - [2013 Left Atrial Segmentation Challenge](https://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
@@ -22,6 +39,8 @@
   - [GitHub repos on electrophysiology](https://github.com/topics/electrophysiology)
   - [The Student Physiologist](https://thephysiologist.org/) (Online Cardiology Resource)
   - [Tutorials at cvphysiology.com](https://www.cvphysiology.com/Tutorials/tutorials)
+- Flashcards
+  - [Cardiac Skeleton](https://quizlet.com/722735126/cardiac-skeleton-flash-cards/)
 - MRI
   - [Cardiac MRI tutorial](http://www.vhlab.umn.edu/atlas/cardiac-mri-tutorial/index.shtml)
   - [Magnetic Resonance - Technology Information Portal](https://www.mr-tip.com/)
